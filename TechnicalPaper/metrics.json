@@ -1,0 +1,31 @@
+{
+  "snapshot_date": "2026-05-25",
+  "n_cards": 32271,
+  "n_measured_spread": 17085,
+  "median_measured_spread_pct": 86.8,
+  "corroboration_corr": 0.443,
+  "buckets": {
+    "Illiquid": {
+      "n": 2573,
+      "median_spread_pct": 97.1
+    },
+    "Slow": {
+      "n": 15805,
+      "median_spread_pct": 94.3
+    },
+    "Liquid": {
+      "n": 10816,
+      "median_spread_pct": 74.9
+    },
+    "Highly liquid": {
+      "n": 3077,
+      "median_spread_pct": 49.9
+    }
+  },
+  "weights": {
+    "spread": 0.4,
+    "depth": 0.25,
+    "activity": 0.2,
+    "demand": 0.15
+  }
+}
