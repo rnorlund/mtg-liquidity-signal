@@ -3,9 +3,9 @@
 Immutable dated snapshot of the Current Liquidity predictions. SHA-256 hashes let anyone
 verify later that this snapshot was not quietly rewritten.
 
-Snapshot date: 2026-05-31
+## Snapshot date: 2026-05-31
 
 ```
-11568f99e572a079df8d44f381debd5e458c67f0a17db25c856018b25fc03c66  2026-05-31_predictions.csv
-13862433845c327bb6ebb9a08bcf3ce4d5fe19c4ef9c660de0fccc55d67963f3  2026-05-31_predictions.json
+2b7520a2366a061d7e6d998b96c7c9ee984817aac31a278b1e9bbea091eb63f7  2026-05-31_predictions.csv
+edd46851e487fe7652650e0382f022c93331a8102a64426bed6c7b94105d95bf  2026-05-31_predictions.json
 ```
