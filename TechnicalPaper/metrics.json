@@ -6,19 +6,19 @@
   "corroboration_corr": 0.466,
   "buckets": {
     "Illiquid": {
-      "n": 2654,
+      "n": 2660,
       "median_spread_pct": 97.1
     },
     "Slow": {
-      "n": 15541,
+      "n": 15503,
       "median_spread_pct": 94.9
     },
     "Liquid": {
-      "n": 10769,
+      "n": 10800,
       "median_spread_pct": 79.8
     },
     "Highly liquid": {
-      "n": 3315,
+      "n": 3316,
       "median_spread_pct": 49.9
     }
   },
