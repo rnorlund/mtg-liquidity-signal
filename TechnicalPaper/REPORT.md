@@ -1,6 +1,6 @@
 # mtg-liquidity-signal: the Current Liquidity index
 
-**Snapshot 2026-08-23. By Cameraderie Cards. Informational only, not financial advice.**
+**Snapshot 2026-08-24. By Cameraderie Cards. Informational only, not financial advice.**
 
 Every existing model in this toolkit tells you *direction*: will a card rise (buy), has it peaked
 (sell), is it about to be reprinted (brace). None of them tells you whether you can actually
@@ -25,9 +25,9 @@ wanted. The weights lean on the spread because that is the cost an owner actuall
 
 ## Coverage
 
-Scored **32,346 cards** at this snapshot. **18,476** of them have a
+Scored **32,353 cards** at this snapshot. **18,590** of them have a
 real dealer bid (CardKingdom buylist), so their spread is **measured**, not estimated; the median
-measured spread is **86.4%**. Cards without a dealer bid are flagged
+measured spread is **86.8%**. Cards without a dealer bid are flagged
 `is_imputed` and scored from depth, activity, and demand only.
 
 ![Distribution](figures/fig1_distribution.png)
@@ -62,10 +62,10 @@ price, and they list in only one or two places.
 
 | Bucket | Score | Cards | Median measured spread |
 |---|---|---|---|
-| Highly liquid | 75-100 | 3,362 | 49.9% |
-| Liquid | 50-75 | 10,944 | 74.9% |
-| Slow | 25-50 | 15,453 | 94.9% |
-| Illiquid | 0-25 | 2,587 | 97.1% |
+| Highly liquid | 75-100 | 3,395 | 49.9% |
+| Liquid | 50-75 | 10,894 | 74.9% |
+| Slow | 25-50 | 15,464 | 94.9% |
+| Illiquid | 0-25 | 2,600 | 97.1% |
 
 ## How this plugs into the other signals
 
