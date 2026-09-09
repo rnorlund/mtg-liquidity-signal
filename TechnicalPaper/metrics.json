@@ -1,24 +1,24 @@
 {
-  "snapshot_date": "2026-09-08",
-  "n_cards": 32365,
-  "n_measured_spread": 18543,
+  "snapshot_date": "2026-09-09",
+  "n_cards": 32364,
+  "n_measured_spread": 18488,
   "median_measured_spread_pct": 87.0,
-  "corroboration_corr": 0.465,
+  "corroboration_corr": 0.463,
   "buckets": {
     "Illiquid": {
-      "n": 2325,
+      "n": 2326,
       "median_spread_pct": 97.1
     },
     "Slow": {
-      "n": 15854,
+      "n": 15825,
       "median_spread_pct": 97.1
     },
     "Liquid": {
-      "n": 10851,
-      "median_spread_pct": 78.5
+      "n": 10873,
+      "median_spread_pct": 74.9
     },
     "Highly liquid": {
-      "n": 3335,
+      "n": 3340,
       "median_spread_pct": 49.9
     }
   },
