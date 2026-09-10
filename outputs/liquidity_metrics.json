@@ -3,22 +3,22 @@
   "n_cards": 32364,
   "n_measured_spread": 18488,
   "median_measured_spread_pct": 87.0,
-  "corroboration_corr": 0.463,
+  "corroboration_corr": 0.462,
   "buckets": {
     "Illiquid": {
-      "n": 2326,
+      "n": 2303,
       "median_spread_pct": 97.1
     },
     "Slow": {
-      "n": 15825,
+      "n": 15856,
       "median_spread_pct": 97.1
     },
     "Liquid": {
-      "n": 10873,
+      "n": 10860,
       "median_spread_pct": 74.9
     },
     "Highly liquid": {
-      "n": 3340,
+      "n": 3345,
       "median_spread_pct": 49.9
     }
   },
