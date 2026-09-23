@@ -44,7 +44,7 @@ check rather than a clean test.
 
 **2. Independent proxies predict the spread (the real test).** If we rank cards using *only* depth,
 activity, and demand and deliberately **exclude the spread**, the measured spread still falls
-steadily as that spread-free score rises (rank correlation **0.35**). The
+steadily as that spread-free score rises (rank correlation **0.28**). The
 proxies that never saw the spread agree with the spread. That is genuine corroboration, not
 circular reasoning.
 
@@ -62,9 +62,9 @@ price, and they list in only one or two places.
 
 | Bucket | Score | Cards | Median measured spread |
 |---|---|---|---|
-| Highly liquid | 75-100 | 3,385 | 49.9% |
-| Liquid | 50-75 | 10,634 | 79.9% |
-| Slow | 25-50 | 17,816 | 97.1% |
+| Highly liquid | 75-100 | 3,558 | 49.9% |
+| Liquid | 50-75 | 9,455 | 79.9% |
+| Slow | 25-50 | 18,822 | 97.1% |
 | Illiquid | 0-25 | 520 | 97.1% |
 
 ## How this plugs into the other signals
