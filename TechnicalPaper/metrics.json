@@ -10,15 +10,15 @@
       "median_spread_pct": 97.1
     },
     "Slow": {
-      "n": 20766,
+      "n": 20767,
       "median_spread_pct": 97.1
     },
     "Liquid": {
-      "n": 7324,
+      "n": 7319,
       "median_spread_pct": 80.0
     },
     "Highly liquid": {
-      "n": 3742,
+      "n": 3746,
       "median_spread_pct": 49.9
     }
   },
