@@ -62,8 +62,8 @@ price, and they list in only one or two places.
 
 | Bucket | Score | Cards | Median measured spread |
 |---|---|---|---|
-| Highly liquid | 75-100 | 3,767 | 50.0% |
-| Liquid | 50-75 | 7,326 | 80.0% |
+| Highly liquid | 75-100 | 3,769 | 50.0% |
+| Liquid | 50-75 | 7,324 | 80.0% |
 | Slow | 25-50 | 20,737 | 97.1% |
 | Illiquid | 0-25 | 470 | 97.1% |
 
