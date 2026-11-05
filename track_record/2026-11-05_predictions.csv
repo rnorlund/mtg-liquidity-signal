@@ -511,128 +511,128 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 510,c13079d5-6749-43e5-a8ee-ef3af31ff679,Blast-Furnace Hellkite,4.95,87.6864,Highly liquid,0.4299,4,True,0.2438,,,,0.0,96.2113,74.0467,,,False,2026-11-03
 511,df9ec9b0-be22-4136-923b-11a71ca4b6c2,Shield Sphere,8.495,87.6825,Highly liquid,0.3924,4,True,0.4194,,,,0.0,98.8303,69.846,,,False,2026-11-03
 512,cae3ec72-436d-4086-9dcb-17b3d92ad5c4,"Valgavoth, Terror Eater",22.06,87.6824,Highly liquid,0.4241,4,True,0.3184,,,,0.0,96.8789,72.9679,,,False,2026-11-03
-513,55c71732-6ba1-401d-8759-4d64dae22133,Declaration of Naught,9.445,87.678,Highly liquid,0.4177,4,True,0.401,0.75,4.0,,0.0,97.2914,70.5417,89.8717,,False,2026-11-03
-514,108ae90a-50fa-4cfd-b751-d630e41425fe,Wrenn and Six,13.41,87.678,Highly liquid,0.433,4,True,0.2151,,,,0.0,95.986,74.3853,,,False,2026-11-03
-515,53f7c868-b03e-4fc2-8dcf-a75bbfa3272b,Dark Ritual,5.175,87.6586,Highly liquid,0.4171,4,True,0.3532,,,,0.0,97.4298,72.0247,,,False,2026-11-03
-516,9da65d66-71f0-4e17-a1f9-6da6cd1cfa8a,Scalelord Reckoner,6.13,87.6586,Highly liquid,0.4299,4,True,0.2496,,,,0.0,96.2113,73.9743,,,False,2026-11-03
-517,b9be5ce9-08bb-4361-940c-9031e429ba86,"Akroma, Vision of Ixidor",10.635,87.6583,Highly liquid,0.433,4,True,0.2201,,,,0.0,95.986,74.3339,,,False,2026-11-03
-518,0c4e64d1-cdcf-4e96-8bf4-ed1414f6ad62,Counterintelligence,8.37,87.651,Highly liquid,0.4177,4,True,0.3471,,,,0.0,97.2914,72.2264,,,False,2026-11-03
-519,b304ac72-7f40-40de-b8d6-6392909b6029,Guide of Souls,4.565,87.6493,Highly liquid,0.4299,4,True,0.2515,,,,0.0,96.2113,73.9501,,,False,2026-11-03
-520,df8e0d1b-b47c-4807-9c9b-84dcec835254,Colossal Grave-Reaver,11.925,87.6468,Highly liquid,0.4371,4,True,0.1865,,,,0.0,95.7689,74.6514,,,False,2026-11-03
-521,e8521fdf-0896-4747-8c66-ea3bb69eb876,Gabriel Angelfire,13.455,87.6437,Highly liquid,0.4226,4,True,0.3292,,,,0.0,96.9875,72.6937,,,False,2026-11-03
-522,1202725c-170b-42d7-9f82-a431a987f30e,"Jaws, Relentless Predator",164.69,87.6391,Highly liquid,0.4375,4,True,0.1469,,,,0.0,95.5925,74.9138,,,False,2026-11-03
-523,fd751ed4-4002-4cae-9d1d-1fe0f1fd4965,"Avatar Kyoshi, Earthbender",18.69,87.6385,Highly liquid,0.4373,4,True,0.1688,,,,0.0,95.6739,74.782,,,False,2026-11-03
-524,f8c2a972-e38f-47e5-a355-6f30ad09b1ae,"Losheel, Clockwork Scholar",4.7,87.6362,Highly liquid,0.4299,4,True,0.2544,,,,0.0,96.2113,73.9161,,,False,2026-11-03
-525,00625242-9348-4ef4-b975-f2ac82fee21d,Savai Triome,18.085,87.6274,Highly liquid,0.4373,4,True,0.1723,,,,0.0,95.6739,74.7529,,,False,2026-11-03
-526,cce84cf1-5574-43b0-9d75-72e6451403a7,Old Man of the Sea,242.01,87.6178,Highly liquid,0.4286,4,True,0.2739,,,,1.0,96.3442,73.6555,,,False,2026-11-03
-527,15679808-baba-4a11-b111-f313ce24197f,Glistening Sphere,13.07,87.6142,Highly liquid,0.4283,4,True,0.2912,,,,0.0,96.4854,73.4203,,,False,2026-11-03
-528,d760f2f0-6653-47c4-bd7b-aab2f398ddf2,"Ruxa, Patient Professor",7.29,87.6128,Highly liquid,0.4162,4,True,0.3695,,,,0.0,97.6578,71.5407,,,False,2026-11-03
-529,d1960749-c11e-4ac4-97cb-f37d7875d479,"Goldbug, Humanity's Ally // Goldbug, Scrappy Scout",7.52,87.6123,Highly liquid,0.4226,4,True,0.333,,,,0.0,96.9875,72.612,,,False,2026-11-03
-530,15fef45d-f1a9-49b2-abaa-fe77bb9d1afd,"Lathliss, Dragon Queen",6.895,87.6119,Highly liquid,0.4299,4,True,0.259,,,,0.0,96.2113,73.853,,,False,2026-11-03
-531,bdbde5d0-f5e4-44da-b27c-b4ad6f374cc9,Dryad of the Ilysian Grove,11.655,87.5952,Highly liquid,0.433,4,True,0.2348,,,,0.0,95.986,74.1699,,,False,2026-11-03
-532,c5126d6e-969c-4034-98e3-f8653163346f,Folk Hero,9.12,87.5892,Highly liquid,0.4226,4,True,0.3345,,,,0.0,96.9875,72.552,,,False,2026-11-03
-533,490a8045-e160-4ccf-a05e-658ad2b7ac2d,"Jodah, the Unifier",19.305,87.5862,Highly liquid,0.4373,4,True,0.1872,,,,0.0,95.6739,74.6458,,,False,2026-11-03
-534,eb0d8093-5f93-4b25-9384-08f9731bfb28,Spirebluff Canal,17.48,87.5795,Highly liquid,0.4373,4,True,0.1898,,,,0.0,95.6739,74.6285,,,False,2026-11-03
-535,f38b9fbc-1cb9-450a-93e8-a6b8139956ae,The Cheese Stands Alone,6.255,87.579,Highly liquid,0.4118,4,True,0.3828,,,,0.0,97.8668,71.1186,,,False,2026-11-03
-536,7e52e91b-70e6-4f26-a5d4-b8e33d1debbf,Pathbreaker Ibex,17.87,87.5719,Highly liquid,0.4316,4,True,0.2474,,,,0.0,96.0538,74.0009,,,False,2026-11-03
-537,44b12ccc-81cb-4ec1-891e-4bf706e53aa4,Primal Surge,5.16,87.571,Highly liquid,0.3994,4,True,0.4111,,,,0.0,98.4313,70.1945,,,False,2026-11-03
-538,3c8cbf0f-0288-4b5e-bd4f-0f208670b6b5,High Noon,8.715,87.5696,Highly liquid,0.4282,4,True,0.3062,,,,0.0,96.5614,73.1827,,,False,2026-11-03
-539,3ded0c0c-40ce-4d14-a9a6-b023bc19ee0e,Triumph of the Hordes,11.615,87.5689,Highly liquid,0.4371,4,True,0.209,,,,0.0,95.7689,74.449,,,False,2026-11-03
-540,ab2dfe99-bd77-44d7-92be-81643ea901f0,Super State,19.34,87.5672,Highly liquid,0.4284,4,True,0.2926,,,,0.0,96.4202,73.4024,,,False,2026-11-03
-541,8364cf93-c323-46f4-854f-ae872e484438,Márton Stromgald,5.345,87.5598,Highly liquid,0.3914,4,True,0.4316,,,,1.0,98.9388,69.3534,,,False,2026-11-03
-542,ebed900f-6de3-4ae7-9795-fae34882298d,All Hallow's Eve,478.175,87.5573,Highly liquid,0.4,4,True,0.3901,,,,1.0,97.9672,70.9013,,,False,2026-11-03
-543,23467047-6dba-4498-b783-1ebc4f74b8c2,Ancient Tomb,129.135,87.5572,Highly liquid,0.4375,4,True,0.1796,,,,0.0,95.5925,74.7009,,,False,2026-11-03
-544,ca204b66-8d0c-431a-8d34-282f7c2d17da,Lightning Greaves,4.52,87.554,Highly liquid,0.4278,4,True,0.3206,,,,0.0,96.7025,72.9165,,,False,2026-11-03
-545,ebcd864a-b7dd-4330-89e1-80576a9437ec,Mycosynth Golem,46.875,87.5519,Highly liquid,0.3999,4,True,0.4019,,,,0.0,98.1952,70.5225,,,False,2026-11-03
-546,1efe485e-6874-4f4c-b981-e10f41670865,"Kiora, Behemoth Beckoner",11.25,87.5477,Highly liquid,0.4371,4,True,0.2146,,,,0.0,95.7689,74.3939,,,False,2026-11-03
-547,c7ee1b21-d02e-49ef-95d6-d6dbf2f886ae,Eldrazi Monument,9.355,87.535,Highly liquid,0.4282,4,True,0.312,,,,0.0,96.5614,73.0929,,,False,2026-11-03
-548,c1fc5923-c3cd-448a-98d1-c154661c2812,"Nissa, Resurgent Animist",26.375,87.533,Highly liquid,0.4398,4,True,0.0347,,,,0.0,95.2478,75.1892,,,False,2026-11-03
-549,716b3ea2-45b7-4a8f-af72-de7f4e510eff,Goldspan Dragon,11.605,87.5285,Highly liquid,0.4371,4,True,0.2186,,,,0.0,95.7689,74.3438,,,False,2026-11-03
-550,bde94af8-faea-41ff-8eed-ba642eac9968,Phantasmal Image,4.13,87.5257,Highly liquid,0.4299,4,True,0.2759,,,,0.0,96.2113,73.6289,,,False,2026-11-03
-551,0afcf1eb-ac2c-4bb0-8823-9fe45968c2d9,The Fourteenth Doctor,105.825,87.5246,Highly liquid,0.4333,4,True,0.2433,,,,0.0,95.9399,74.0603,,,False,2026-11-03
-552,20347559-95a9-4689-bb79-c5bb3809b719,Elves of Deep Shadow,23.665,87.5212,Highly liquid,0.4241,4,True,0.3349,,,,0.0,96.8789,72.5489,,,False,2026-11-03
-553,4a8d41fe-e04d-484b-a7d1-19be311e6ca7,"Sea Gate Restoration // Sea Gate, Reborn",36.045,87.5199,Highly liquid,0.4374,4,True,0.1993,,,,0.0,95.6223,74.5561,,,False,2026-11-03
-554,ad95eac2-5b48-4102-9988-a6d7b1ec30e0,Patriar's Seal,4.17,87.5179,Highly liquid,0.4278,4,True,0.3247,,,,0.0,96.7025,72.8225,,,False,2026-11-03
-555,1869eb1e-7786-4fea-8a92-2bd839de47df,Flesh Duplicate,12.97,87.517,Highly liquid,0.4371,4,True,0.2217,,,,0.0,95.7689,74.3141,,,False,2026-11-03
-556,62f6baba-da3b-45b8-a3c1-efb75763cca8,Tiller Engine,22.825,87.5168,Highly liquid,0.4398,4,True,0.0776,,,,0.0,95.2478,75.1471,,,False,2026-11-03
-557,f759d112-76db-4091-a22b-b9f19ab6fa5f,Griselbrand,7.325,87.5111,Highly liquid,0.4162,4,True,0.3781,,,,0.0,97.6578,71.2764,,,False,2026-11-03
-558,645a4dee-a4e0-4850-a781-522aa718827f,Glistening Oil,10.2,87.5058,Highly liquid,0.4282,4,True,0.3163,,,,0.0,96.5614,73.0168,,,False,2026-11-03
-559,d3b7b541-6f05-46c1-8031-c848c4bd4635,"Ojer Axonil, Deepest Might // Temple of Power",23.9,87.5026,Highly liquid,0.4392,4,True,0.183,,,,0.0,95.5165,74.6805,,,False,2026-11-03
-560,d5ea9176-30c1-4152-9086-322f39245f46,Preacher,30.855,87.5017,Highly liquid,0.4284,4,True,0.2983,,,,1.0,96.3687,73.3145,,,False,2026-11-03
-561,84cef34a-c3e1-4059-b4cd-c481938a53a5,Diamond Valley,697.71,87.5003,Highly liquid,0.4389,4,True,0.1928,,,,1.0,95.5599,74.605,,,False,2026-11-03
-562,8ad91015-db7f-43ea-97c9-bf2bf5656858,Yuan Shao's Infantry,6.065,87.4986,Highly liquid,0.4299,4,True,0.2806,,,,0.0,96.2113,73.5584,,,False,2026-11-03
-563,148145ef-a368-4caf-921d-e3809adf03de,Vodalian Wave-Knight,4.135,87.4941,Highly liquid,0.4299,4,True,0.2819,,,,0.0,96.2113,73.5466,,,False,2026-11-03
-564,05157e8e-4c8c-455e-a5a1-de8271951c51,Endless Evil,4.275,87.4934,Highly liquid,0.4299,4,True,0.2821,,,,0.0,96.2113,73.5447,,,False,2026-11-03
-565,2acf8e34-9215-4a72-a24f-09d3bdd0083a,Ripples of Undeath,7.78,87.4918,Highly liquid,0.4226,4,True,0.344,,,,0.0,96.9875,72.2988,,,False,2026-11-03
-566,23f9bee4-ac7e-4828-82c0-576fee0d29b7,Singing Tree,113.5,87.4841,Highly liquid,0.3928,4,True,0.4306,,,,1.0,98.7977,69.3825,,,False,2026-11-03
-567,afcc68e2-3634-43ce-ae99-dd2ec735d146,Sakashima's Student,21.065,87.4767,Highly liquid,0.4373,4,True,0.2173,,,,0.0,95.6739,74.3611,,,False,2026-11-03
-568,bf29b215-d4f5-4641-97ef-b65d4c463e72,Adventurers' Guildhouse,9.535,87.4715,Highly liquid,0.4282,4,True,0.32,,,,0.0,96.5614,72.9277,,,False,2026-11-03
-569,7edb3d15-4f70-4ebe-8c5e-caf6a225076d,"Eiganjo, Seat of the Empire",6.89,87.4711,Highly liquid,0.4162,4,True,0.3818,,,,0.0,97.6578,71.1724,,,False,2026-11-03
-570,5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f,"Elesh Norn, Mother of Machines",26.63,87.4691,Highly liquid,0.4392,4,True,0.1944,,1.0,,0.0,95.5165,74.5932,,,False,2026-11-03
-571,369e90e5-a31b-49cc-b594-8a853f244be1,Mana Echoes,50.465,87.4635,Highly liquid,0.3999,4,True,0.4059,,,,0.0,98.1301,70.3969,,,False,2026-11-03
-572,1a3a274d-41da-47db-ad41-5720f36a7963,Unmask,6.305,87.4604,Highly liquid,0.4177,4,True,0.3625,,,,0.0,97.2914,71.7307,,,False,2026-11-03
-573,c71b2325-bde6-4364-a93b-8477ffeb25d8,"Toxrill, the Corrosive",20.655,87.4601,Highly liquid,0.4398,4,True,0.129,,,,0.0,95.2478,74.9998,,,False,2026-11-03
-574,8ddfc283-c9b4-41a5-af88-cf0068e986cc,Swan Song,20.38,87.458,Highly liquid,0.4398,4,True,0.1305,,,,0.0,95.2478,74.9943,,,False,2026-11-03
-575,037355be-71e7-4866-80a6-80352c304970,"Karlach, Fury of Avernus",21.375,87.4563,Highly liquid,0.4398,4,True,0.1317,,,,0.0,95.2478,74.9899,,,False,2026-11-03
-576,deda54da-4fcc-4da3-9337-7768a2db3283,"Irma, Part-Time Mutant",4.105,87.45,Highly liquid,0.4278,4,True,0.3313,,,,0.0,96.7025,72.6461,,,False,2026-11-03
-577,109cdefd-e8cc-4ac7-b6ba-2cfdef8d780f,Icetill Explorer,23.3,87.4422,Highly liquid,0.4392,4,True,0.2026,,,,0.0,95.5165,74.5233,,,False,2026-11-03
-578,6643fc8e-548e-48db-9f67-ffbca9e57016,Lich Lord of Unx,6.14,87.4419,Highly liquid,0.4278,4,True,0.3323,,,,0.0,96.7025,72.625,,,False,2026-11-03
-579,e8473969-195f-41ee-a84d-463cc8c0ef02,"Klothys, God of Destiny",7.325,87.4418,Highly liquid,0.4177,4,True,0.3647,,,,0.0,97.2914,71.6824,,,False,2026-11-03
-580,e0c00a74-bdf8-4fee-8042-42c5878e9e3c,Broadside Bombardiers,5.96,87.4367,Highly liquid,0.4278,4,True,0.333,,,,0.0,96.7025,72.6114,,,False,2026-11-03
-581,1f438b8f-fe23-4f3b-ab2e-f6c33676c462,Opposition Agent,21.97,87.4363,Highly liquid,0.4398,4,True,0.1418,,,,0.0,95.2478,74.938,,,False,2026-11-03
-582,e3570ac7-c593-40e3-bbd6-ec3da6d8158d,Training Center,20.245,87.4316,Highly liquid,0.4398,4,True,0.145,,,,0.0,95.2478,74.9256,,,False,2026-11-03
-583,9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29,Goblin Welder,21.16,87.4289,Highly liquid,0.4398,4,True,0.1462,,,,0.0,95.2478,74.9188,,,False,2026-11-03
-584,8c5fe985-69e1-4a03-99fc-a6fd2314a9a7,Professor Dellian Fel,8.625,87.4254,Highly liquid,0.4226,4,True,0.3499,,,,0.0,96.9875,72.1262,,,False,2026-11-03
-585,8305d576-21d8-4ce7-8eda-a7cd9793aca5,Archmage Emeritus,4.32,87.4215,Highly liquid,0.4278,4,True,0.3338,,,,0.0,96.7025,72.5718,,,False,2026-11-03
-586,766c644c-04fe-4b01-93dd-09a50d78d01f,Uba Mask,7.395,87.4196,Highly liquid,0.3994,4,True,0.4212,,,,0.0,98.4313,69.8009,,,False,2026-11-03
-587,f89d093d-c815-4df7-a348-2005aa227586,Planetarium of Wan Shi Tong,7.035,87.4002,Highly liquid,0.4162,4,True,0.387,,,,0.0,97.6578,70.988,,,False,2026-11-03
-588,b9e61e68-9dc8-4295-95dc-dd66a0907c8c,Forsaken Wastes,12.7,87.399,Highly liquid,0.433,4,True,0.2735,,,,1.0,95.986,73.6599,,,False,2026-11-03
-589,d2bcff58-7a8a-46ef-b6b3-39501d4c8e6e,Thundering Falls,20.79,87.3989,Highly liquid,0.4398,4,True,0.1607,,,,0.0,95.2478,74.8408,,,False,2026-11-03
-590,0f5a3a09-2f07-4774-9e0f-e99d9a444166,"Aurelia, the Warleader",8.555,87.3984,Highly liquid,0.4282,4,True,0.3279,,,,0.0,96.5614,72.7377,,,False,2026-11-03
-591,7a5cfc97-89cf-43bc-8e48-f8bf7a0c5fcd,Debt of Loyalty,11.085,87.3969,Highly liquid,0.433,4,True,0.274,,,,1.0,95.986,73.6543,,,False,2026-11-03
-592,e3b4314b-e7a2-449a-af5a-817c8260adf1,Dinosaurs on a Spaceship,12.45,87.3921,Highly liquid,0.4371,4,True,0.2483,,,,0.0,95.7689,73.9891,,,False,2026-11-03
-593,e0aa6ce0-ca31-433b-ac6c-32b8675cdb71,Spellskite,15.845,87.3851,Highly liquid,0.4408,4,True,0.1038,,,,0.0,95.0741,75.0828,,,False,2026-11-03
-594,38a12bd7-4394-44a8-91a0-6a4ff7fa4f71,Maze of Ith,33.595,87.3851,Highly liquid,0.4209,4,True,0.3595,,,,0.0,97.1014,71.839,,,False,2026-11-03
-595,610d9f58-4182-49cb-855c-9b6030e7f714,Fated Clash,8.63,87.3788,Highly liquid,0.3885,4,True,0.4455,,,,0.0,99.0121,68.7654,,,False,2026-11-03
-596,5b7f6cc3-8d4e-42e5-a908-7ebe3bccaf1e,Canoptek Scarab Swarm,10.82,87.3756,Highly liquid,0.4371,4,True,0.252,,,,0.0,95.7689,73.9464,,,False,2026-11-03
-597,5b3b5f6a-375e-4479-9384-a942eda83f9b,Gandalf the White,267.055,87.3721,Highly liquid,0.44,4,True,0.1443,,,,0.0,95.1501,74.9274,,,False,2026-11-03
-598,aa41e0e6-d04e-48d6-8450-02b972dd0bb1,Mnemonic Betrayal,6.33,87.368,Highly liquid,0.4393,4,True,0.2013,,,,0.0,95.3889,74.5344,,,False,2026-11-03
-599,01c8a554-45a6-46ca-b40a-af0fd4529e40,Sword of Light and Shadow,26.845,87.3605,Highly liquid,0.4392,4,True,0.2219,,,,0.0,95.5165,74.311,,,False,2026-11-03
-600,674e2683-31c0-4fee-95fb-98b1201e41e7,Mirrodin Besieged,3.96,87.3598,Highly liquid,0.4299,4,True,0.3055,,,,0.0,96.2113,73.1975,,,False,2026-11-03
-601,f0ff2c1c-702d-406b-a426-4282117afe8e,Righteous Fury,12.18,87.3594,Highly liquid,0.4282,4,True,0.3318,,,,0.0,96.5614,72.6362,,,False,2026-11-03
-602,e1de0c94-0ecc-425a-9b92-27c2745d07e7,Narset Transcendent,7.54,87.3576,Highly liquid,0.4226,4,True,0.3559,,,,0.0,96.9875,71.9498,,,False,2026-11-03
-603,6ba0656f-e0d2-4735-9c66-3a00afa9fc23,"Koma, Cosmos Serpent",5.645,87.3513,Highly liquid,0.4393,4,True,0.206,,,,0.0,95.3889,74.4911,,,False,2026-11-03
-604,ebbd5b9c-07ff-4b42-81c2-ba09539f3a42,Breach the Multiverse,10.69,87.3478,Highly liquid,0.433,4,True,0.2835,,,,0.0,95.986,73.5268,,,False,2026-11-03
-605,d8e6294d-51cc-44ff-8bc6-b0a168e4f423,"Faldorn, Dread Wolf Herald",6.965,87.3406,Highly liquid,0.4393,4,True,0.2083,,,,0.0,95.3889,74.4632,,,False,2026-11-03
-606,8ada7388-fd8b-434c-a17a-bce19cf3e615,Elephant Graveyard,234.085,87.3326,Highly liquid,0.4286,4,True,0.3208,,,,1.0,96.3442,72.9141,,,False,2026-11-03
-607,f3e23d5e-bd88-4e7c-a3fb-db2a8cb05b22,"Gisela, the Broken Blade",21.985,87.3247,Highly liquid,0.4209,4,True,0.3647,,,,0.0,97.1014,71.6818,,,False,2026-11-03
-608,9b6d3dcf-aa5a-4516-bd48-a0723e86bfd1,Door of Destinies,9.58,87.3242,Highly liquid,0.4415,4,True,0.0498,,,,0.0,94.914,75.1806,,,False,2026-11-03
-609,27af77e5-6680-43d3-9202-40be9b5d14a0,The Wretched,25.63,87.3235,Highly liquid,0.4398,4,True,0.1874,,,,0.0,95.2478,74.6446,,,False,2026-11-03
-610,d94ff0b8-5499-4eeb-80f0-20c7fbf07499,"Voja, Jaws of the Conclave",9.67,87.3232,Highly liquid,0.4415,4,True,0.0528,,,,0.0,94.914,75.1781,,,False,2026-11-03
-611,8fd7503b-e722-49a7-a8ac-786e7354bc95,B.F.M. (Big Furry Monster),14.84,87.3212,Highly liquid,0.4128,4,True,0.4031,,,,0.0,97.8369,70.4959,,,False,2026-11-03
-612,739a5220-50cd-4148-be58-1bbdeef2954e,"Greymond, Avacyn's Stalwart",64.92,87.3205,Highly liquid,0.4399,4,True,0.1713,,,,0.0,95.1691,74.7628,,,False,2026-11-03
-613,826a0db6-195a-4697-9bd6-f544b279e3cf,"Betor, Kin to All",15.915,87.3199,Highly liquid,0.4408,4,True,0.1473,,,,0.0,95.0741,74.9132,,,False,2026-11-03
-614,bb493c95-5f6d-405b-aac6-c56fe6b6f42f,Nature's Cloak,8.45,87.3185,Highly liquid,0.3841,4,True,0.4555,,,,0.0,99.1614,68.3699,,,False,2026-11-03
-615,10c48d19-d91f-4674-b186-477acaf08e5a,"Kellan, the Fae-Blooded // Birthright Boon",5.195,87.3168,Highly liquid,0.4393,4,True,0.214,,,,0.0,95.3889,74.4013,,,False,2026-11-03
-616,ef86989d-ce80-4e55-aece-7d11710eeffa,Polluted Delta,47.415,87.3077,Highly liquid,0.4399,4,True,0.1798,,1.0,,0.0,95.1881,74.699,,,False,2026-11-03
-617,4d6120d6-fcce-40bc-9fc6-e1f5beb6c728,Embercleave,16.485,87.302,Highly liquid,0.4316,4,True,0.2995,,,,0.0,96.0538,73.299,,,False,2026-11-03
-618,d895863e-a3c5-4e1f-bd28-e47a8717bbd0,Scavenged Brawler,4.235,87.3003,Highly liquid,0.4299,4,True,0.3151,,,,0.0,96.2113,73.0428,,,False,2026-11-03
-619,917f2b4b-79ec-4ded-b4c8-cbcf363cb23b,Eureka,441.995,87.2968,Highly liquid,0.4385,4,True,0.2428,,,,1.0,95.5653,74.0671,,,False,2026-11-03
-620,7f06c098-6482-4bf3-a9a1-110d6d5b5703,Gilded Drake,199.64,87.2933,Highly liquid,0.4333,4,True,0.2869,,,,1.0,95.929,73.476,,,False,2026-11-03
-621,d12cfd46-73c2-4206-9a10-0d2e7d6ac87e,"Balan, Wandering Knight",21.81,87.2929,Highly liquid,0.4165,4,True,0.389,,,,0.0,97.5194,70.9304,,,False,2026-11-03
-622,615927c2-3fb0-4e64-a1a7-55fb56de1423,Soul Shatter,4.375,87.2901,Highly liquid,0.4278,4,True,0.3469,,,,0.0,96.7025,72.2301,,,False,2026-11-03
-623,2fc5fffa-2eb1-4a3c-af47-3ff8c7df608d,"Yuan Shao, the Indecisive",138.335,87.2695,Highly liquid,0.4,4,True,0.4138,,,,0.0,98.0215,70.0664,,,False,2026-11-03
-624,cb558dda-0c05-426d-aedc-bc07cc54db76,Khabál Ghoul,143.705,87.2692,Highly liquid,0.4333,4,True,0.2928,,,,1.0,95.9399,73.3962,,,False,2026-11-03
-625,c7031047-5109-482f-b2e9-14800b9279bf,Riders of the Mark,7.795,87.2671,Highly liquid,0.4415,4,True,0.1212,,,,0.0,94.914,75.032,,,False,2026-11-03
-626,fb81f95c-70f8-4eb7-8d15-15d0ae23ec03,Mystical Tutor,24.195,87.267,Highly liquid,0.4284,4,True,0.3324,,,,0.0,96.4202,72.6219,,,False,2026-11-03
-627,4ac9116f-36bc-4d71-b696-d6ee064e1d58,Juggernaut,15.765,87.2607,Highly liquid,0.4371,4,True,0.2744,,,,0.0,95.7689,73.6475,,,False,2026-11-03
-628,652e87af-7cf0-407f-9fb7-1a630fb8dd47,Overlord of the Balemurk,18.225,87.2582,Highly liquid,0.4241,4,True,0.3587,,1.0,,0.0,96.8789,71.865,,,False,2026-11-03
-629,a7243d25-22a2-4df5-adaf-1f40f5330ec1,Sakashima the Impostor,13.25,87.2577,Highly liquid,0.4316,4,True,0.3061,,,,0.0,96.0538,73.1839,,,False,2026-11-03
-630,89738595-dafb-400a-bfba-91a53a37e717,Grim Hireling,13.65,87.2568,Highly liquid,0.4408,4,True,0.1728,,,,0.0,95.0741,74.7492,,,False,2026-11-03
-631,8a70bde5-c514-4dcf-919a-48bdd1c17768,Basim Ibn Ishaq,5.425,87.2554,Highly liquid,0.4393,4,True,0.2281,,,,0.0,95.3889,74.2417,,,False,2026-11-03
-632,a78f981a-bf8a-42a4-b171-d655cc2cc1a2,Razorkin Needlehead,6.455,87.2478,Highly liquid,0.4177,4,True,0.3814,,,,0.0,97.2914,71.178,,,False,2026-11-03
-633,683e7135-de54-49c8-a978-4f84628a6a91,Serendib Djinn,145.01,87.2466,Highly liquid,0.4375,4,True,0.2566,,,,1.0,95.5925,73.8932,,,False,2026-11-03
-634,6bb00a28-8b5a-4049-93b7-3db02de88aeb,Forsaken City,11.59,87.2456,Highly liquid,0.4282,4,True,0.3426,,,,0.0,96.5614,72.3403,,,False,2026-11-03
+513,108ae90a-50fa-4cfd-b751-d630e41425fe,Wrenn and Six,13.41,87.678,Highly liquid,0.433,4,True,0.2151,,,,0.0,95.986,74.3853,,,False,2026-11-03
+514,53f7c868-b03e-4fc2-8dcf-a75bbfa3272b,Dark Ritual,5.175,87.6586,Highly liquid,0.4171,4,True,0.3532,,,,0.0,97.4298,72.0247,,,False,2026-11-03
+515,9da65d66-71f0-4e17-a1f9-6da6cd1cfa8a,Scalelord Reckoner,6.13,87.6586,Highly liquid,0.4299,4,True,0.2496,,,,0.0,96.2113,73.9743,,,False,2026-11-03
+516,b9be5ce9-08bb-4361-940c-9031e429ba86,"Akroma, Vision of Ixidor",10.635,87.6583,Highly liquid,0.433,4,True,0.2201,,,,0.0,95.986,74.3339,,,False,2026-11-03
+517,0c4e64d1-cdcf-4e96-8bf4-ed1414f6ad62,Counterintelligence,8.37,87.651,Highly liquid,0.4177,4,True,0.3471,,,,0.0,97.2914,72.2264,,,False,2026-11-03
+518,b304ac72-7f40-40de-b8d6-6392909b6029,Guide of Souls,4.565,87.6493,Highly liquid,0.4299,4,True,0.2515,,,,0.0,96.2113,73.9501,,,False,2026-11-03
+519,df8e0d1b-b47c-4807-9c9b-84dcec835254,Colossal Grave-Reaver,11.925,87.6468,Highly liquid,0.4371,4,True,0.1865,,,,0.0,95.7689,74.6514,,,False,2026-11-03
+520,e8521fdf-0896-4747-8c66-ea3bb69eb876,Gabriel Angelfire,13.455,87.6437,Highly liquid,0.4226,4,True,0.3292,,,,0.0,96.9875,72.6937,,,False,2026-11-03
+521,1202725c-170b-42d7-9f82-a431a987f30e,"Jaws, Relentless Predator",164.69,87.6391,Highly liquid,0.4375,4,True,0.1469,,,,0.0,95.5925,74.9138,,,False,2026-11-03
+522,fd751ed4-4002-4cae-9d1d-1fe0f1fd4965,"Avatar Kyoshi, Earthbender",18.69,87.6385,Highly liquid,0.4373,4,True,0.1688,,,,0.0,95.6739,74.782,,,False,2026-11-03
+523,f8c2a972-e38f-47e5-a355-6f30ad09b1ae,"Losheel, Clockwork Scholar",4.7,87.6362,Highly liquid,0.4299,4,True,0.2544,,,,0.0,96.2113,73.9161,,,False,2026-11-03
+524,00625242-9348-4ef4-b975-f2ac82fee21d,Savai Triome,18.085,87.6274,Highly liquid,0.4373,4,True,0.1723,,,,0.0,95.6739,74.7529,,,False,2026-11-03
+525,cce84cf1-5574-43b0-9d75-72e6451403a7,Old Man of the Sea,242.01,87.6178,Highly liquid,0.4286,4,True,0.2739,,,,1.0,96.3442,73.6555,,,False,2026-11-03
+526,15679808-baba-4a11-b111-f313ce24197f,Glistening Sphere,13.07,87.6142,Highly liquid,0.4283,4,True,0.2912,,,,0.0,96.4854,73.4203,,,False,2026-11-03
+527,d760f2f0-6653-47c4-bd7b-aab2f398ddf2,"Ruxa, Patient Professor",7.29,87.6128,Highly liquid,0.4162,4,True,0.3695,,,,0.0,97.6578,71.5407,,,False,2026-11-03
+528,d1960749-c11e-4ac4-97cb-f37d7875d479,"Goldbug, Humanity's Ally // Goldbug, Scrappy Scout",7.52,87.6123,Highly liquid,0.4226,4,True,0.333,,,,0.0,96.9875,72.612,,,False,2026-11-03
+529,15fef45d-f1a9-49b2-abaa-fe77bb9d1afd,"Lathliss, Dragon Queen",6.895,87.6119,Highly liquid,0.4299,4,True,0.259,,,,0.0,96.2113,73.853,,,False,2026-11-03
+530,bdbde5d0-f5e4-44da-b27c-b4ad6f374cc9,Dryad of the Ilysian Grove,11.655,87.5952,Highly liquid,0.433,4,True,0.2348,,,,0.0,95.986,74.1699,,,False,2026-11-03
+531,c5126d6e-969c-4034-98e3-f8653163346f,Folk Hero,9.12,87.5892,Highly liquid,0.4226,4,True,0.3345,,,,0.0,96.9875,72.552,,,False,2026-11-03
+532,490a8045-e160-4ccf-a05e-658ad2b7ac2d,"Jodah, the Unifier",19.305,87.5862,Highly liquid,0.4373,4,True,0.1872,,,,0.0,95.6739,74.6458,,,False,2026-11-03
+533,eb0d8093-5f93-4b25-9384-08f9731bfb28,Spirebluff Canal,17.48,87.5795,Highly liquid,0.4373,4,True,0.1898,,,,0.0,95.6739,74.6285,,,False,2026-11-03
+534,f38b9fbc-1cb9-450a-93e8-a6b8139956ae,The Cheese Stands Alone,6.255,87.579,Highly liquid,0.4118,4,True,0.3828,,,,0.0,97.8668,71.1186,,,False,2026-11-03
+535,7e52e91b-70e6-4f26-a5d4-b8e33d1debbf,Pathbreaker Ibex,17.87,87.5719,Highly liquid,0.4316,4,True,0.2474,,,,0.0,96.0538,74.0009,,,False,2026-11-03
+536,44b12ccc-81cb-4ec1-891e-4bf706e53aa4,Primal Surge,5.16,87.571,Highly liquid,0.3994,4,True,0.4111,,,,0.0,98.4313,70.1945,,,False,2026-11-03
+537,3c8cbf0f-0288-4b5e-bd4f-0f208670b6b5,High Noon,8.715,87.5696,Highly liquid,0.4282,4,True,0.3062,,,,0.0,96.5614,73.1827,,,False,2026-11-03
+538,3ded0c0c-40ce-4d14-a9a6-b023bc19ee0e,Triumph of the Hordes,11.615,87.5689,Highly liquid,0.4371,4,True,0.209,,,,0.0,95.7689,74.449,,,False,2026-11-03
+539,ab2dfe99-bd77-44d7-92be-81643ea901f0,Super State,19.34,87.5672,Highly liquid,0.4284,4,True,0.2926,,,,0.0,96.4202,73.4024,,,False,2026-11-03
+540,8364cf93-c323-46f4-854f-ae872e484438,Márton Stromgald,5.345,87.5598,Highly liquid,0.3914,4,True,0.4316,,,,1.0,98.9388,69.3534,,,False,2026-11-03
+541,ebed900f-6de3-4ae7-9795-fae34882298d,All Hallow's Eve,478.175,87.5573,Highly liquid,0.4,4,True,0.3901,,,,1.0,97.9672,70.9013,,,False,2026-11-03
+542,23467047-6dba-4498-b783-1ebc4f74b8c2,Ancient Tomb,129.135,87.5572,Highly liquid,0.4375,4,True,0.1796,,,,0.0,95.5925,74.7009,,,False,2026-11-03
+543,ca204b66-8d0c-431a-8d34-282f7c2d17da,Lightning Greaves,4.52,87.554,Highly liquid,0.4278,4,True,0.3206,,,,0.0,96.7025,72.9165,,,False,2026-11-03
+544,ebcd864a-b7dd-4330-89e1-80576a9437ec,Mycosynth Golem,46.875,87.5519,Highly liquid,0.3999,4,True,0.4019,,,,0.0,98.1952,70.5225,,,False,2026-11-03
+545,1efe485e-6874-4f4c-b981-e10f41670865,"Kiora, Behemoth Beckoner",11.25,87.5477,Highly liquid,0.4371,4,True,0.2146,,,,0.0,95.7689,74.3939,,,False,2026-11-03
+546,c7ee1b21-d02e-49ef-95d6-d6dbf2f886ae,Eldrazi Monument,9.355,87.535,Highly liquid,0.4282,4,True,0.312,,,,0.0,96.5614,73.0929,,,False,2026-11-03
+547,c1fc5923-c3cd-448a-98d1-c154661c2812,"Nissa, Resurgent Animist",26.375,87.533,Highly liquid,0.4398,4,True,0.0347,,,,0.0,95.2478,75.1892,,,False,2026-11-03
+548,716b3ea2-45b7-4a8f-af72-de7f4e510eff,Goldspan Dragon,11.605,87.5285,Highly liquid,0.4371,4,True,0.2186,,,,0.0,95.7689,74.3438,,,False,2026-11-03
+549,bde94af8-faea-41ff-8eed-ba642eac9968,Phantasmal Image,4.13,87.5257,Highly liquid,0.4299,4,True,0.2759,,,,0.0,96.2113,73.6289,,,False,2026-11-03
+550,0afcf1eb-ac2c-4bb0-8823-9fe45968c2d9,The Fourteenth Doctor,105.825,87.5246,Highly liquid,0.4333,4,True,0.2433,,,,0.0,95.9399,74.0603,,,False,2026-11-03
+551,20347559-95a9-4689-bb79-c5bb3809b719,Elves of Deep Shadow,23.665,87.5212,Highly liquid,0.4241,4,True,0.3349,,,,0.0,96.8789,72.5489,,,False,2026-11-03
+552,4a8d41fe-e04d-484b-a7d1-19be311e6ca7,"Sea Gate Restoration // Sea Gate, Reborn",36.045,87.5199,Highly liquid,0.4374,4,True,0.1993,,,,0.0,95.6223,74.5561,,,False,2026-11-03
+553,ad95eac2-5b48-4102-9988-a6d7b1ec30e0,Patriar's Seal,4.17,87.5179,Highly liquid,0.4278,4,True,0.3247,,,,0.0,96.7025,72.8225,,,False,2026-11-03
+554,1869eb1e-7786-4fea-8a92-2bd839de47df,Flesh Duplicate,12.97,87.517,Highly liquid,0.4371,4,True,0.2217,,,,0.0,95.7689,74.3141,,,False,2026-11-03
+555,62f6baba-da3b-45b8-a3c1-efb75763cca8,Tiller Engine,22.825,87.5168,Highly liquid,0.4398,4,True,0.0776,,,,0.0,95.2478,75.1471,,,False,2026-11-03
+556,f759d112-76db-4091-a22b-b9f19ab6fa5f,Griselbrand,7.325,87.5111,Highly liquid,0.4162,4,True,0.3781,,,,0.0,97.6578,71.2764,,,False,2026-11-03
+557,645a4dee-a4e0-4850-a781-522aa718827f,Glistening Oil,10.2,87.5058,Highly liquid,0.4282,4,True,0.3163,,,,0.0,96.5614,73.0168,,,False,2026-11-03
+558,d3b7b541-6f05-46c1-8031-c848c4bd4635,"Ojer Axonil, Deepest Might // Temple of Power",23.9,87.5026,Highly liquid,0.4392,4,True,0.183,,,,0.0,95.5165,74.6805,,,False,2026-11-03
+559,d5ea9176-30c1-4152-9086-322f39245f46,Preacher,30.855,87.5017,Highly liquid,0.4284,4,True,0.2983,,,,1.0,96.3687,73.3145,,,False,2026-11-03
+560,84cef34a-c3e1-4059-b4cd-c481938a53a5,Diamond Valley,697.71,87.5003,Highly liquid,0.4389,4,True,0.1928,,,,1.0,95.5599,74.605,,,False,2026-11-03
+561,8ad91015-db7f-43ea-97c9-bf2bf5656858,Yuan Shao's Infantry,6.065,87.4986,Highly liquid,0.4299,4,True,0.2806,,,,0.0,96.2113,73.5584,,,False,2026-11-03
+562,148145ef-a368-4caf-921d-e3809adf03de,Vodalian Wave-Knight,4.135,87.4941,Highly liquid,0.4299,4,True,0.2819,,,,0.0,96.2113,73.5466,,,False,2026-11-03
+563,05157e8e-4c8c-455e-a5a1-de8271951c51,Endless Evil,4.275,87.4934,Highly liquid,0.4299,4,True,0.2821,,,,0.0,96.2113,73.5447,,,False,2026-11-03
+564,2acf8e34-9215-4a72-a24f-09d3bdd0083a,Ripples of Undeath,7.78,87.4918,Highly liquid,0.4226,4,True,0.344,,,,0.0,96.9875,72.2988,,,False,2026-11-03
+565,23f9bee4-ac7e-4828-82c0-576fee0d29b7,Singing Tree,113.5,87.4841,Highly liquid,0.3928,4,True,0.4306,,,,1.0,98.7977,69.3825,,,False,2026-11-03
+566,afcc68e2-3634-43ce-ae99-dd2ec735d146,Sakashima's Student,21.065,87.4767,Highly liquid,0.4373,4,True,0.2173,,,,0.0,95.6739,74.3611,,,False,2026-11-03
+567,bf29b215-d4f5-4641-97ef-b65d4c463e72,Adventurers' Guildhouse,9.535,87.4715,Highly liquid,0.4282,4,True,0.32,,,,0.0,96.5614,72.9277,,,False,2026-11-03
+568,7edb3d15-4f70-4ebe-8c5e-caf6a225076d,"Eiganjo, Seat of the Empire",6.89,87.4711,Highly liquid,0.4162,4,True,0.3818,,,,0.0,97.6578,71.1724,,,False,2026-11-03
+569,5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f,"Elesh Norn, Mother of Machines",26.63,87.4691,Highly liquid,0.4392,4,True,0.1944,,1.0,,0.0,95.5165,74.5932,,,False,2026-11-03
+570,369e90e5-a31b-49cc-b594-8a853f244be1,Mana Echoes,50.465,87.4635,Highly liquid,0.3999,4,True,0.4059,,,,0.0,98.1301,70.3969,,,False,2026-11-03
+571,1a3a274d-41da-47db-ad41-5720f36a7963,Unmask,6.305,87.4604,Highly liquid,0.4177,4,True,0.3625,,,,0.0,97.2914,71.7307,,,False,2026-11-03
+572,c71b2325-bde6-4364-a93b-8477ffeb25d8,"Toxrill, the Corrosive",20.655,87.4601,Highly liquid,0.4398,4,True,0.129,,,,0.0,95.2478,74.9998,,,False,2026-11-03
+573,8ddfc283-c9b4-41a5-af88-cf0068e986cc,Swan Song,20.38,87.458,Highly liquid,0.4398,4,True,0.1305,,,,0.0,95.2478,74.9943,,,False,2026-11-03
+574,037355be-71e7-4866-80a6-80352c304970,"Karlach, Fury of Avernus",21.375,87.4563,Highly liquid,0.4398,4,True,0.1317,,,,0.0,95.2478,74.9899,,,False,2026-11-03
+575,deda54da-4fcc-4da3-9337-7768a2db3283,"Irma, Part-Time Mutant",4.105,87.45,Highly liquid,0.4278,4,True,0.3313,,,,0.0,96.7025,72.6461,,,False,2026-11-03
+576,109cdefd-e8cc-4ac7-b6ba-2cfdef8d780f,Icetill Explorer,23.3,87.4422,Highly liquid,0.4392,4,True,0.2026,,,,0.0,95.5165,74.5233,,,False,2026-11-03
+577,6643fc8e-548e-48db-9f67-ffbca9e57016,Lich Lord of Unx,6.14,87.4419,Highly liquid,0.4278,4,True,0.3323,,,,0.0,96.7025,72.625,,,False,2026-11-03
+578,e8473969-195f-41ee-a84d-463cc8c0ef02,"Klothys, God of Destiny",7.325,87.4418,Highly liquid,0.4177,4,True,0.3647,,,,0.0,97.2914,71.6824,,,False,2026-11-03
+579,e0c00a74-bdf8-4fee-8042-42c5878e9e3c,Broadside Bombardiers,5.96,87.4367,Highly liquid,0.4278,4,True,0.333,,,,0.0,96.7025,72.6114,,,False,2026-11-03
+580,1f438b8f-fe23-4f3b-ab2e-f6c33676c462,Opposition Agent,21.97,87.4363,Highly liquid,0.4398,4,True,0.1418,,,,0.0,95.2478,74.938,,,False,2026-11-03
+581,e3570ac7-c593-40e3-bbd6-ec3da6d8158d,Training Center,20.245,87.4316,Highly liquid,0.4398,4,True,0.145,,,,0.0,95.2478,74.9256,,,False,2026-11-03
+582,9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29,Goblin Welder,21.16,87.4289,Highly liquid,0.4398,4,True,0.1462,,,,0.0,95.2478,74.9188,,,False,2026-11-03
+583,8c5fe985-69e1-4a03-99fc-a6fd2314a9a7,Professor Dellian Fel,8.625,87.4254,Highly liquid,0.4226,4,True,0.3499,,,,0.0,96.9875,72.1262,,,False,2026-11-03
+584,8305d576-21d8-4ce7-8eda-a7cd9793aca5,Archmage Emeritus,4.32,87.4215,Highly liquid,0.4278,4,True,0.3338,,,,0.0,96.7025,72.5718,,,False,2026-11-03
+585,766c644c-04fe-4b01-93dd-09a50d78d01f,Uba Mask,7.395,87.4196,Highly liquid,0.3994,4,True,0.4212,,,,0.0,98.4313,69.8009,,,False,2026-11-03
+586,f89d093d-c815-4df7-a348-2005aa227586,Planetarium of Wan Shi Tong,7.035,87.4002,Highly liquid,0.4162,4,True,0.387,,,,0.0,97.6578,70.988,,,False,2026-11-03
+587,b9e61e68-9dc8-4295-95dc-dd66a0907c8c,Forsaken Wastes,12.7,87.399,Highly liquid,0.433,4,True,0.2735,,,,1.0,95.986,73.6599,,,False,2026-11-03
+588,d2bcff58-7a8a-46ef-b6b3-39501d4c8e6e,Thundering Falls,20.79,87.3989,Highly liquid,0.4398,4,True,0.1607,,,,0.0,95.2478,74.8408,,,False,2026-11-03
+589,0f5a3a09-2f07-4774-9e0f-e99d9a444166,"Aurelia, the Warleader",8.555,87.3984,Highly liquid,0.4282,4,True,0.3279,,,,0.0,96.5614,72.7377,,,False,2026-11-03
+590,7a5cfc97-89cf-43bc-8e48-f8bf7a0c5fcd,Debt of Loyalty,11.085,87.3969,Highly liquid,0.433,4,True,0.274,,,,1.0,95.986,73.6543,,,False,2026-11-03
+591,e3b4314b-e7a2-449a-af5a-817c8260adf1,Dinosaurs on a Spaceship,12.45,87.3921,Highly liquid,0.4371,4,True,0.2483,,,,0.0,95.7689,73.9891,,,False,2026-11-03
+592,e0aa6ce0-ca31-433b-ac6c-32b8675cdb71,Spellskite,15.845,87.3851,Highly liquid,0.4408,4,True,0.1038,,,,0.0,95.0741,75.0828,,,False,2026-11-03
+593,38a12bd7-4394-44a8-91a0-6a4ff7fa4f71,Maze of Ith,33.595,87.3851,Highly liquid,0.4209,4,True,0.3595,,,,0.0,97.1014,71.839,,,False,2026-11-03
+594,610d9f58-4182-49cb-855c-9b6030e7f714,Fated Clash,8.63,87.3788,Highly liquid,0.3885,4,True,0.4455,,,,0.0,99.0121,68.7654,,,False,2026-11-03
+595,5b7f6cc3-8d4e-42e5-a908-7ebe3bccaf1e,Canoptek Scarab Swarm,10.82,87.3756,Highly liquid,0.4371,4,True,0.252,,,,0.0,95.7689,73.9464,,,False,2026-11-03
+596,5b3b5f6a-375e-4479-9384-a942eda83f9b,Gandalf the White,267.055,87.3721,Highly liquid,0.44,4,True,0.1443,,,,0.0,95.1501,74.9274,,,False,2026-11-03
+597,aa41e0e6-d04e-48d6-8450-02b972dd0bb1,Mnemonic Betrayal,6.33,87.368,Highly liquid,0.4393,4,True,0.2013,,,,0.0,95.3889,74.5344,,,False,2026-11-03
+598,01c8a554-45a6-46ca-b40a-af0fd4529e40,Sword of Light and Shadow,26.845,87.3605,Highly liquid,0.4392,4,True,0.2219,,,,0.0,95.5165,74.311,,,False,2026-11-03
+599,674e2683-31c0-4fee-95fb-98b1201e41e7,Mirrodin Besieged,3.96,87.3598,Highly liquid,0.4299,4,True,0.3055,,,,0.0,96.2113,73.1975,,,False,2026-11-03
+600,f0ff2c1c-702d-406b-a426-4282117afe8e,Righteous Fury,12.18,87.3594,Highly liquid,0.4282,4,True,0.3318,,,,0.0,96.5614,72.6362,,,False,2026-11-03
+601,e1de0c94-0ecc-425a-9b92-27c2745d07e7,Narset Transcendent,7.54,87.3576,Highly liquid,0.4226,4,True,0.3559,,,,0.0,96.9875,71.9498,,,False,2026-11-03
+602,6ba0656f-e0d2-4735-9c66-3a00afa9fc23,"Koma, Cosmos Serpent",5.645,87.3513,Highly liquid,0.4393,4,True,0.206,,,,0.0,95.3889,74.4911,,,False,2026-11-03
+603,ebbd5b9c-07ff-4b42-81c2-ba09539f3a42,Breach the Multiverse,10.69,87.3478,Highly liquid,0.433,4,True,0.2835,,,,0.0,95.986,73.5268,,,False,2026-11-03
+604,d8e6294d-51cc-44ff-8bc6-b0a168e4f423,"Faldorn, Dread Wolf Herald",6.965,87.3406,Highly liquid,0.4393,4,True,0.2083,,,,0.0,95.3889,74.4632,,,False,2026-11-03
+605,8ada7388-fd8b-434c-a17a-bce19cf3e615,Elephant Graveyard,234.085,87.3326,Highly liquid,0.4286,4,True,0.3208,,,,1.0,96.3442,72.9141,,,False,2026-11-03
+606,f3e23d5e-bd88-4e7c-a3fb-db2a8cb05b22,"Gisela, the Broken Blade",21.985,87.3247,Highly liquid,0.4209,4,True,0.3647,,,,0.0,97.1014,71.6818,,,False,2026-11-03
+607,9b6d3dcf-aa5a-4516-bd48-a0723e86bfd1,Door of Destinies,9.58,87.3242,Highly liquid,0.4415,4,True,0.0498,,,,0.0,94.914,75.1806,,,False,2026-11-03
+608,27af77e5-6680-43d3-9202-40be9b5d14a0,The Wretched,25.63,87.3235,Highly liquid,0.4398,4,True,0.1874,,,,0.0,95.2478,74.6446,,,False,2026-11-03
+609,d94ff0b8-5499-4eeb-80f0-20c7fbf07499,"Voja, Jaws of the Conclave",9.67,87.3232,Highly liquid,0.4415,4,True,0.0528,,,,0.0,94.914,75.1781,,,False,2026-11-03
+610,8fd7503b-e722-49a7-a8ac-786e7354bc95,B.F.M. (Big Furry Monster),14.84,87.3212,Highly liquid,0.4128,4,True,0.4031,,,,0.0,97.8369,70.4959,,,False,2026-11-03
+611,739a5220-50cd-4148-be58-1bbdeef2954e,"Greymond, Avacyn's Stalwart",64.92,87.3205,Highly liquid,0.4399,4,True,0.1713,,,,0.0,95.1691,74.7628,,,False,2026-11-03
+612,826a0db6-195a-4697-9bd6-f544b279e3cf,"Betor, Kin to All",15.915,87.3199,Highly liquid,0.4408,4,True,0.1473,,,,0.0,95.0741,74.9132,,,False,2026-11-03
+613,bb493c95-5f6d-405b-aac6-c56fe6b6f42f,Nature's Cloak,8.45,87.3185,Highly liquid,0.3841,4,True,0.4555,,,,0.0,99.1614,68.3699,,,False,2026-11-03
+614,10c48d19-d91f-4674-b186-477acaf08e5a,"Kellan, the Fae-Blooded // Birthright Boon",5.195,87.3168,Highly liquid,0.4393,4,True,0.214,,,,0.0,95.3889,74.4013,,,False,2026-11-03
+615,ef86989d-ce80-4e55-aece-7d11710eeffa,Polluted Delta,47.415,87.3077,Highly liquid,0.4399,4,True,0.1798,,1.0,,0.0,95.1881,74.699,,,False,2026-11-03
+616,4d6120d6-fcce-40bc-9fc6-e1f5beb6c728,Embercleave,16.485,87.302,Highly liquid,0.4316,4,True,0.2995,,,,0.0,96.0538,73.299,,,False,2026-11-03
+617,d895863e-a3c5-4e1f-bd28-e47a8717bbd0,Scavenged Brawler,4.235,87.3003,Highly liquid,0.4299,4,True,0.3151,,,,0.0,96.2113,73.0428,,,False,2026-11-03
+618,917f2b4b-79ec-4ded-b4c8-cbcf363cb23b,Eureka,441.995,87.2968,Highly liquid,0.4385,4,True,0.2428,,,,1.0,95.5653,74.0671,,,False,2026-11-03
+619,7f06c098-6482-4bf3-a9a1-110d6d5b5703,Gilded Drake,199.64,87.2933,Highly liquid,0.4333,4,True,0.2869,,,,1.0,95.929,73.476,,,False,2026-11-03
+620,d12cfd46-73c2-4206-9a10-0d2e7d6ac87e,"Balan, Wandering Knight",21.81,87.2929,Highly liquid,0.4165,4,True,0.389,,,,0.0,97.5194,70.9304,,,False,2026-11-03
+621,615927c2-3fb0-4e64-a1a7-55fb56de1423,Soul Shatter,4.375,87.2901,Highly liquid,0.4278,4,True,0.3469,,,,0.0,96.7025,72.2301,,,False,2026-11-03
+622,2fc5fffa-2eb1-4a3c-af47-3ff8c7df608d,"Yuan Shao, the Indecisive",138.335,87.2695,Highly liquid,0.4,4,True,0.4138,,,,0.0,98.0215,70.0664,,,False,2026-11-03
+623,cb558dda-0c05-426d-aedc-bc07cc54db76,Khabál Ghoul,143.705,87.2692,Highly liquid,0.4333,4,True,0.2928,,,,1.0,95.9399,73.3962,,,False,2026-11-03
+624,c7031047-5109-482f-b2e9-14800b9279bf,Riders of the Mark,7.795,87.2671,Highly liquid,0.4415,4,True,0.1212,,,,0.0,94.914,75.032,,,False,2026-11-03
+625,fb81f95c-70f8-4eb7-8d15-15d0ae23ec03,Mystical Tutor,24.195,87.267,Highly liquid,0.4284,4,True,0.3324,,,,0.0,96.4202,72.6219,,,False,2026-11-03
+626,4ac9116f-36bc-4d71-b696-d6ee064e1d58,Juggernaut,15.765,87.2607,Highly liquid,0.4371,4,True,0.2744,,,,0.0,95.7689,73.6475,,,False,2026-11-03
+627,652e87af-7cf0-407f-9fb7-1a630fb8dd47,Overlord of the Balemurk,18.225,87.2582,Highly liquid,0.4241,4,True,0.3587,,1.0,,0.0,96.8789,71.865,,,False,2026-11-03
+628,a7243d25-22a2-4df5-adaf-1f40f5330ec1,Sakashima the Impostor,13.25,87.2577,Highly liquid,0.4316,4,True,0.3061,,,,0.0,96.0538,73.1839,,,False,2026-11-03
+629,89738595-dafb-400a-bfba-91a53a37e717,Grim Hireling,13.65,87.2568,Highly liquid,0.4408,4,True,0.1728,,,,0.0,95.0741,74.7492,,,False,2026-11-03
+630,8a70bde5-c514-4dcf-919a-48bdd1c17768,Basim Ibn Ishaq,5.425,87.2554,Highly liquid,0.4393,4,True,0.2281,,,,0.0,95.3889,74.2417,,,False,2026-11-03
+631,a78f981a-bf8a-42a4-b171-d655cc2cc1a2,Razorkin Needlehead,6.455,87.2478,Highly liquid,0.4177,4,True,0.3814,,,,0.0,97.2914,71.178,,,False,2026-11-03
+632,683e7135-de54-49c8-a978-4f84628a6a91,Serendib Djinn,145.01,87.2466,Highly liquid,0.4375,4,True,0.2566,,,,1.0,95.5925,73.8932,,,False,2026-11-03
+633,6bb00a28-8b5a-4049-93b7-3db02de88aeb,Forsaken City,11.59,87.2456,Highly liquid,0.4282,4,True,0.3426,,,,0.0,96.5614,72.3403,,,False,2026-11-03
+634,55c71732-6ba1-401d-8759-4d64dae22133,Declaration of Naught,9.445,87.2398,Highly liquid,0.4177,4,True,0.401,0.6,5.0,,0.0,97.2914,70.5417,88.009,,False,2026-11-03
 635,f71f01bc-caae-426b-a25a-bfbfeb9feb67,Seafarer's Quay,5.545,87.2332,Highly liquid,0.4278,4,True,0.3511,,,,0.0,96.7025,72.0822,,,False,2026-11-03
 636,9a8c8d52-1701-4ae0-9d2d-cce4e476673b,Power Artifact,164.825,87.2241,Highly liquid,0.4348,4,True,0.2905,,,,1.0,95.8449,73.4309,,,False,2026-11-03
 637,b11c250c-f191-4c52-ba02-a9176f163447,Emiel the Blessed,12.9,87.2087,Highly liquid,0.4408,4,True,0.1904,,,,0.0,95.0741,74.6242,,,False,2026-11-03
@@ -810,7 +810,7 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 809,d1946f91-0653-4647-b3de-95d78b9597c4,Mistbind Clique,6.96,86.5983,Highly liquid,0.4393,4,True,0.3355,,,,0.0,95.3889,72.5334,,,False,2026-11-03
 810,32e5339e-9e4f-46f8-b305-f9d6d3ba8bb5,Lotus Petal,38.935,86.5895,Highly liquid,0.4443,4,True,0.2294,,,,0.0,94.3169,74.2256,,,False,2026-11-03
 811,52d8e70b-7e94-4e17-811f-70afe39ff9bd,Memnarch,7.4,86.5894,Highly liquid,0.4464,4,True,0.1929,,,,0.0,94.0808,74.6031,,,False,2026-11-03
-812,0c2841bb-038c-4fbf-8360-bc0a1522b58d,Exploration,29.98,86.5883,Highly liquid,0.4472,4,True,0.1374,,1.0,,0.0,93.8555,74.9609,,,False,2026-11-03
+812,0c2841bb-038c-4fbf-8360-bc0a1522b58d,Exploration,29.98,86.5883,Highly liquid,0.4472,4,True,0.1374,,,,0.0,93.8555,74.9609,,,False,2026-11-03
 813,38394ee3-6726-4f91-bc25-36bce0c6aab9,Reiterate,15.88,86.5848,Highly liquid,0.4345,4,True,0.3638,,,,0.0,95.8856,71.7034,,,False,2026-11-03
 814,76678885-3674-443d-b9a2-2a460cf6aac0,Panharmonicon,12.025,86.5829,Highly liquid,0.4441,4,True,0.2398,,,,0.0,94.3847,74.0999,,,False,2026-11-03
 815,362f25a6-01ff-4c53-be52-c6346a9b0065,"Untaidake, the Cloud Keeper",5.0,86.5809,Highly liquid,0.392,4,True,0.491,,,,0.0,98.8818,66.8993,,,False,2026-11-03
@@ -1210,23 +1210,23 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 1209,ba4e4afb-24bb-47de-aba8-89d21b11d45c,War's Toll,9.615,84.8575,Highly liquid,0.4408,4,True,0.4522,,,,0.0,95.0741,68.511,,,False,2026-11-03
 1210,28b1ed69-784c-4642-86c7-104792d5afc2,Phyrexian Devourer,34.65,84.854,Highly liquid,0.4499,4,True,0.3731,,,,1.0,93.2503,71.42,,,False,2026-11-03
 1211,83e047ac-aaa9-4bd8-9ea0-49761d39139c,Myth Unbound,4.935,84.8507,Highly liquid,0.4493,4,True,0.3935,,,,0.0,93.6221,70.8165,,,False,2026-11-03
-1212,585eb5bc-5a3d-44d8-b593-1ff0d67f96a7,"Lightning, Army of One",22.39,84.8463,Highly liquid,0.4462,4,True,0.1567,0.5,6.0,,0.0,94.2029,74.8649,78.6096,,False,2026-11-03
-1213,447de961-106c-4189-83ce-ca63d487e1cd,Biorhythm,25.82,84.836,Highly liquid,0.4392,4,True,0.4698,,,,0.0,95.5165,67.7473,,,False,2026-11-03
-1214,09a1ab1b-d9f0-4a2a-a448-3190f85006e4,Natural Affinity,4.955,84.832,Highly liquid,0.4299,4,True,0.4983,,,,0.0,96.2113,66.6251,,,False,2026-11-03
-1215,56ed6af3-8f85-4907-9364-eca71f21bb11,Frost Giant,2.295,84.8229,Highly liquid,0.498,4,True,0.2277,,,,0.0,91.4346,74.2441,,,False,2026-11-03
-1216,50c52320-9f84-4655-a91a-e09b71f9025c,Taunting Challenge,47.585,84.8212,Highly liquid,0.4482,4,True,0.4047,,,,0.0,93.8148,70.4315,,,False,2026-11-03
-1217,d88c3554-18db-4e5e-a979-2402990a0311,Echocasting Symposium,4.295,84.8211,Highly liquid,0.4489,4,True,0.4002,,,,0.0,93.7361,70.5572,,,False,2026-11-03
-1218,48ee9007-2d1c-446f-aee3-795d23028e06,Faerie Slumber Party,2.795,84.8201,Highly liquid,0.4983,4,True,0.1816,,,,0.0,91.1524,74.6885,,,False,2026-11-03
-1219,be5d9522-40b4-4f45-978b-d78bd00f9491,Dakmor Sorceress,5.655,84.8119,Highly liquid,0.4162,4,True,0.5541,,,,0.0,97.6578,64.2584,,,False,2026-11-03
-1220,48cf6b88-6bca-49d4-9951-36d98befa588,"Curie, Emergent Intelligence",1.16,84.8043,Highly liquid,0.4961,4,True,0.3223,,,,0.0,92.257,72.88,,,False,2026-11-03
-1221,112322ad-8f66-4cd4-98a1-f425d61a69ce,True-Name Nemesis,2.75,84.803,Highly liquid,0.4983,4,True,0.1874,,,,0.0,91.1524,74.644,,,False,2026-11-03
-1222,72205fac-a94a-45cc-94c6-40ece2fdce0e,Storm the Vault // Vault of Catlacan,5.55,84.7972,Highly liquid,0.4942,4,True,0.3361,,,,0.0,92.4768,72.5099,,,False,2026-11-03
-1223,0727dc95-03df-4a2c-aed5-73fb840f3db7,Abstruse Archaic,2.58,84.7849,Highly liquid,0.4983,4,True,0.1938,,,,0.0,91.1524,74.5969,,,False,2026-11-03
-1224,25c983e0-a8c9-4784-91a4-8fe04c6df882,Tocasia's Welcome,1.93,84.7786,Highly liquid,0.498,4,True,0.2377,,,,0.0,91.4346,74.129,,,False,2026-11-03
-1225,d113af33-d75d-44e4-a8dc-31f8984edc42,"The Balrog, Durin's Bane",5.195,84.7714,Highly liquid,0.4987,4,True,0.1364,,,,0.0,90.9,74.9658,,,False,2026-11-03
-1226,3405c8a9-a8d6-4b45-9b64-94141076603b,Wavebreak Hippocamp,0.905,84.7704,Highly liquid,0.4966,4,True,0.3045,,,,0.0,91.991,73.2173,,,False,2026-11-03
-1227,dc17836d-8edf-44bd-a9ee-346d6af25dbf,Stolen Grain,12.385,84.7538,Highly liquid,0.3841,4,True,0.6208,,,,0.0,99.1614,61.7016,,,False,2026-11-03
-1228,48207d1c-448a-4e1b-974a-642dfea75933,Mana Short,2.265,84.7481,Highly liquid,0.498,4,True,0.2437,,,,0.0,91.4346,74.0498,,,False,2026-11-03
+1212,447de961-106c-4189-83ce-ca63d487e1cd,Biorhythm,25.82,84.836,Highly liquid,0.4392,4,True,0.4698,,,,0.0,95.5165,67.7473,,,False,2026-11-03
+1213,09a1ab1b-d9f0-4a2a-a448-3190f85006e4,Natural Affinity,4.955,84.832,Highly liquid,0.4299,4,True,0.4983,,,,0.0,96.2113,66.6251,,,False,2026-11-03
+1214,56ed6af3-8f85-4907-9364-eca71f21bb11,Frost Giant,2.295,84.8229,Highly liquid,0.498,4,True,0.2277,,,,0.0,91.4346,74.2441,,,False,2026-11-03
+1215,50c52320-9f84-4655-a91a-e09b71f9025c,Taunting Challenge,47.585,84.8212,Highly liquid,0.4482,4,True,0.4047,,,,0.0,93.8148,70.4315,,,False,2026-11-03
+1216,d88c3554-18db-4e5e-a979-2402990a0311,Echocasting Symposium,4.295,84.8211,Highly liquid,0.4489,4,True,0.4002,,,,0.0,93.7361,70.5572,,,False,2026-11-03
+1217,48ee9007-2d1c-446f-aee3-795d23028e06,Faerie Slumber Party,2.795,84.8201,Highly liquid,0.4983,4,True,0.1816,,,,0.0,91.1524,74.6885,,,False,2026-11-03
+1218,be5d9522-40b4-4f45-978b-d78bd00f9491,Dakmor Sorceress,5.655,84.8119,Highly liquid,0.4162,4,True,0.5541,,,,0.0,97.6578,64.2584,,,False,2026-11-03
+1219,48cf6b88-6bca-49d4-9951-36d98befa588,"Curie, Emergent Intelligence",1.16,84.8043,Highly liquid,0.4961,4,True,0.3223,,,,0.0,92.257,72.88,,,False,2026-11-03
+1220,112322ad-8f66-4cd4-98a1-f425d61a69ce,True-Name Nemesis,2.75,84.803,Highly liquid,0.4983,4,True,0.1874,,,,0.0,91.1524,74.644,,,False,2026-11-03
+1221,72205fac-a94a-45cc-94c6-40ece2fdce0e,Storm the Vault // Vault of Catlacan,5.55,84.7972,Highly liquid,0.4942,4,True,0.3361,,,,0.0,92.4768,72.5099,,,False,2026-11-03
+1222,0727dc95-03df-4a2c-aed5-73fb840f3db7,Abstruse Archaic,2.58,84.7849,Highly liquid,0.4983,4,True,0.1938,,,,0.0,91.1524,74.5969,,,False,2026-11-03
+1223,25c983e0-a8c9-4784-91a4-8fe04c6df882,Tocasia's Welcome,1.93,84.7786,Highly liquid,0.498,4,True,0.2377,,,,0.0,91.4346,74.129,,,False,2026-11-03
+1224,d113af33-d75d-44e4-a8dc-31f8984edc42,"The Balrog, Durin's Bane",5.195,84.7714,Highly liquid,0.4987,4,True,0.1364,,,,0.0,90.9,74.9658,,,False,2026-11-03
+1225,3405c8a9-a8d6-4b45-9b64-94141076603b,Wavebreak Hippocamp,0.905,84.7704,Highly liquid,0.4966,4,True,0.3045,,,,0.0,91.991,73.2173,,,False,2026-11-03
+1226,dc17836d-8edf-44bd-a9ee-346d6af25dbf,Stolen Grain,12.385,84.7538,Highly liquid,0.3841,4,True,0.6208,,,,0.0,99.1614,61.7016,,,False,2026-11-03
+1227,48207d1c-448a-4e1b-974a-642dfea75933,Mana Short,2.265,84.7481,Highly liquid,0.498,4,True,0.2437,,,,0.0,91.4346,74.0498,,,False,2026-11-03
+1228,585eb5bc-5a3d-44d8-b593-1ff0d67f96a7,"Lightning, Army of One",22.39,84.7475,Highly liquid,0.4462,4,True,0.1567,0.5,6.0,,0.0,94.2029,74.8649,78.19,,False,2026-11-03
 1229,55f9a9a2-2842-4555-8b54-03aebc8d6fb8,"Llawan, Cephalid Empress",1.995,84.7449,Highly liquid,0.4966,4,True,0.3083,,,,0.0,91.991,73.1511,,,False,2026-11-03
 1230,75b73eb2-dafd-43db-9e96-7e1995d9849f,Song of Creation,3.615,84.7357,Highly liquid,0.4987,4,True,0.1553,,,,0.0,90.9,74.873,,,False,2026-11-03
 1231,34b93a66-de1e-4133-a479-e0d90ba94a3a,Mutable Explorer,1.695,84.7355,Highly liquid,0.498,4,True,0.246,,,,0.0,91.4346,74.017,,,False,2026-11-03
@@ -1300,51 +1300,51 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 1299,5e4c81b9-a31e-45e6-983f-30f11b8a05c0,"Kaya, Ghost Assassin",3.97,84.3677,Highly liquid,0.4991,4,True,0.2318,,,,0.0,90.7181,74.207,,,False,2026-11-03
 1300,68fc55b9-55cc-4caf-a052-b44ddc0b346f,Wu Longbowman,7.075,84.3657,Highly liquid,0.3914,4,True,0.6404,,1.0,,0.0,98.9388,61.0486,,,False,2026-11-03
 1301,6c31f06d-bf02-48a7-9c17-be2a226b8eae,Thran Turbine,2.79,84.355,Highly liquid,0.4983,4,True,0.2867,,,,0.0,91.1524,73.4791,,,False,2026-11-03
-1302,d83bb32d-f409-421a-9d93-bd7ea3240b47,"Erayo, Soratami Ascendant // Erayo's Essence",14.22,84.3498,Highly liquid,0.4703,4,True,0.4072,,,,0.0,93.0902,70.3653,,,False,2026-11-03
-1303,0f019387-4684-493f-80c4-de6023096306,Alert Shu Infantry,11.97,84.3483,Highly liquid,0.3992,4,True,0.6249,,,,0.0,98.5724,61.5896,,,False,2026-11-03
-1304,0cdece2a-0bdf-4e6d-9ddc-4a8d58b2ec29,Tree of Perdition,3.86,84.3421,Highly liquid,0.4393,4,True,0.4977,,,,0.0,95.3889,66.6672,,,False,2026-11-03
-1305,0c2abd2a-ca98-45d2-8dd1-984d2c0c266a,Trickbind,12.19,84.3419,Highly liquid,0.4371,4,True,0.5105,,,,0.0,95.7689,66.0588,,,False,2026-11-03
-1306,68b41a04-8cb0-4edf-b488-a219494453ae,"Varragoth, Bloodsky Sire",4.855,84.3366,Highly liquid,0.4992,4,True,0.204,,,,0.0,90.4793,74.5084,,,False,2026-11-03
-1307,a20a7cf8-2075-47ad-9229-36264b112e61,Vexing Shusher,4.59,84.3353,Highly liquid,0.4991,4,True,0.238,,,,0.0,90.7181,74.1228,,,False,2026-11-03
-1308,ff94e2d5-8ba1-4f6c-916d-58235a60743e,"Leori, Sparktouched Hunter",1.465,84.3277,Highly liquid,0.3734,4,True,0.6659,,,,0.0,99.3676,60.2638,,,False,2026-11-03
-1309,2efb908f-d069-4041-930b-5c1ccec00db2,Of Herbs and Stewed Rabbit,5.93,84.3277,Highly liquid,0.3992,4,True,0.6229,,,,0.0,98.51,61.636,,,False,2026-11-03
-1310,3979067a-9c68-443d-a85f-d9f07be880b9,Monastery Mentor,2.125,84.3253,Highly liquid,0.4978,4,True,0.3269,,,,0.0,91.5486,72.768,,,False,2026-11-03
-1311,f01efb04-ad2b-46fb-852c-dfb7e523e1b7,"Mirri, Cat Warrior",3.0,84.3253,Highly liquid,0.4986,4,True,0.2765,,,,0.0,91.0194,73.6147,,,False,2026-11-03
-1312,076584c8-ec58-4711-8f59-4839a4fa88ad,Battle at the Helvault,5.16,84.3178,Highly liquid,0.4942,4,True,0.3788,,,,0.0,92.4768,71.2634,,,False,2026-11-03
-1313,bcd5e175-2ef0-48f4-b9bd-14383dd234e0,"Ardoz, Cobbler of War",5.375,84.3137,Highly liquid,0.4992,4,True,0.1619,,,,0.0,90.2377,74.8352,,,False,2026-11-03
-1314,210940f1-3c11-4877-bbfc-2429c03f98ee,Masked Vandal,5.205,84.3114,Highly liquid,0.4992,4,True,0.2099,,,,0.0,90.4793,74.4428,,,False,2026-11-03
-1315,1ad78038-44f9-4599-84db-fc1a87d9ed45,Galerider Sliver,5.62,84.3026,Highly liquid,0.4935,4,True,0.3893,,,,0.0,92.6641,70.9242,,,False,2026-11-03
-1316,721e8249-ff1b-4c15-964b-4ba2a96beb75,The Eleventh Doctor,1.165,84.3016,Highly liquid,0.4966,4,True,0.3545,,,,0.0,91.991,71.9987,,,False,2026-11-03
-1317,f5822e53-ddec-4c77-bcf4-091e35c1e731,Rebuff the Wicked,5.345,84.2876,Highly liquid,0.4935,4,True,0.3907,,,,0.0,92.6641,70.8852,,,False,2026-11-03
-1318,2837be10-23ad-49d2-943e-b1e00edbbbd9,"Sam, Loyal Attendant",34.735,84.2842,Highly liquid,0.3748,4,True,0.6637,,,,0.0,99.2537,60.3331,,,False,2026-11-03
-1319,d0e99535-0ea0-4aa5-99f5-6c5255b27c38,Phelddagrif,5.99,84.2836,Highly liquid,0.4927,4,True,0.4017,,,,1.0,92.8785,70.5318,,,False,2026-11-03
-1320,12e4d2bd-83e9-4120-a2e8-0645c0ed2387,Ebon Dragon,7.44,84.2793,Highly liquid,0.4935,4,True,0.3916,,,,0.0,92.6641,70.8636,,,False,2026-11-03
-1321,4baa6145-216e-476b-b178-aaaa1e633701,Tempt with Discovery,2.76,84.2762,Highly liquid,0.4983,4,True,0.3007,,,,0.0,91.1524,73.2743,,,False,2026-11-03
-1322,c0adbddc-b070-4c5f-afe0-0474c72a9251,Gemstone Caverns,60.165,84.2745,Highly liquid,0.4499,4,True,0.4142,,,,0.0,93.1743,70.0348,,,False,2026-11-03
-1323,16156274-8dc0-439c-94c4-e8c89bbb5687,Loading Zone,3.09,84.2649,Highly liquid,0.4987,4,True,0.2743,,,,0.0,90.9,73.6487,,,False,2026-11-03
-1324,64d022ab-5222-4a7a-ab8a-89749560f666,Shared Triumph,5.02,84.2627,Highly liquid,0.4464,4,True,0.4502,,,,0.0,94.0808,68.5537,,,False,2026-11-03
-1325,bd8adca6-4f16-45f8-994a-fe55bd573bd0,Turbulent Wilderness,6.22,84.2565,Highly liquid,0.4993,4,True,0.1121,,,,0.0,90.0043,75.0599,,,False,2026-11-03
-1326,be8b36ce-52c1-4ca0-9141-4c9a80dca3ea,Victory Chimes,5.575,84.2548,Highly liquid,0.4992,4,True,0.223,,,,0.0,90.4793,74.2955,,,False,2026-11-03
-1327,68d7f338-c6e7-4372-b41c-901e39e08bde,Dreamborn Muse,3.31,84.2546,Highly liquid,0.4987,4,True,0.2762,,,,0.0,90.9,73.6221,,,False,2026-11-03
-1328,2cf5ce1f-d5f6-44cd-96e5-87d990d7e770,Infernal Medusa,5.375,84.2369,Highly liquid,0.4992,4,True,0.2273,,,,0.0,90.4793,74.2491,,,False,2026-11-03
-1329,3c43efd6-b1a8-452c-ae20-9a936c3340ab,Treasure Vault,1.75,84.2358,Highly liquid,0.4978,4,True,0.3353,,,,0.0,91.5486,72.5353,,,False,2026-11-03
-1330,bcb2f489-9d58-424d-96c1-a124a8d25a14,Energy Vortex,0.8,84.2206,Highly liquid,0.4961,4,True,0.3757,,,,1.0,92.257,71.3624,,,False,2026-11-03
-1331,70446c56-07de-4d7f-94ae-4da88fba41cf,Katabatic Winds,1.05,84.2195,Highly liquid,0.4966,4,True,0.3617,,,,1.0,91.991,71.7851,,,False,2026-11-03
-1332,8a83ecee-092b-456c-803f-a9aaa17c4da9,Exploration Broodship,4.125,84.2141,Highly liquid,0.4992,4,True,0.2331,,,,0.0,90.4793,74.1897,,,False,2026-11-03
-1333,0dc76b7f-6405-44a1-8c55-31fa480ff70b,"Ral Zarek, Guest Lecturer",3.56,84.2121,Highly liquid,0.4393,4,True,0.504,,,,0.0,95.3889,66.3293,,,False,2026-11-03
-1334,69556f6c-c05b-4902-bac7-012f0ed81b75,Merchant Ship,35.3,84.2068,Highly liquid,0.4499,4,True,0.4236,,,,1.0,93.2503,69.7371,,,False,2026-11-03
-1335,6cb8b8c4-0674-4f14-9d89-010969fbb80e,Grave Researcher // Reanimate,2.09,84.2027,Highly liquid,0.4986,4,True,0.2998,,,,0.0,91.0194,73.2959,,,False,2026-11-03
-1336,3998a60d-9521-4100-8d41-3e612972a3de,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",4.82,84.1961,Highly liquid,0.4992,4,True,0.2019,,,,0.0,90.2377,74.5295,,,False,2026-11-03
-1337,a9a6c2ba-30ba-4e45-9ea0-ea9833342069,Dragon Broodmother,5.61,84.1904,Highly liquid,0.4992,4,True,0.2034,,,,0.0,90.2377,74.5146,,,False,2026-11-03
-1338,7e0cdba8-45e0-4fe5-b440-2d8fcf4d6b2b,Sanctum Prelate,2.04,84.1891,Highly liquid,0.4983,4,True,0.3148,,,,0.0,91.1524,73.0478,,,False,2026-11-03
-1339,8b60fcfe-fb90-4a00-a708-25b59bfc9b5a,Will-o'-the-Wisp,30.885,84.1756,Highly liquid,0.3786,4,True,0.6713,,,,0.0,99.2075,60.1246,,,False,2026-11-03
-1340,7683c2b2-a06f-4691-9cc5-1968dc032885,"Pir, Imaginative Rascal",8.37,84.1753,Highly liquid,0.4994,4,True,0.0858,,,,0.0,89.8306,75.1267,,,False,2026-11-03
-1341,20ae75a7-14ca-4366-af0a-3f3f02159f3f,Deathgrip,3.29,84.1705,Highly liquid,0.4986,4,True,0.3048,,,,0.0,91.0194,73.2124,,,False,2026-11-03
-1342,ef2b1565-7b02-4cab-9031-beb1701ee929,Tsunami,7.5,84.1693,Highly liquid,0.3914,4,True,0.6586,,,,0.0,98.9388,60.538,,,False,2026-11-03
-1343,d4a3c9a5-3c91-4135-a19d-98eb5bcf5e00,Prismatic Lace,4.61,84.1587,Highly liquid,0.4991,4,True,0.2733,,,,1.0,90.7181,73.6636,,,False,2026-11-03
-1344,9097457c-ceb3-4944-8f01-c28ddefbb270,Eightfold Maze,31.335,84.1582,Highly liquid,0.4417,4,True,0.4847,,,,0.0,94.781,67.1618,,,False,2026-11-03
-1345,135cb4af-f4b6-455b-8fea-84fcef78ee03,Deploy to the Front,1.61,84.1495,Highly liquid,0.4972,4,True,0.3581,,,,0.0,91.8092,71.8941,,,False,2026-11-03
-1346,59238ba1-fde4-4e43-9f24-b24125e59de0,"Lu Su, Wu Advisor",61.355,84.1432,Highly liquid,0.3999,4,True,0.8324,0.75,4.0,,0.0,98.2658,56.9643,89.8717,,False,2026-11-03
+1302,59238ba1-fde4-4e43-9f24-b24125e59de0,"Lu Su, Wu Advisor",61.355,84.3544,Highly liquid,0.3999,4,True,0.8324,0.75,4.0,,0.0,98.2658,56.9643,90.7692,,False,2026-11-03
+1303,d83bb32d-f409-421a-9d93-bd7ea3240b47,"Erayo, Soratami Ascendant // Erayo's Essence",14.22,84.3498,Highly liquid,0.4703,4,True,0.4072,,,,0.0,93.0902,70.3653,,,False,2026-11-03
+1304,0f019387-4684-493f-80c4-de6023096306,Alert Shu Infantry,11.97,84.3483,Highly liquid,0.3992,4,True,0.6249,,,,0.0,98.5724,61.5896,,,False,2026-11-03
+1305,0cdece2a-0bdf-4e6d-9ddc-4a8d58b2ec29,Tree of Perdition,3.86,84.3421,Highly liquid,0.4393,4,True,0.4977,,,,0.0,95.3889,66.6672,,,False,2026-11-03
+1306,0c2abd2a-ca98-45d2-8dd1-984d2c0c266a,Trickbind,12.19,84.3419,Highly liquid,0.4371,4,True,0.5105,,,,0.0,95.7689,66.0588,,,False,2026-11-03
+1307,68b41a04-8cb0-4edf-b488-a219494453ae,"Varragoth, Bloodsky Sire",4.855,84.3366,Highly liquid,0.4992,4,True,0.204,,,,0.0,90.4793,74.5084,,,False,2026-11-03
+1308,a20a7cf8-2075-47ad-9229-36264b112e61,Vexing Shusher,4.59,84.3353,Highly liquid,0.4991,4,True,0.238,,,,0.0,90.7181,74.1228,,,False,2026-11-03
+1309,ff94e2d5-8ba1-4f6c-916d-58235a60743e,"Leori, Sparktouched Hunter",1.465,84.3277,Highly liquid,0.3734,4,True,0.6659,,,,0.0,99.3676,60.2638,,,False,2026-11-03
+1310,2efb908f-d069-4041-930b-5c1ccec00db2,Of Herbs and Stewed Rabbit,5.93,84.3277,Highly liquid,0.3992,4,True,0.6229,,,,0.0,98.51,61.636,,,False,2026-11-03
+1311,3979067a-9c68-443d-a85f-d9f07be880b9,Monastery Mentor,2.125,84.3253,Highly liquid,0.4978,4,True,0.3269,,,,0.0,91.5486,72.768,,,False,2026-11-03
+1312,f01efb04-ad2b-46fb-852c-dfb7e523e1b7,"Mirri, Cat Warrior",3.0,84.3253,Highly liquid,0.4986,4,True,0.2765,,,,0.0,91.0194,73.6147,,,False,2026-11-03
+1313,076584c8-ec58-4711-8f59-4839a4fa88ad,Battle at the Helvault,5.16,84.3178,Highly liquid,0.4942,4,True,0.3788,,,,0.0,92.4768,71.2634,,,False,2026-11-03
+1314,bcd5e175-2ef0-48f4-b9bd-14383dd234e0,"Ardoz, Cobbler of War",5.375,84.3137,Highly liquid,0.4992,4,True,0.1619,,,,0.0,90.2377,74.8352,,,False,2026-11-03
+1315,210940f1-3c11-4877-bbfc-2429c03f98ee,Masked Vandal,5.205,84.3114,Highly liquid,0.4992,4,True,0.2099,,,,0.0,90.4793,74.4428,,,False,2026-11-03
+1316,1ad78038-44f9-4599-84db-fc1a87d9ed45,Galerider Sliver,5.62,84.3026,Highly liquid,0.4935,4,True,0.3893,,,,0.0,92.6641,70.9242,,,False,2026-11-03
+1317,721e8249-ff1b-4c15-964b-4ba2a96beb75,The Eleventh Doctor,1.165,84.3016,Highly liquid,0.4966,4,True,0.3545,,,,0.0,91.991,71.9987,,,False,2026-11-03
+1318,f5822e53-ddec-4c77-bcf4-091e35c1e731,Rebuff the Wicked,5.345,84.2876,Highly liquid,0.4935,4,True,0.3907,,,,0.0,92.6641,70.8852,,,False,2026-11-03
+1319,2837be10-23ad-49d2-943e-b1e00edbbbd9,"Sam, Loyal Attendant",34.735,84.2842,Highly liquid,0.3748,4,True,0.6637,,,,0.0,99.2537,60.3331,,,False,2026-11-03
+1320,d0e99535-0ea0-4aa5-99f5-6c5255b27c38,Phelddagrif,5.99,84.2836,Highly liquid,0.4927,4,True,0.4017,,,,1.0,92.8785,70.5318,,,False,2026-11-03
+1321,12e4d2bd-83e9-4120-a2e8-0645c0ed2387,Ebon Dragon,7.44,84.2793,Highly liquid,0.4935,4,True,0.3916,,,,0.0,92.6641,70.8636,,,False,2026-11-03
+1322,4baa6145-216e-476b-b178-aaaa1e633701,Tempt with Discovery,2.76,84.2762,Highly liquid,0.4983,4,True,0.3007,,,,0.0,91.1524,73.2743,,,False,2026-11-03
+1323,c0adbddc-b070-4c5f-afe0-0474c72a9251,Gemstone Caverns,60.165,84.2745,Highly liquid,0.4499,4,True,0.4142,,,,0.0,93.1743,70.0348,,,False,2026-11-03
+1324,16156274-8dc0-439c-94c4-e8c89bbb5687,Loading Zone,3.09,84.2649,Highly liquid,0.4987,4,True,0.2743,,,,0.0,90.9,73.6487,,,False,2026-11-03
+1325,64d022ab-5222-4a7a-ab8a-89749560f666,Shared Triumph,5.02,84.2627,Highly liquid,0.4464,4,True,0.4502,,,,0.0,94.0808,68.5537,,,False,2026-11-03
+1326,bd8adca6-4f16-45f8-994a-fe55bd573bd0,Turbulent Wilderness,6.22,84.2565,Highly liquid,0.4993,4,True,0.1121,,,,0.0,90.0043,75.0599,,,False,2026-11-03
+1327,be8b36ce-52c1-4ca0-9141-4c9a80dca3ea,Victory Chimes,5.575,84.2548,Highly liquid,0.4992,4,True,0.223,,,,0.0,90.4793,74.2955,,,False,2026-11-03
+1328,68d7f338-c6e7-4372-b41c-901e39e08bde,Dreamborn Muse,3.31,84.2546,Highly liquid,0.4987,4,True,0.2762,,,,0.0,90.9,73.6221,,,False,2026-11-03
+1329,2cf5ce1f-d5f6-44cd-96e5-87d990d7e770,Infernal Medusa,5.375,84.2369,Highly liquid,0.4992,4,True,0.2273,,,,0.0,90.4793,74.2491,,,False,2026-11-03
+1330,3c43efd6-b1a8-452c-ae20-9a936c3340ab,Treasure Vault,1.75,84.2358,Highly liquid,0.4978,4,True,0.3353,,,,0.0,91.5486,72.5353,,,False,2026-11-03
+1331,bcb2f489-9d58-424d-96c1-a124a8d25a14,Energy Vortex,0.8,84.2206,Highly liquid,0.4961,4,True,0.3757,,,,1.0,92.257,71.3624,,,False,2026-11-03
+1332,70446c56-07de-4d7f-94ae-4da88fba41cf,Katabatic Winds,1.05,84.2195,Highly liquid,0.4966,4,True,0.3617,,,,1.0,91.991,71.7851,,,False,2026-11-03
+1333,8a83ecee-092b-456c-803f-a9aaa17c4da9,Exploration Broodship,4.125,84.2141,Highly liquid,0.4992,4,True,0.2331,,,,0.0,90.4793,74.1897,,,False,2026-11-03
+1334,0dc76b7f-6405-44a1-8c55-31fa480ff70b,"Ral Zarek, Guest Lecturer",3.56,84.2121,Highly liquid,0.4393,4,True,0.504,,,,0.0,95.3889,66.3293,,,False,2026-11-03
+1335,69556f6c-c05b-4902-bac7-012f0ed81b75,Merchant Ship,35.3,84.2068,Highly liquid,0.4499,4,True,0.4236,,,,1.0,93.2503,69.7371,,,False,2026-11-03
+1336,6cb8b8c4-0674-4f14-9d89-010969fbb80e,Grave Researcher // Reanimate,2.09,84.2027,Highly liquid,0.4986,4,True,0.2998,,,,0.0,91.0194,73.2959,,,False,2026-11-03
+1337,3998a60d-9521-4100-8d41-3e612972a3de,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",4.82,84.1961,Highly liquid,0.4992,4,True,0.2019,,,,0.0,90.2377,74.5295,,,False,2026-11-03
+1338,a9a6c2ba-30ba-4e45-9ea0-ea9833342069,Dragon Broodmother,5.61,84.1904,Highly liquid,0.4992,4,True,0.2034,,,,0.0,90.2377,74.5146,,,False,2026-11-03
+1339,7e0cdba8-45e0-4fe5-b440-2d8fcf4d6b2b,Sanctum Prelate,2.04,84.1891,Highly liquid,0.4983,4,True,0.3148,,,,0.0,91.1524,73.0478,,,False,2026-11-03
+1340,8b60fcfe-fb90-4a00-a708-25b59bfc9b5a,Will-o'-the-Wisp,30.885,84.1756,Highly liquid,0.3786,4,True,0.6713,,,,0.0,99.2075,60.1246,,,False,2026-11-03
+1341,7683c2b2-a06f-4691-9cc5-1968dc032885,"Pir, Imaginative Rascal",8.37,84.1753,Highly liquid,0.4994,4,True,0.0858,,,,0.0,89.8306,75.1267,,,False,2026-11-03
+1342,20ae75a7-14ca-4366-af0a-3f3f02159f3f,Deathgrip,3.29,84.1705,Highly liquid,0.4986,4,True,0.3048,,,,0.0,91.0194,73.2124,,,False,2026-11-03
+1343,ef2b1565-7b02-4cab-9031-beb1701ee929,Tsunami,7.5,84.1693,Highly liquid,0.3914,4,True,0.6586,,,,0.0,98.9388,60.538,,,False,2026-11-03
+1344,d4a3c9a5-3c91-4135-a19d-98eb5bcf5e00,Prismatic Lace,4.61,84.1587,Highly liquid,0.4991,4,True,0.2733,,,,1.0,90.7181,73.6636,,,False,2026-11-03
+1345,9097457c-ceb3-4944-8f01-c28ddefbb270,Eightfold Maze,31.335,84.1582,Highly liquid,0.4417,4,True,0.4847,,,,0.0,94.781,67.1618,,,False,2026-11-03
+1346,135cb4af-f4b6-455b-8fea-84fcef78ee03,Deploy to the Front,1.61,84.1495,Highly liquid,0.4972,4,True,0.3581,,,,0.0,91.8092,71.8941,,,False,2026-11-03
 1347,7abe351e-0889-4fc1-91ae-8372bcd28acb,"Noctis, Heir Apparent",4.555,84.1336,Highly liquid,0.4177,4,True,0.5826,,,,0.0,97.2914,63.0812,,,False,2026-11-03
 1348,6426e73a-7e11-48ab-ac5c-15647c6cf9ba,"Kura, the Boundless Sky",3.66,84.1149,Highly liquid,0.4991,4,True,0.2816,,,,0.0,90.7181,73.5497,,,False,2026-11-03
 1349,e2ad4b4d-d5fe-4a64-9b40-296c8fc8bcce,Jeweled Amulet,7.01,84.1069,Highly liquid,0.4942,4,True,0.3955,,,,0.0,92.4768,70.715,,,False,2026-11-03
@@ -1452,23 +1452,23 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 1451,f184e860-05c3-43cf-a625-ab53427406c5,Wu Warship,1.955,83.7094,Highly liquid,0.4975,4,True,0.3877,,,,0.0,91.6789,70.9583,,,False,2026-11-03
 1452,a3faf698-1dac-45ef-9c43-c8cead489ffc,Irenicus's Vile Duplication,9.89,83.7092,Highly liquid,0.4996,4,True,0.1333,,,,0.0,89.163,74.9831,,,False,2026-11-03
 1453,b40138c3-48bc-4825-ae48-5fea95304088,Silver Shroud Costume,7.655,83.708,Highly liquid,0.4995,4,True,0.2139,,,,0.0,89.524,74.4026,,,False,2026-11-03
-1454,59119143-c0fa-49dd-adf0-e2fd3029c48b,Karakas,53.35,83.7072,Highly liquid,0.3999,4,True,0.3552,0.3846,13.0,,0.0,98.1626,71.9634,69.4759,,False,2026-11-03
-1455,879fdcd8-62ea-4d39-abd4-44e6d82adf4d,Ohran Viper,1.21,83.7032,Highly liquid,0.4975,4,True,0.3884,,,,0.0,91.6789,70.9422,,,False,2026-11-03
-1456,95175d35-c815-47bd-8e69-427972b567b6,Felix Five-Boots,4.41,83.7015,Highly liquid,0.4935,4,True,0.4313,,,,0.0,92.6641,69.3614,,,False,2026-11-03
-1457,d32f7af3-b371-4883-b619-5a569767ff89,Catalyst Stone,5.205,83.6999,Highly liquid,0.4992,4,True,0.3233,,,,0.0,90.4793,72.8528,,,False,2026-11-03
-1458,6d4e7943-1fdf-4085-8af0-658badbd0cb8,Monster Manual // Zoological Study,8.165,83.6995,Highly liquid,0.4995,4,True,0.1863,,,,0.0,89.353,74.6539,,,False,2026-11-03
-1459,9b084cd4-cc21-4f3a-9ac5-1e1160a31aa6,Disrupt Decorum,4.5,83.6965,Highly liquid,0.4992,4,True,0.3236,,,,0.0,90.4793,72.8441,,,False,2026-11-03
-1460,d0ade00d-a496-441d-9b7e-7dc033d3292c,"Titania, Protector of Argoth",0.96,83.6938,Highly liquid,0.4961,4,True,0.4156,,,,0.0,92.257,69.9927,,,False,2026-11-03
-1461,52c3fe55-74ee-44cb-b62b-dc6c5dfdc33e,Detective's Phoenix,1.455,83.6932,Highly liquid,0.4378,4,True,0.5449,,,,0.0,95.5762,64.6805,,,False,2026-11-03
-1462,93fdcc49-e3c8-4f8c-a3bc-064c6392b4ca,Crimson Kobolds,2.525,83.6748,Highly liquid,0.498,4,True,0.3789,,,,0.0,91.4346,71.2591,,,False,2026-11-03
-1463,26516566-c837-428d-bc81-582c74da2c28,Spoils of Blood,1.715,83.6744,Highly liquid,0.4982,4,True,0.3716,,,,0.0,91.3043,71.4664,,,False,2026-11-03
-1464,1e9b0fd6-5aae-401a-8df5-d94ce6442696,"Prosper, Tome-Bound",6.635,83.6694,Highly liquid,0.4994,4,True,0.2623,,,,0.0,89.8306,73.8115,,,False,2026-11-03
-1465,99f9a4c8-b59f-4a41-8577-6c1e4684b240,Worship,6.11,83.6546,Highly liquid,0.4438,4,True,0.5042,,,,0.0,94.4852,66.3256,,,False,2026-11-03
-1466,6b2e6a51-b9e6-4848-b7d7-98f02f2b897f,Leyline of the Guildpact,4.12,83.6475,Highly liquid,0.4927,4,True,0.4432,,,,0.0,92.8785,68.878,,,False,2026-11-03
-1467,cd3d79e9-c72e-4321-bca1-54505d51331a,Conduit of Ruin,5.0,83.6448,Highly liquid,0.4992,4,True,0.312,,,,0.0,90.2377,73.096,,,False,2026-11-03
-1468,ceeeacbc-01b0-4421-aaca-2ce6cdbe45d7,"Tetsuko Umezawa, Fugitive",4.67,83.6425,Highly liquid,0.4993,4,True,0.2877,,,,0.0,90.0043,73.4637,,,False,2026-11-03
-1469,a37159df-f6d7-4db6-85de-0ea77f425993,Mons's Goblin Raiders,6.02,83.6337,Highly liquid,0.4994,4,True,0.2687,,,,0.0,89.8306,73.7187,,,False,2026-11-03
-1470,088dfd02-c0e0-41d1-9923-efe023fb2ad1,Counterbalance,13.2,83.6296,Highly liquid,0.4996,4,True,0.0876,,,,0.0,88.9459,75.1236,,,False,2026-11-03
+1454,879fdcd8-62ea-4d39-abd4-44e6d82adf4d,Ohran Viper,1.21,83.7032,Highly liquid,0.4975,4,True,0.3884,,,,0.0,91.6789,70.9422,,,False,2026-11-03
+1455,95175d35-c815-47bd-8e69-427972b567b6,Felix Five-Boots,4.41,83.7015,Highly liquid,0.4935,4,True,0.4313,,,,0.0,92.6641,69.3614,,,False,2026-11-03
+1456,d32f7af3-b371-4883-b619-5a569767ff89,Catalyst Stone,5.205,83.6999,Highly liquid,0.4992,4,True,0.3233,,,,0.0,90.4793,72.8528,,,False,2026-11-03
+1457,6d4e7943-1fdf-4085-8af0-658badbd0cb8,Monster Manual // Zoological Study,8.165,83.6995,Highly liquid,0.4995,4,True,0.1863,,,,0.0,89.353,74.6539,,,False,2026-11-03
+1458,9b084cd4-cc21-4f3a-9ac5-1e1160a31aa6,Disrupt Decorum,4.5,83.6965,Highly liquid,0.4992,4,True,0.3236,,,,0.0,90.4793,72.8441,,,False,2026-11-03
+1459,d0ade00d-a496-441d-9b7e-7dc033d3292c,"Titania, Protector of Argoth",0.96,83.6938,Highly liquid,0.4961,4,True,0.4156,,,,0.0,92.257,69.9927,,,False,2026-11-03
+1460,52c3fe55-74ee-44cb-b62b-dc6c5dfdc33e,Detective's Phoenix,1.455,83.6932,Highly liquid,0.4378,4,True,0.5449,,,,0.0,95.5762,64.6805,,,False,2026-11-03
+1461,93fdcc49-e3c8-4f8c-a3bc-064c6392b4ca,Crimson Kobolds,2.525,83.6748,Highly liquid,0.498,4,True,0.3789,,,,0.0,91.4346,71.2591,,,False,2026-11-03
+1462,26516566-c837-428d-bc81-582c74da2c28,Spoils of Blood,1.715,83.6744,Highly liquid,0.4982,4,True,0.3716,,,,0.0,91.3043,71.4664,,,False,2026-11-03
+1463,1e9b0fd6-5aae-401a-8df5-d94ce6442696,"Prosper, Tome-Bound",6.635,83.6694,Highly liquid,0.4994,4,True,0.2623,,,,0.0,89.8306,73.8115,,,False,2026-11-03
+1464,99f9a4c8-b59f-4a41-8577-6c1e4684b240,Worship,6.11,83.6546,Highly liquid,0.4438,4,True,0.5042,,,,0.0,94.4852,66.3256,,,False,2026-11-03
+1465,6b2e6a51-b9e6-4848-b7d7-98f02f2b897f,Leyline of the Guildpact,4.12,83.6475,Highly liquid,0.4927,4,True,0.4432,,,,0.0,92.8785,68.878,,,False,2026-11-03
+1466,cd3d79e9-c72e-4321-bca1-54505d51331a,Conduit of Ruin,5.0,83.6448,Highly liquid,0.4992,4,True,0.312,,,,0.0,90.2377,73.096,,,False,2026-11-03
+1467,ceeeacbc-01b0-4421-aaca-2ce6cdbe45d7,"Tetsuko Umezawa, Fugitive",4.67,83.6425,Highly liquid,0.4993,4,True,0.2877,,,,0.0,90.0043,73.4637,,,False,2026-11-03
+1468,a37159df-f6d7-4db6-85de-0ea77f425993,Mons's Goblin Raiders,6.02,83.6337,Highly liquid,0.4994,4,True,0.2687,,,,0.0,89.8306,73.7187,,,False,2026-11-03
+1469,088dfd02-c0e0-41d1-9923-efe023fb2ad1,Counterbalance,13.2,83.6296,Highly liquid,0.4996,4,True,0.0876,,,,0.0,88.9459,75.1236,,,False,2026-11-03
+1470,59119143-c0fa-49dd-adf0-e2fd3029c48b,Karakas,53.35,83.6282,Highly liquid,0.3999,4,True,0.3552,0.3846,13.0,,0.0,98.1626,71.9634,69.1403,,False,2026-11-03
 1471,06c39c1c-0e34-4ef0-bd06-23245cb9cc59,Sister Hospitaller,12.17,83.6277,Highly liquid,0.4996,4,True,0.0894,,,,0.0,88.9459,75.1187,,,False,2026-11-03
 1472,1196a4cb-544c-4e7b-91cd-f0820b21a80d,"Lucy MacLean, Positively Armed",4.265,83.6245,Highly liquid,0.4992,4,True,0.3151,,,,0.0,90.2377,73.0434,,,False,2026-11-03
 1473,c7d8beb6-472c-4758-9876-e8cbf98f4f72,Faerie Macabre,7.145,83.6171,Highly liquid,0.4995,4,True,0.235,,,,0.0,89.524,74.1662,,,False,2026-11-03
@@ -1546,8 +1546,8 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 1545,3b102ccc-7629-457c-aba6-e9b00fd50c85,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",10.575,83.3622,Highly liquid,0.4995,4,True,0.2652,,,,0.0,89.353,73.7768,,,False,2026-11-03
 1546,23f86ee2-b1e3-45c2-bfd5-044919033922,Keeper of Secrets,8.825,83.3583,Highly liquid,0.4996,4,True,0.2426,,,,0.0,89.163,74.0708,,,False,2026-11-03
 1547,273f5483-b67e-4dd6-bba8-c0a047fa34d7,Crackle with Power,16.32,83.3569,Highly liquid,0.4997,4,True,0.0763,,,,0.0,88.4845,75.1527,,,False,2026-11-03
-1548,648bd03d-247e-4d6f-87a9-12a67688cbf5,Scroll Rack,42.905,83.3528,Highly liquid,0.3964,4,True,0.2191,0.2564,39.0,,0.0,98.6729,74.3401,63.9786,,False,2026-11-03
-1549,73dc28a7-37ac-4b16-aa00-967c9c44d979,"Baylen, the Haymaker",1.22,83.3509,Highly liquid,0.4972,4,True,0.4204,,,,0.0,91.8092,69.8176,,,False,2026-11-03
+1548,73dc28a7-37ac-4b16-aa00-967c9c44d979,"Baylen, the Haymaker",1.22,83.3509,Highly liquid,0.4972,4,True,0.4204,,,,0.0,91.8092,69.8176,,,False,2026-11-03
+1549,648bd03d-247e-4d6f-87a9-12a67688cbf5,Scroll Rack,42.905,83.3429,Highly liquid,0.3964,4,True,0.2191,0.275,40.0,,0.0,98.6729,74.3401,63.9367,,False,2026-11-03
 1550,df23a4a5-eddd-4b0e-9f7e-a3733ce49c0d,Riddlekeeper,9.27,83.3425,Highly liquid,0.4996,4,True,0.216,,,,0.0,88.9459,74.3772,,,False,2026-11-03
 1551,b09206a4-8b73-4125-8b79-53f6fd511b16,Wound Reflection,9.63,83.3402,Highly liquid,0.4996,4,True,0.2455,,,,0.0,89.163,74.0238,,,False,2026-11-03
 1552,11323af4-b8b8-4ca9-932f-377c7fd77dea,The Eternity Elevator,4.5,83.3396,Highly liquid,0.4992,4,True,0.3438,,,,0.0,90.2377,72.3026,,,False,2026-11-03
@@ -2218,17 +2218,17 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 2217,003bf21f-6815-4098-a186-aa15f5947541,"Kalitas, Bloodchief of Ghet",4.235,81.1202,Highly liquid,0.5434,4,True,0.2113,,,,0.0,85.301,74.4311,,,False,2026-11-03
 2218,dcc29e59-341c-4175-aa54-f535e2c3e355,Sokka's Charge,7.8,81.115,Highly liquid,0.4997,4,True,0.4326,,,,0.0,88.4845,69.3237,,,False,2026-11-03
 2219,97f9b82f-b3cf-44ff-9abc-2d92d7cbaa27,Ellivere of the Wild Court,1.96,81.1148,Highly liquid,0.5341,4,True,0.3729,,,,0.0,87.1682,71.4293,,,False,2026-11-03
-2220,5e060d58-4d6e-425c-b7d4-727669fcce5b,Buster Sword,42.32,81.1133,Highly liquid,0.4499,4,True,0.2392,0.3714,35.0,,0.0,93.2041,74.1067,65.6898,,False,2026-11-03
-2221,cd54438d-7f9d-4d80-b15b-0f0bf4becc15,Inferno of the Star Mounts,8.05,81.1118,Highly liquid,0.4996,4,True,0.4436,,,,0.0,88.764,68.8681,,,False,2026-11-03
-2222,b46da6bd-578c-4040-97c3-0005b78e31be,Mask of Griselbrand,1.34,81.1112,Highly liquid,0.498,4,True,0.546,,,,0.0,91.4346,64.5938,,,False,2026-11-03
-2223,b0394cf2-12a0-4d4f-87e0-fe8937e6faff,Well of Lost Dreams,9.18,81.1077,Highly liquid,0.4942,4,True,0.587,,,,0.0,92.4768,62.9172,,,False,2026-11-03
-2224,3a646245-b8b7-4f91-a312-d5eea9a9e49a,Extravagant Replication,3.555,81.1048,Highly liquid,0.5434,4,True,0.2148,,,,0.0,85.301,74.3908,,,False,2026-11-03
-2225,2f9107c5-991a-4c20-9b77-2e2fb4b9dc53,Sawhorn Nemesis,1.69,81.1035,Highly liquid,0.5415,4,True,0.3073,,,,0.0,86.0636,73.1672,,,False,2026-11-03
-2226,0a0743b0-07c2-4e11-8b30-6b1b8156bdd0,"Geralf, Visionary Stitcher",3.465,81.1011,Highly liquid,0.4986,4,True,0.5302,,,,0.0,91.0194,65.2319,,,False,2026-11-03
-2227,c78783e5-868d-4a8b-a4f8-95a92853cf0a,Naktamun Lorespinner // Wheel of Fortune,1.935,81.0967,Highly liquid,0.5382,4,True,0.3477,,,,0.0,86.6471,72.2159,,,False,2026-11-03
-2228,3741206f-8ef5-4b8f-ae4c-df3ab0a17683,"Toph, Greatest Earthbender",18.31,81.0958,Highly liquid,0.5452,4,True,0.158,,,,0.0,84.997,74.8538,,,False,2026-11-03
-2229,12cc800c-c7be-4811-8207-fd01a99cc892,"Chandra, Torch of Defiance",2.905,81.0953,Highly liquid,0.5415,4,True,0.2672,,,,0.0,85.6918,73.7409,,,False,2026-11-03
-2230,6e53a43e-5a23-4057-9bb5-281508da57af,"Wolverine, Best There Is",22.405,81.079,Highly liquid,0.5415,4,True,0.3269,,,,0.0,86.2726,72.7692,,,False,2026-11-03
+2220,cd54438d-7f9d-4d80-b15b-0f0bf4becc15,Inferno of the Star Mounts,8.05,81.1118,Highly liquid,0.4996,4,True,0.4436,,,,0.0,88.764,68.8681,,,False,2026-11-03
+2221,b46da6bd-578c-4040-97c3-0005b78e31be,Mask of Griselbrand,1.34,81.1112,Highly liquid,0.498,4,True,0.546,,,,0.0,91.4346,64.5938,,,False,2026-11-03
+2222,b0394cf2-12a0-4d4f-87e0-fe8937e6faff,Well of Lost Dreams,9.18,81.1077,Highly liquid,0.4942,4,True,0.587,,,,0.0,92.4768,62.9172,,,False,2026-11-03
+2223,3a646245-b8b7-4f91-a312-d5eea9a9e49a,Extravagant Replication,3.555,81.1048,Highly liquid,0.5434,4,True,0.2148,,,,0.0,85.301,74.3908,,,False,2026-11-03
+2224,2f9107c5-991a-4c20-9b77-2e2fb4b9dc53,Sawhorn Nemesis,1.69,81.1035,Highly liquid,0.5415,4,True,0.3073,,,,0.0,86.0636,73.1672,,,False,2026-11-03
+2225,0a0743b0-07c2-4e11-8b30-6b1b8156bdd0,"Geralf, Visionary Stitcher",3.465,81.1011,Highly liquid,0.4986,4,True,0.5302,,,,0.0,91.0194,65.2319,,,False,2026-11-03
+2226,c78783e5-868d-4a8b-a4f8-95a92853cf0a,Naktamun Lorespinner // Wheel of Fortune,1.935,81.0967,Highly liquid,0.5382,4,True,0.3477,,,,0.0,86.6471,72.2159,,,False,2026-11-03
+2227,3741206f-8ef5-4b8f-ae4c-df3ab0a17683,"Toph, Greatest Earthbender",18.31,81.0958,Highly liquid,0.5452,4,True,0.158,,,,0.0,84.997,74.8538,,,False,2026-11-03
+2228,12cc800c-c7be-4811-8207-fd01a99cc892,"Chandra, Torch of Defiance",2.905,81.0953,Highly liquid,0.5415,4,True,0.2672,,,,0.0,85.6918,73.7409,,,False,2026-11-03
+2229,6e53a43e-5a23-4057-9bb5-281508da57af,"Wolverine, Best There Is",22.405,81.079,Highly liquid,0.5415,4,True,0.3269,,,,0.0,86.2726,72.7692,,,False,2026-11-03
+2230,5e060d58-4d6e-425c-b7d4-727669fcce5b,Buster Sword,42.32,81.0788,Highly liquid,0.4499,4,True,0.2392,0.3714,35.0,,0.0,93.2041,74.1067,65.543,,False,2026-11-03
 2231,ca4b6689-04ee-4227-9bdc-cb5a9590c745,Hedge Maze,17.255,81.0639,Highly liquid,0.5452,4,True,0.1702,,,,0.0,84.997,74.7708,,,False,2026-11-03
 2232,1bd70be6-752c-4ecb-a3e8-2bacec4b94fc,Gift of Estates,5.645,81.0508,Highly liquid,0.4935,4,True,0.6002,,,,0.0,92.6641,62.4697,,,False,2026-11-03
 2233,384c61f2-17ed-4c7a-8722-e0a05e9dcaf9,Psychotrope Thallid,4.15,81.0499,Highly liquid,0.4942,4,True,0.5915,,,,0.0,92.4768,62.7668,,,False,2026-11-03
@@ -2593,15 +2593,15 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 2592,c0957e5e-c71b-439c-931c-9f55d2f76ace,Fable of the Mirror-Breaker // Reflection of Kiki-Jiki,23.4,79.6768,Highly liquid,0.4494,4,True,0.7921,,,,0.0,93.4945,57.5684,,,False,2026-11-03
 2593,854bdd4a-d549-41d5-af43-0e2154ed017e,Goro-Goro and Satoru,5.275,79.6763,Highly liquid,0.5811,4,True,0.2592,,,,0.0,83.317,73.8511,,,False,2026-11-03
 2594,e6788809-6b34-4701-89af-b422ba35efb2,Magus of the Vineyard,5.14,79.6711,Highly liquid,0.5811,4,True,0.2604,,,,0.0,83.317,73.8375,,,False,2026-11-03
-2595,201b8936-18f4-4881-a1d4-c308cf3832bf,The Legend of Kuruk // Avatar Kuruk,5.0,79.6628,Highly liquid,0.5826,4,True,0.1965,,,,0.0,82.8421,74.5759,,,False,2026-11-03
-2596,3db0207d-d80b-4915-b157-6a3e5b3a154e,Grinning Demon,5.495,79.6616,Highly liquid,0.5826,4,True,0.1971,,,,0.0,82.8421,74.5728,,,False,2026-11-03
-2597,a131c32d-2b4f-4ee4-aab2-ab05ab010978,Pride Sovereign,3.325,79.6564,Highly liquid,0.5489,4,True,0.3523,,,,0.0,84.4081,72.0538,,,False,2026-11-03
-2598,fb773114-6161-46a3-ab30-1853958fbcb0,"Bello, Bard of the Brambles",3.58,79.6547,Highly liquid,0.4942,4,True,0.7112,,,,0.0,92.4768,59.1392,,,False,2026-11-03
-2599,cf58e309-00e8-438e-813e-2e1c1002db23,Dour Port-Mage,3.53,79.6508,Highly liquid,0.5811,4,True,0.2644,,,,0.0,83.317,73.7849,,,False,2026-11-03
-2600,533767ca-7208-4c88-b160-375479b68285,Fade from History,4.57,79.646,Highly liquid,0.4992,4,True,0.5932,,,,0.0,90.2377,62.6993,,,False,2026-11-03
-2601,9fa66e03-7b20-43f6-8c53-1ce18169c382,Cleaver Skaab,4.335,79.6458,Highly liquid,0.5811,4,True,0.2655,,,,0.0,83.317,73.7719,,,False,2026-11-03
-2602,47a080c4-ff04-4f52-aca0-2b8e4f4d931e,Enduring Renewal,2.03,79.6455,Highly liquid,0.5382,4,True,0.4539,,,,0.0,86.6471,68.4429,,,False,2026-11-03
-2603,ff959f1f-0982-4761-a6b0-3044dff1d617,"Lu Bu, Master-at-Arms",43.035,79.6433,Highly liquid,0.3453,4,True,0.168,0.15,20.0,,0.0,99.753,74.7845,45.4973,,False,2026-11-03
+2595,ff959f1f-0982-4761-a6b0-3044dff1d617,"Lu Bu, Master-at-Arms",43.035,79.6647,Highly liquid,0.3453,4,True,0.168,0.1905,21.0,,0.0,99.753,74.7845,45.5882,,False,2026-11-03
+2596,201b8936-18f4-4881-a1d4-c308cf3832bf,The Legend of Kuruk // Avatar Kuruk,5.0,79.6628,Highly liquid,0.5826,4,True,0.1965,,,,0.0,82.8421,74.5759,,,False,2026-11-03
+2597,3db0207d-d80b-4915-b157-6a3e5b3a154e,Grinning Demon,5.495,79.6616,Highly liquid,0.5826,4,True,0.1971,,,,0.0,82.8421,74.5728,,,False,2026-11-03
+2598,a131c32d-2b4f-4ee4-aab2-ab05ab010978,Pride Sovereign,3.325,79.6564,Highly liquid,0.5489,4,True,0.3523,,,,0.0,84.4081,72.0538,,,False,2026-11-03
+2599,fb773114-6161-46a3-ab30-1853958fbcb0,"Bello, Bard of the Brambles",3.58,79.6547,Highly liquid,0.4942,4,True,0.7112,,,,0.0,92.4768,59.1392,,,False,2026-11-03
+2600,cf58e309-00e8-438e-813e-2e1c1002db23,Dour Port-Mage,3.53,79.6508,Highly liquid,0.5811,4,True,0.2644,,,,0.0,83.317,73.7849,,,False,2026-11-03
+2601,533767ca-7208-4c88-b160-375479b68285,Fade from History,4.57,79.646,Highly liquid,0.4992,4,True,0.5932,,,,0.0,90.2377,62.6993,,,False,2026-11-03
+2602,9fa66e03-7b20-43f6-8c53-1ce18169c382,Cleaver Skaab,4.335,79.6458,Highly liquid,0.5811,4,True,0.2655,,,,0.0,83.317,73.7719,,,False,2026-11-03
+2603,47a080c4-ff04-4f52-aca0-2b8e4f4d931e,Enduring Renewal,2.03,79.6455,Highly liquid,0.5382,4,True,0.4539,,,,0.0,86.6471,68.4429,,,False,2026-11-03
 2604,67d29e56-9ca8-46bc-9ee0-20184e867ce4,Summon: Valefor,4.34,79.6414,Highly liquid,0.5826,4,True,0.2029,,,,0.0,82.8421,74.5202,,,False,2026-11-03
 2605,3cb86deb-f4e5-41c5-bfcd-614a24f3499c,Reparations,3.97,79.6325,Highly liquid,0.5491,4,True,0.3389,,,,1.0,84.1258,72.4431,,,False,2026-11-03
 2606,cad19ad2-3ea9-43f5-bb5a-b0793402fab0,Flaring Pain,2.675,79.6237,Highly liquid,0.4992,4,True,0.5944,,,,0.0,90.2377,62.6411,,,False,2026-11-03
@@ -2734,30 +2734,30 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 2733,37dc566e-a91a-448c-9967-b178a93ffb62,The Master of Keys,1.655,79.1687,Highly liquid,0.5341,4,True,0.5033,,,,0.0,87.1682,66.3695,,,False,2026-11-03
 2734,5391f601-b778-413f-a31f-9f8b23b40f5c,Overbeing of Myth,1.715,79.1682,Highly liquid,0.5341,4,True,0.5035,,,,0.0,87.1682,66.3683,,,False,2026-11-03
 2735,e0a6947f-3d52-45e0-8fd7-0bc07cc8c784,Clown Car,12.725,79.1616,Highly liquid,0.5935,4,True,0.2295,,,,0.0,82.2477,74.2237,,,False,2026-11-03
-2736,5def9f38-0a0b-4e8d-9f9d-29dcb46520b4,Esper Sentinel,52.48,79.1515,Highly liquid,0.4461,4,True,0.1941,0.25,12.0,,0.0,94.2599,74.5944,54.631,,False,2026-11-03
-2737,c180f21b-f553-4839-80c7-a3ce2fae9b5a,Hex Parasite,6.255,79.1498,Highly liquid,0.5861,4,True,0.2616,,,,0.0,82.4784,73.8239,,,False,2026-11-03
-2738,5da5d8a3-009e-4d8a-977e-6ebc73ba2682,Not of This World,5.785,79.1407,Highly liquid,0.5861,4,True,0.263,,,,0.0,82.4784,73.8004,,,False,2026-11-03
-2739,cbd2d38b-6402-44b7-ba27-d854268e31d0,Haunting Wind,13.31,79.1354,Highly liquid,0.583,4,True,0.2803,,,,1.0,82.6168,73.5652,,,False,2026-11-03
-2740,2f578020-9b39-4c61-8b0b-6d29187e022a,Mightstone,4.705,79.1276,Highly liquid,0.5811,4,True,0.3395,,,,1.0,83.317,72.4245,,,False,2026-11-03
-2741,567a3fa7-5ca9-4812-b81d-4953c401c83d,Steal Enchantment,6.755,79.125,Highly liquid,0.5861,4,True,0.2664,,,,0.0,82.4784,73.7595,,,False,2026-11-03
-2742,b6a005db-e7e2-4b88-bc8a-c257bcc31cf5,Vile Consumption,8.9,79.1224,Highly liquid,0.5711,4,True,0.3517,,,,0.0,83.5315,72.068,,,False,2026-11-03
-2743,6b071146-2f83-4fda-a55a-46fcb74e6f28,"Deekah, Fractal Theorist",3.38,79.1218,Highly liquid,0.5491,4,True,0.3831,,,,0.0,84.1258,71.1155,,,False,2026-11-03
-2744,27a7610e-acbe-4a2b-9f61-81b383eb20a5,The Regalia,1.165,79.1165,Highly liquid,0.5415,4,True,0.4638,,,,0.0,86.0636,68.001,,,False,2026-11-03
-2745,2109c49e-dc81-4a10-8265-3cf8c90db523,Vampire Nocturnus,5.85,79.1158,Highly liquid,0.5686,4,True,0.3611,,,,0.0,83.6916,71.7944,,,False,2026-11-03
-2746,90379825-1894-4b79-bf72-445175e97ffb,Ulvenwald Oddity // Ulvenwald Behemoth,0.92,79.1109,Highly liquid,0.596,4,True,0.0822,,,,0.0,81.5964,75.1342,,,False,2026-11-03
-2747,84d0c616-2fce-47f4-bfdd-783741a63fd2,Kiora Bests the Sea God,7.345,79.1079,Highly liquid,0.4997,4,True,0.5646,,,,0.0,88.6338,63.8666,,,False,2026-11-03
-2748,868882d2-ed4e-4171-a17c-478a341080fb,"Prossh, Skyraider of Kher",10.32,79.1076,Highly liquid,0.5958,4,True,0.1624,,,,0.0,81.7809,74.8303,,,False,2026-11-03
-2749,b330ac89-790e-4cc9-96a5-532c48252088,Blaze of Glory,73.14,79.1004,Highly liquid,0.4999,4,True,0.5219,,,,1.0,87.54,65.5971,,,False,2026-11-03
-2750,13a884b5-8970-4d71-9082-a8b6c8db9a01,Burning Wish,1.285,79.0959,Highly liquid,0.5382,4,True,0.4873,,,,0.0,86.6471,67.0138,,,False,2026-11-03
-2751,96162b22-41e7-4559-aa1b-c18f42abcb52,Jade Statue,3.3,79.0932,Highly liquid,0.4986,4,True,0.6768,,,,0.0,91.0194,60.0113,,,False,2026-11-03
-2752,6f8a4998-35c7-4e30-a9e7-7d4ec933238a,Triumph of Saint Katherine,4.15,79.0898,Highly liquid,0.5811,4,True,0.3431,,,,0.0,83.317,72.3261,,,False,2026-11-03
-2753,09ab1278-811f-4b97-bd34-7493d6e081e9,"Karn, Living Legacy",2.84,79.0861,Highly liquid,0.4992,4,True,0.6376,,,,0.0,90.2377,61.2436,,,False,2026-11-03
-2754,170adfe9-ffbe-40b1-b665-e756e7eb0302,Jeering Instigator,1.16,79.0855,Highly liquid,0.5415,4,True,0.4657,,,,0.0,86.0636,67.9206,,,False,2026-11-03
-2755,113fc13a-6df9-4eed-b9d4-002a85a036a1,Nissa Revane,7.85,79.0833,Highly liquid,0.5861,4,True,0.2742,,,,0.0,82.4784,73.6512,,,False,2026-11-03
-2756,8e62d05a-6efd-4764-bca8-97895e0cb613,"Caesar, Legion's Emperor",8.635,79.0746,Highly liquid,0.5438,4,True,0.4289,,,,0.0,85.0811,69.4642,,,False,2026-11-03
-2757,70dc830e-d05b-4fc7-88dd-879e140b3fbf,Reality Shift,1.77,79.0741,Highly liquid,0.5485,4,True,0.414,,,,0.0,84.7093,70.0577,,,False,2026-11-03
-2758,0236ad13-d8e4-49b4-b397-fe2f6136665d,Astarion's Thirst,1.805,79.0716,Highly liquid,0.5341,4,True,0.5082,,,,0.0,87.1682,66.117,,,False,2026-11-03
-2759,24cf7fad-233b-49fd-b2a1-a29e3e30041c,Taunt,1.825,79.0675,Highly liquid,0.5341,4,True,0.5085,,,,0.0,87.1682,66.1065,,,False,2026-11-03
+2736,c180f21b-f553-4839-80c7-a3ce2fae9b5a,Hex Parasite,6.255,79.1498,Highly liquid,0.5861,4,True,0.2616,,,,0.0,82.4784,73.8239,,,False,2026-11-03
+2737,5da5d8a3-009e-4d8a-977e-6ebc73ba2682,Not of This World,5.785,79.1407,Highly liquid,0.5861,4,True,0.263,,,,0.0,82.4784,73.8004,,,False,2026-11-03
+2738,cbd2d38b-6402-44b7-ba27-d854268e31d0,Haunting Wind,13.31,79.1354,Highly liquid,0.583,4,True,0.2803,,,,1.0,82.6168,73.5652,,,False,2026-11-03
+2739,2f578020-9b39-4c61-8b0b-6d29187e022a,Mightstone,4.705,79.1276,Highly liquid,0.5811,4,True,0.3395,,,,1.0,83.317,72.4245,,,False,2026-11-03
+2740,567a3fa7-5ca9-4812-b81d-4953c401c83d,Steal Enchantment,6.755,79.125,Highly liquid,0.5861,4,True,0.2664,,,,0.0,82.4784,73.7595,,,False,2026-11-03
+2741,b6a005db-e7e2-4b88-bc8a-c257bcc31cf5,Vile Consumption,8.9,79.1224,Highly liquid,0.5711,4,True,0.3517,,,,0.0,83.5315,72.068,,,False,2026-11-03
+2742,6b071146-2f83-4fda-a55a-46fcb74e6f28,"Deekah, Fractal Theorist",3.38,79.1218,Highly liquid,0.5491,4,True,0.3831,,,,0.0,84.1258,71.1155,,,False,2026-11-03
+2743,27a7610e-acbe-4a2b-9f61-81b383eb20a5,The Regalia,1.165,79.1165,Highly liquid,0.5415,4,True,0.4638,,,,0.0,86.0636,68.001,,,False,2026-11-03
+2744,2109c49e-dc81-4a10-8265-3cf8c90db523,Vampire Nocturnus,5.85,79.1158,Highly liquid,0.5686,4,True,0.3611,,,,0.0,83.6916,71.7944,,,False,2026-11-03
+2745,90379825-1894-4b79-bf72-445175e97ffb,Ulvenwald Oddity // Ulvenwald Behemoth,0.92,79.1109,Highly liquid,0.596,4,True,0.0822,,,,0.0,81.5964,75.1342,,,False,2026-11-03
+2746,84d0c616-2fce-47f4-bfdd-783741a63fd2,Kiora Bests the Sea God,7.345,79.1079,Highly liquid,0.4997,4,True,0.5646,,,,0.0,88.6338,63.8666,,,False,2026-11-03
+2747,868882d2-ed4e-4171-a17c-478a341080fb,"Prossh, Skyraider of Kher",10.32,79.1076,Highly liquid,0.5958,4,True,0.1624,,,,0.0,81.7809,74.8303,,,False,2026-11-03
+2748,b330ac89-790e-4cc9-96a5-532c48252088,Blaze of Glory,73.14,79.1004,Highly liquid,0.4999,4,True,0.5219,,,,1.0,87.54,65.5971,,,False,2026-11-03
+2749,13a884b5-8970-4d71-9082-a8b6c8db9a01,Burning Wish,1.285,79.0959,Highly liquid,0.5382,4,True,0.4873,,,,0.0,86.6471,67.0138,,,False,2026-11-03
+2750,96162b22-41e7-4559-aa1b-c18f42abcb52,Jade Statue,3.3,79.0932,Highly liquid,0.4986,4,True,0.6768,,,,0.0,91.0194,60.0113,,,False,2026-11-03
+2751,6f8a4998-35c7-4e30-a9e7-7d4ec933238a,Triumph of Saint Katherine,4.15,79.0898,Highly liquid,0.5811,4,True,0.3431,,,,0.0,83.317,72.3261,,,False,2026-11-03
+2752,09ab1278-811f-4b97-bd34-7493d6e081e9,"Karn, Living Legacy",2.84,79.0861,Highly liquid,0.4992,4,True,0.6376,,,,0.0,90.2377,61.2436,,,False,2026-11-03
+2753,170adfe9-ffbe-40b1-b665-e756e7eb0302,Jeering Instigator,1.16,79.0855,Highly liquid,0.5415,4,True,0.4657,,,,0.0,86.0636,67.9206,,,False,2026-11-03
+2754,113fc13a-6df9-4eed-b9d4-002a85a036a1,Nissa Revane,7.85,79.0833,Highly liquid,0.5861,4,True,0.2742,,,,0.0,82.4784,73.6512,,,False,2026-11-03
+2755,8e62d05a-6efd-4764-bca8-97895e0cb613,"Caesar, Legion's Emperor",8.635,79.0746,Highly liquid,0.5438,4,True,0.4289,,,,0.0,85.0811,69.4642,,,False,2026-11-03
+2756,70dc830e-d05b-4fc7-88dd-879e140b3fbf,Reality Shift,1.77,79.0741,Highly liquid,0.5485,4,True,0.414,,,,0.0,84.7093,70.0577,,,False,2026-11-03
+2757,0236ad13-d8e4-49b4-b397-fe2f6136665d,Astarion's Thirst,1.805,79.0716,Highly liquid,0.5341,4,True,0.5082,,,,0.0,87.1682,66.117,,,False,2026-11-03
+2758,24cf7fad-233b-49fd-b2a1-a29e3e30041c,Taunt,1.825,79.0675,Highly liquid,0.5341,4,True,0.5085,,,,0.0,87.1682,66.1065,,,False,2026-11-03
+2759,5def9f38-0a0b-4e8d-9f9d-29dcb46520b4,Esper Sentinel,52.48,79.0626,Highly liquid,0.4461,4,True,0.1941,0.25,12.0,,0.0,94.2599,74.5944,54.2534,,False,2026-11-03
 2760,a2aa2c8f-7058-4020-9881-663b104ea051,"Grimgrin, Corpse-Born",1.89,79.0488,Highly liquid,0.5415,4,True,0.4545,,,,0.0,85.6918,68.42,,,False,2026-11-03
 2761,4b457bc2-2d8c-42cb-9a63-bb4c459d14e3,Atomize,11.31,79.0473,Highly liquid,0.5935,4,True,0.2534,,,,0.0,82.2477,73.9266,,,False,2026-11-03
 2762,c022b5df-1d85-44c0-94a1-d01b345b845b,Bureau Headmaster,5.045,79.0458,Highly liquid,0.5708,4,True,0.3606,,,,0.0,83.5722,71.8037,,,False,2026-11-03
@@ -2932,33 +2932,33 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 2931,ea6616e4-db8d-4905-80f8-cb0162906850,Emeria Angel,0.495,78.3175,Highly liquid,0.5949,4,True,0.3401,,,,0.0,82.0089,72.4112,,,False,2026-11-03
 2932,e245f2f6-2b5b-41bc-88b3-5b41ca813c5e,Patron of the Orochi,8.445,78.3063,Highly liquid,0.5381,4,True,0.5458,,,,0.0,86.867,64.6093,,,False,2026-11-03
 2933,340bbe8b-e987-4c3e-ab4e-9dee63e57d4f,Phyrexian Metamorph,3.265,78.3032,Highly liquid,0.5811,4,True,0.4095,,,,0.0,83.317,70.2811,,,False,2026-11-03
-2934,50d6cadc-07e4-479e-90f4-e3a20f769bab,"Susur Secundi, Void Altar",7.975,78.2986,Highly liquid,0.583,4,True,0.2664,0.5,2.0,,0.0,82.6168,73.7589,75.3369,,False,2026-11-03
-2935,b8510b34-0e5f-4639-9db1-1ba40d84b800,Ancient Cellarspawn,6.41,78.2956,Highly liquid,0.583,4,True,0.3748,,,,0.0,82.6168,71.3816,,,False,2026-11-03
-2936,690bd111-5b32-4156-b650-9afad3d6ef3d,Clone Legion,1.38,78.2897,Highly liquid,0.5485,4,True,0.4632,,,,0.0,84.7093,68.0184,,,False,2026-11-03
-2937,35426427-4268-4c8f-9fe1-270f2ce43d97,Dissipation Field,3.815,78.2821,Highly liquid,0.5826,4,True,0.387,,,,0.0,82.8421,70.9861,,,False,2026-11-03
-2938,88e29d50-1680-495d-be84-b92b4c9e636f,Diamond City,3.03,78.2691,Highly liquid,0.5489,4,True,0.4538,,,,0.0,84.4081,68.4466,,,False,2026-11-03
-2939,990cd7de-66a2-4def-bf00-390b2682e995,Vine Dryad,1.985,78.2677,Highly liquid,0.5341,4,True,0.5592,,,,0.0,87.1682,64.0269,,,False,2026-11-03
-2940,0cd5eef6-6830-4c6d-8578-2726900c39a5,Kill Switch,3.58,78.2547,Highly liquid,0.5811,4,True,0.4119,,,,0.0,83.317,70.1549,,,False,2026-11-03
-2941,6fd5e591-fae8-4128-a4d3-a848c8a8ffda,Fist of Suns,4.84,78.2502,Highly liquid,0.5826,4,True,0.39,,,,0.0,82.8421,70.9032,,,False,2026-11-03
-2942,afcb21bb-aeb3-4024-9ce1-68ba7fb64b2d,"Witch-king, Bringer of Ruin",7.37,78.2463,Highly liquid,0.583,4,True,0.3795,,,,0.0,82.6168,71.2535,,,False,2026-11-03
-2943,1f3dbc53-4075-40b8-b70d-ce74d3ff5f6d,Grand Master of Flowers,1.62,78.2374,Highly liquid,0.5969,4,True,0.2642,,,,0.0,81.0183,73.788,,,False,2026-11-03
-2944,373ccd23-5c98-4368-995a-e6503cd0dbd8,Elturel Survivors,0.835,78.2358,Highly liquid,0.596,4,True,0.3232,,,,0.0,81.5964,72.859,,,False,2026-11-03
-2945,86bf58f2-7f25-4e10-b797-25e0e8e67769,Flusterstorm,4.095,78.2335,Highly liquid,0.5861,4,True,0.3723,,,,0.0,82.4784,71.4416,,,False,2026-11-03
-2946,a9581345-87dc-4fbd-acc1-bb629f2cf40f,Primeval Protector,0.645,78.2308,Highly liquid,0.596,4,True,0.3234,,,,0.0,81.5964,72.846,,,False,2026-11-03
-2947,4d6ad734-b8b5-4d91-9b7b-1fa0c55bfa4f,Light from Within,3.185,78.2275,Highly liquid,0.4987,4,True,0.7685,,,,0.0,90.9,57.9515,,,False,2026-11-03
-2948,2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2,Prismatic Ending,2.54,78.2272,Highly liquid,0.5489,4,True,0.4568,,,,0.0,84.4081,68.3377,,,False,2026-11-03
-2949,7e16595f-bdeb-422e-b99a-bfc0ed52e9f8,Restless Cottage,2.21,78.2265,Highly liquid,0.5489,4,True,0.457,,,,0.0,84.4081,68.3359,,,False,2026-11-03
-2950,7c158405-d3ef-4c10-a504-7b061ef71a74,Rainbow Efreet,0.545,78.2198,Highly liquid,0.4975,4,True,0.8573,,,,1.0,91.6789,56.6852,,,False,2026-11-03
-2951,95df54e2-0196-4e54-8144-de5982ce07f5,"Kiora, Sovereign of the Deep",6.595,78.215,Highly liquid,0.5814,4,True,0.4042,,,,0.0,83.0619,70.46,,,False,2026-11-03
-2952,94dd397e-0127-4c79-b9d9-22ce62ccdfe7,Sludge Titan,1.77,78.2118,Highly liquid,0.5415,4,True,0.5061,,,,0.0,85.6918,66.2439,,,False,2026-11-03
-2953,72cb5dcd-9b24-435c-921a-3766108374c4,Sanctum of Ugin,1.755,78.2097,Highly liquid,0.5485,4,True,0.4689,,,,0.0,84.7093,67.8104,,,False,2026-11-03
-2954,918991a6-7321-419d-8f3d-150fe32d02d2,"Eris, Roar of the Storm",4.235,78.1921,Highly liquid,0.5861,4,True,0.3763,,,,0.0,82.4784,71.3339,,,False,2026-11-03
-2955,0edf0988-9ed8-4fe6-aa47-4921870f05a8,Forethought Amulet,14.42,78.1909,Highly liquid,0.589,4,True,0.3695,,,,1.0,82.3482,71.5394,,,False,2026-11-03
-2956,4681bcc2-8a46-44cd-8b04-6ab140904dea,Compost,2.125,78.185,Highly liquid,0.5485,4,True,0.4698,,,,0.0,84.7093,67.746,,,False,2026-11-03
-2957,6cbd36d9-de47-41b0-9ef4-a72ca01adccd,Curse of Disturbance,1.68,78.1844,Highly liquid,0.5382,4,True,0.5452,,,,0.0,86.6471,64.644,,,False,2026-11-03
-2958,990b5e12-6e04-4832-9d64-87278f12cbda,"Betor, Ancestor's Voice",3.73,78.1841,Highly liquid,0.4995,4,True,0.6748,,,,0.0,89.524,60.0404,,,False,2026-11-03
-2959,26074e44-cf2b-459f-9a5d-7eed231ed2b4,Desperate Charge,7.725,78.1647,Highly liquid,0.5861,4,True,0.3789,,,,0.0,82.4784,71.2628,,,False,2026-11-03
-2960,4ac94586-3ac7-4ade-af31-ad0d0e3ffc4a,Terrasymbiosis,13.03,78.1618,Highly liquid,0.597,4,True,0.2238,,,,0.0,80.5841,74.2862,,,False,2026-11-03
+2934,b8510b34-0e5f-4639-9db1-1ba40d84b800,Ancient Cellarspawn,6.41,78.2956,Highly liquid,0.583,4,True,0.3748,,,,0.0,82.6168,71.3816,,,False,2026-11-03
+2935,690bd111-5b32-4156-b650-9afad3d6ef3d,Clone Legion,1.38,78.2897,Highly liquid,0.5485,4,True,0.4632,,,,0.0,84.7093,68.0184,,,False,2026-11-03
+2936,35426427-4268-4c8f-9fe1-270f2ce43d97,Dissipation Field,3.815,78.2821,Highly liquid,0.5826,4,True,0.387,,,,0.0,82.8421,70.9861,,,False,2026-11-03
+2937,88e29d50-1680-495d-be84-b92b4c9e636f,Diamond City,3.03,78.2691,Highly liquid,0.5489,4,True,0.4538,,,,0.0,84.4081,68.4466,,,False,2026-11-03
+2938,990cd7de-66a2-4def-bf00-390b2682e995,Vine Dryad,1.985,78.2677,Highly liquid,0.5341,4,True,0.5592,,,,0.0,87.1682,64.0269,,,False,2026-11-03
+2939,0cd5eef6-6830-4c6d-8578-2726900c39a5,Kill Switch,3.58,78.2547,Highly liquid,0.5811,4,True,0.4119,,,,0.0,83.317,70.1549,,,False,2026-11-03
+2940,6fd5e591-fae8-4128-a4d3-a848c8a8ffda,Fist of Suns,4.84,78.2502,Highly liquid,0.5826,4,True,0.39,,,,0.0,82.8421,70.9032,,,False,2026-11-03
+2941,afcb21bb-aeb3-4024-9ce1-68ba7fb64b2d,"Witch-king, Bringer of Ruin",7.37,78.2463,Highly liquid,0.583,4,True,0.3795,,,,0.0,82.6168,71.2535,,,False,2026-11-03
+2942,1f3dbc53-4075-40b8-b70d-ce74d3ff5f6d,Grand Master of Flowers,1.62,78.2374,Highly liquid,0.5969,4,True,0.2642,,,,0.0,81.0183,73.788,,,False,2026-11-03
+2943,373ccd23-5c98-4368-995a-e6503cd0dbd8,Elturel Survivors,0.835,78.2358,Highly liquid,0.596,4,True,0.3232,,,,0.0,81.5964,72.859,,,False,2026-11-03
+2944,86bf58f2-7f25-4e10-b797-25e0e8e67769,Flusterstorm,4.095,78.2335,Highly liquid,0.5861,4,True,0.3723,,,,0.0,82.4784,71.4416,,,False,2026-11-03
+2945,a9581345-87dc-4fbd-acc1-bb629f2cf40f,Primeval Protector,0.645,78.2308,Highly liquid,0.596,4,True,0.3234,,,,0.0,81.5964,72.846,,,False,2026-11-03
+2946,4d6ad734-b8b5-4d91-9b7b-1fa0c55bfa4f,Light from Within,3.185,78.2275,Highly liquid,0.4987,4,True,0.7685,,,,0.0,90.9,57.9515,,,False,2026-11-03
+2947,2cb98ca9-d7bb-416b-a17e-ee5f8e4d78f2,Prismatic Ending,2.54,78.2272,Highly liquid,0.5489,4,True,0.4568,,,,0.0,84.4081,68.3377,,,False,2026-11-03
+2948,7e16595f-bdeb-422e-b99a-bfc0ed52e9f8,Restless Cottage,2.21,78.2265,Highly liquid,0.5489,4,True,0.457,,,,0.0,84.4081,68.3359,,,False,2026-11-03
+2949,7c158405-d3ef-4c10-a504-7b061ef71a74,Rainbow Efreet,0.545,78.2198,Highly liquid,0.4975,4,True,0.8573,,,,1.0,91.6789,56.6852,,,False,2026-11-03
+2950,95df54e2-0196-4e54-8144-de5982ce07f5,"Kiora, Sovereign of the Deep",6.595,78.215,Highly liquid,0.5814,4,True,0.4042,,,,0.0,83.0619,70.46,,,False,2026-11-03
+2951,94dd397e-0127-4c79-b9d9-22ce62ccdfe7,Sludge Titan,1.77,78.2118,Highly liquid,0.5415,4,True,0.5061,,,,0.0,85.6918,66.2439,,,False,2026-11-03
+2952,72cb5dcd-9b24-435c-921a-3766108374c4,Sanctum of Ugin,1.755,78.2097,Highly liquid,0.5485,4,True,0.4689,,,,0.0,84.7093,67.8104,,,False,2026-11-03
+2953,918991a6-7321-419d-8f3d-150fe32d02d2,"Eris, Roar of the Storm",4.235,78.1921,Highly liquid,0.5861,4,True,0.3763,,,,0.0,82.4784,71.3339,,,False,2026-11-03
+2954,0edf0988-9ed8-4fe6-aa47-4921870f05a8,Forethought Amulet,14.42,78.1909,Highly liquid,0.589,4,True,0.3695,,,,1.0,82.3482,71.5394,,,False,2026-11-03
+2955,4681bcc2-8a46-44cd-8b04-6ab140904dea,Compost,2.125,78.185,Highly liquid,0.5485,4,True,0.4698,,,,0.0,84.7093,67.746,,,False,2026-11-03
+2956,6cbd36d9-de47-41b0-9ef4-a72ca01adccd,Curse of Disturbance,1.68,78.1844,Highly liquid,0.5382,4,True,0.5452,,,,0.0,86.6471,64.644,,,False,2026-11-03
+2957,990b5e12-6e04-4832-9d64-87278f12cbda,"Betor, Ancestor's Voice",3.73,78.1841,Highly liquid,0.4995,4,True,0.6748,,,,0.0,89.524,60.0404,,,False,2026-11-03
+2958,26074e44-cf2b-459f-9a5d-7eed231ed2b4,Desperate Charge,7.725,78.1647,Highly liquid,0.5861,4,True,0.3789,,,,0.0,82.4784,71.2628,,,False,2026-11-03
+2959,4ac94586-3ac7-4ade-af31-ad0d0e3ffc4a,Terrasymbiosis,13.03,78.1618,Highly liquid,0.597,4,True,0.2238,,,,0.0,80.5841,74.2862,,,False,2026-11-03
+2960,50d6cadc-07e4-479e-90f4-e3a20f769bab,"Susur Secundi, Void Altar",7.975,78.1555,Highly liquid,0.583,4,True,0.2664,0.5,2.0,,0.0,82.6168,73.7589,74.7285,,False,2026-11-03
 2961,a3a1f149-febe-4ff6-9e34-8b82ef21c2ee,Fear of Sleep Paralysis,1.09,78.1471,Highly liquid,0.5415,4,True,0.5244,,,,0.0,86.0636,65.4808,,,False,2026-11-03
 2962,f7907327-4df3-4bb2-a274-03d9e266af2f,Venser's Journal,7.26,78.1428,Highly liquid,0.583,4,True,0.3871,,,,0.0,82.6168,70.9842,,,False,2026-11-03
 2963,5b2ffb53-86b7-4665-a5c7-b85b035b6c81,Urabrask the Hidden,4.09,78.1352,Highly liquid,0.5826,4,True,0.3991,,,,0.0,82.8421,70.6042,,,False,2026-11-03
@@ -3572,47 +3572,47 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 3571,9d2dd032-bcef-4d04-8836-1eaff1c56b98,Niall Silvain,4.065,75.7357,Highly liquid,0.5991,4,True,0.3828,,,,1.0,78.6218,71.1179,,,False,2026-11-03
 3572,2209ebd4-1131-4b8e-b0f5-aa9506dc0057,Summoner's Egg,2.545,75.7353,Highly liquid,0.5489,4,True,0.6183,,,,0.0,84.4081,61.8588,,,False,2026-11-03
 3573,9ef24a79-fade-4c38-b63c-22983206b4ad,Herald of the Pantheon,2.945,75.7232,Highly liquid,0.6275,4,True,0.173,,,,0.0,76.3339,74.7461,,,False,2026-11-03
-3574,570a5e60-ed0f-4c14-8cc3-af819648030b,Glamerdye,2.19,75.7193,Highly liquid,0.5491,4,True,0.5968,0.5,2.0,,0.0,84.1258,62.5749,75.3369,,False,2026-11-03
-3575,25d40d28-1b46-4055-959a-45719040ed30,"Terra, Herald of Hope",2.63,75.7193,Highly liquid,0.6241,4,True,0.2619,,,,0.0,76.9066,73.8196,,,False,2026-11-03
-3576,bdb94ccd-1bb5-4bb7-9539-e1b1c97c19c5,Pashalik Mons,3.17,75.7188,Highly liquid,0.6241,4,True,0.2619,,,,0.0,76.9066,73.8183,,,False,2026-11-03
-3577,487485a6-cf79-48c0-bea9-0ec6b3ee253c,Magistrate's Scepter,5.655,75.7185,Highly liquid,0.5861,4,True,0.5381,,,,0.0,82.4784,64.9027,,,False,2026-11-03
-3578,42bb6537-fa54-43b7-84f2-dea41adc35fd,Dauthi Warlord,1.06,75.7183,Highly liquid,0.5415,4,True,0.7089,,,,0.0,86.0636,59.1658,,,False,2026-11-03
-3579,f5e3c26c-c28c-455f-a682-2597e4b92d10,Arcane Laboratory,1.435,75.7017,Highly liquid,0.5978,4,True,0.4312,,,,0.0,79.6613,69.3664,,,False,2026-11-03
-3580,eb44b65d-6b56-4f20-a4fb-c5dd147a54c4,Skyclave Relic,1.065,75.7008,Highly liquid,0.5978,4,True,0.4312,,,,0.0,79.6613,69.3639,,,False,2026-11-03
-3581,bc2c02f6-2b6b-4016-b006-12ce0a1a2450,Pact Weapon,3.205,75.6997,Highly liquid,0.5992,4,True,0.3641,,,,0.0,78.2012,71.6973,,,False,2026-11-03
-3582,d0896996-ee31-402e-b642-4e7cca4929fe,Timestream Navigator,1.05,75.6981,Highly liquid,0.5969,4,True,0.4838,,,,0.0,81.0183,67.1859,,,False,2026-11-03
-3583,a090be5a-b0f2-4c17-8f7d-e742f9de8f6b,Fecund Greenshell,1.47,75.6823,Highly liquid,0.5973,4,True,0.4573,,,,0.0,80.2801,68.326,,,False,2026-11-03
-3584,06e1c0fa-767c-4204-972f-d98f770d85f3,Tempt with Immortality,1.3,75.6823,Highly liquid,0.5415,4,True,0.6875,,,,0.0,85.6918,59.6672,,,False,2026-11-03
-3585,75701981-b9fc-471f-a97f-e897bb3dfb77,Planar Guide,0.875,75.6778,Highly liquid,0.5415,4,True,0.7132,,,,0.0,86.0636,59.0606,,,False,2026-11-03
-3586,2b947703-751a-4d95-b5de-e2d6b1fcb502,Isengard Unleashed,2.92,75.6764,Highly liquid,0.5826,4,True,0.5556,,,,0.0,82.8421,64.2113,,,False,2026-11-03
-3587,2e17cd4c-ebf0-40d0-b52d-b4d84bbcf7b3,Devastating Onslaught,5.195,75.6738,Highly liquid,0.5995,4,True,0.3516,,,,0.0,77.927,72.0686,,,False,2026-11-03
-3588,30367a59-a812-41d4-a451-80d9071dd4a4,Dusk Legion Duelist,1.76,75.6723,Highly liquid,0.5434,4,True,0.6658,,,,0.0,85.301,60.2663,,,False,2026-11-03
-3589,e31d4be7-cd24-4287-b8ca-66f8612731a6,Wall of Putrid Flesh,3.225,75.6676,Highly liquid,0.6241,4,True,0.2715,,,,0.0,76.9066,73.6852,,,False,2026-11-03
-3590,22e3cf1d-3559-4ce1-954c-8dc815342979,Taiga,2263.62,75.6666,Highly liquid,0.5,4,True,0.8387,,,,1.0,87.369,56.9427,,,False,2026-11-03
-3591,e4d9c9c9-90e4-4397-9a88-9457fc6854fa,Lantern of Insight,2.775,75.6647,Highly liquid,0.5811,4,True,0.573,,,,0.0,83.317,63.421,,,False,2026-11-03
-3592,c9fe1383-1331-4a58-a45a-3320250221a9,Woodland Cemetery,0.94,75.6643,Highly liquid,0.5978,4,True,0.4337,,,,0.0,79.6613,69.2692,,,False,2026-11-03
-3593,907ae517-22d5-4ac7-bc3a-3f4d5eaeeb57,"Valki, God of Lies // Tibalt, Cosmic Impostor",3.31,75.6611,Highly liquid,0.6275,4,True,0.1954,,1.0,,0.0,76.3339,74.5845,,,False,2026-11-03
-3594,e0bdfbb4-3060-4492-bd9b-0c47e719400a,Jumbo Cactuar,3.06,75.6606,Highly liquid,0.5992,4,True,0.3682,,,,0.0,78.2012,71.5957,,,False,2026-11-03
-3595,e3174070-542f-429e-9149-b572f6614537,Soldevi Adnate,1.975,75.6567,Highly liquid,0.5485,4,True,0.6384,,,,0.0,84.7093,61.1724,,,False,2026-11-03
-3596,da4bf807-93f3-41b7-8bfd-aa63a551754e,Galadhrim Brigade,11.94,75.6529,Highly liquid,0.5998,4,True,0.312,,,,0.0,77.2513,73.0954,,,False,2026-11-03
-3597,0405e0a9-6d02-4691-bdb8-59c72b824dab,Marketback Walker,0.46,75.6524,Highly liquid,0.5949,4,True,0.5244,,,,0.0,82.0089,65.482,,,False,2026-11-03
-3598,4a0cc2a2-3711-473a-b2c5-b1e52b34e4fb,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",1.725,75.6516,Highly liquid,0.598,4,True,0.4115,,,,0.0,79.0805,70.1654,,,False,2026-11-03
-3599,f3b071a1-7501-4424-979a-780fa90eecb8,Thermokarst,7.685,75.6478,Highly liquid,0.5958,4,True,0.5161,,,,0.0,81.7809,65.8348,,,False,2026-11-03
-3600,06692cd9-ac2f-4a32-8fd1-043ba3c0fe71,Rapid Hybridization,1.295,75.6452,Highly liquid,0.598,4,True,0.412,,,,0.0,79.0805,70.1487,,,False,2026-11-03
-3601,01e742ed-660c-43c6-b393-e589a54cbe1b,Voice of the Blessed,3.445,75.6369,Highly liquid,0.6241,4,True,0.2772,,,,0.0,76.9066,73.6054,,,False,2026-11-03
-3602,7b175a33-a05c-49fa-802a-36f7013c892a,Nullstone Gargoyle,1.255,75.6355,Highly liquid,0.5415,4,True,0.7191,,,,0.0,86.0636,58.9505,,,False,2026-11-03
-3603,c27c9514-7b5a-461a-a109-f8abafd83523,Sarkhan's Unsealing,1.115,75.6241,Highly liquid,0.5485,4,True,0.6396,,,,0.0,84.7093,61.0876,,,False,2026-11-03
-3604,0677f49e-f8bf-4349-af52-2ccde9287c2e,Mox Jet,5182.125,75.6149,Highly liquid,0.5,4,True,0.8534,,,,1.0,87.3636,56.817,,,False,2026-11-03
-3605,9263287d-f782-4318-9ab8-e2e5f8107f5e,Resonating Lute,1.26,75.612,Highly liquid,0.5978,4,True,0.4373,,,,0.0,79.6613,69.133,,,False,2026-11-03
-3606,b575fb16-c3c3-4cad-857f-122257a4b32f,Lord of Change,2.88,75.6114,Highly liquid,0.6241,4,True,0.2825,,,,0.0,76.9066,73.5392,,,False,2026-11-03
-3607,3efe6ac8-f92e-4108-913b-077e41c0a841,Lae'zel's Acrobatics,2.78,75.6079,Highly liquid,0.5991,4,True,0.3942,,,,0.0,78.6218,70.7856,,,False,2026-11-03
-3608,e787ec12-ba0f-4a85-af6b-422423c90155,Haunted Library,1.045,75.6058,Highly liquid,0.5978,4,True,0.4379,,,,0.0,79.6613,69.1169,,,False,2026-11-03
-3609,c3416e6c-ec46-410c-ab80-6e8fdb89f42d,Skyscribing,0.445,75.6041,Highly liquid,0.5949,4,True,0.5263,,,,0.0,82.0089,65.3563,,,False,2026-11-03
-3610,2fa6f1b1-00af-433f-b8e1-36db99cd9bba,Bösium Strip,9.735,75.5969,Highly liquid,0.5996,4,True,0.3281,,,,1.0,77.387,72.7327,,,False,2026-11-03
-3611,4867cc47-de84-4958-b1de-4a0a5050210e,Battletide Alchemist,1.935,75.5898,Highly liquid,0.5485,4,True,0.6433,,,,0.0,84.7093,60.9985,,,False,2026-11-03
-3612,bce30fd0-ed1e-495d-9149-6a4c81c45c7b,Axgard Armory,0.35,75.5872,Highly liquid,0.5949,4,True,0.5288,,,,0.0,82.0089,65.3124,,,False,2026-11-03
-3613,fc9e82b2-f148-431b-9312-97b7101cffe4,Cyclone,15.425,75.5859,Highly liquid,0.5787,4,True,0.5877,,,,0.0,83.5097,62.9079,,,False,2026-11-03
-3614,0ce01e24-42db-42db-9ba2-38f653383991,Gravebind,0.8,75.5798,Highly liquid,0.5949,4,True,0.5291,,,,1.0,82.0089,65.2932,,,False,2026-11-03
+3574,25d40d28-1b46-4055-959a-45719040ed30,"Terra, Herald of Hope",2.63,75.7193,Highly liquid,0.6241,4,True,0.2619,,,,0.0,76.9066,73.8196,,,False,2026-11-03
+3575,bdb94ccd-1bb5-4bb7-9539-e1b1c97c19c5,Pashalik Mons,3.17,75.7188,Highly liquid,0.6241,4,True,0.2619,,,,0.0,76.9066,73.8183,,,False,2026-11-03
+3576,487485a6-cf79-48c0-bea9-0ec6b3ee253c,Magistrate's Scepter,5.655,75.7185,Highly liquid,0.5861,4,True,0.5381,,,,0.0,82.4784,64.9027,,,False,2026-11-03
+3577,42bb6537-fa54-43b7-84f2-dea41adc35fd,Dauthi Warlord,1.06,75.7183,Highly liquid,0.5415,4,True,0.7089,,,,0.0,86.0636,59.1658,,,False,2026-11-03
+3578,f5e3c26c-c28c-455f-a682-2597e4b92d10,Arcane Laboratory,1.435,75.7017,Highly liquid,0.5978,4,True,0.4312,,,,0.0,79.6613,69.3664,,,False,2026-11-03
+3579,eb44b65d-6b56-4f20-a4fb-c5dd147a54c4,Skyclave Relic,1.065,75.7008,Highly liquid,0.5978,4,True,0.4312,,,,0.0,79.6613,69.3639,,,False,2026-11-03
+3580,bc2c02f6-2b6b-4016-b006-12ce0a1a2450,Pact Weapon,3.205,75.6997,Highly liquid,0.5992,4,True,0.3641,,,,0.0,78.2012,71.6973,,,False,2026-11-03
+3581,d0896996-ee31-402e-b642-4e7cca4929fe,Timestream Navigator,1.05,75.6981,Highly liquid,0.5969,4,True,0.4838,,,,0.0,81.0183,67.1859,,,False,2026-11-03
+3582,a090be5a-b0f2-4c17-8f7d-e742f9de8f6b,Fecund Greenshell,1.47,75.6823,Highly liquid,0.5973,4,True,0.4573,,,,0.0,80.2801,68.326,,,False,2026-11-03
+3583,06e1c0fa-767c-4204-972f-d98f770d85f3,Tempt with Immortality,1.3,75.6823,Highly liquid,0.5415,4,True,0.6875,,,,0.0,85.6918,59.6672,,,False,2026-11-03
+3584,75701981-b9fc-471f-a97f-e897bb3dfb77,Planar Guide,0.875,75.6778,Highly liquid,0.5415,4,True,0.7132,,,,0.0,86.0636,59.0606,,,False,2026-11-03
+3585,2b947703-751a-4d95-b5de-e2d6b1fcb502,Isengard Unleashed,2.92,75.6764,Highly liquid,0.5826,4,True,0.5556,,,,0.0,82.8421,64.2113,,,False,2026-11-03
+3586,2e17cd4c-ebf0-40d0-b52d-b4d84bbcf7b3,Devastating Onslaught,5.195,75.6738,Highly liquid,0.5995,4,True,0.3516,,,,0.0,77.927,72.0686,,,False,2026-11-03
+3587,30367a59-a812-41d4-a451-80d9071dd4a4,Dusk Legion Duelist,1.76,75.6723,Highly liquid,0.5434,4,True,0.6658,,,,0.0,85.301,60.2663,,,False,2026-11-03
+3588,e31d4be7-cd24-4287-b8ca-66f8612731a6,Wall of Putrid Flesh,3.225,75.6676,Highly liquid,0.6241,4,True,0.2715,,,,0.0,76.9066,73.6852,,,False,2026-11-03
+3589,22e3cf1d-3559-4ce1-954c-8dc815342979,Taiga,2263.62,75.6666,Highly liquid,0.5,4,True,0.8387,,,,1.0,87.369,56.9427,,,False,2026-11-03
+3590,e4d9c9c9-90e4-4397-9a88-9457fc6854fa,Lantern of Insight,2.775,75.6647,Highly liquid,0.5811,4,True,0.573,,,,0.0,83.317,63.421,,,False,2026-11-03
+3591,c9fe1383-1331-4a58-a45a-3320250221a9,Woodland Cemetery,0.94,75.6643,Highly liquid,0.5978,4,True,0.4337,,,,0.0,79.6613,69.2692,,,False,2026-11-03
+3592,907ae517-22d5-4ac7-bc3a-3f4d5eaeeb57,"Valki, God of Lies // Tibalt, Cosmic Impostor",3.31,75.6611,Highly liquid,0.6275,4,True,0.1954,,,,0.0,76.3339,74.5845,,,False,2026-11-03
+3593,e0bdfbb4-3060-4492-bd9b-0c47e719400a,Jumbo Cactuar,3.06,75.6606,Highly liquid,0.5992,4,True,0.3682,,,,0.0,78.2012,71.5957,,,False,2026-11-03
+3594,e3174070-542f-429e-9149-b572f6614537,Soldevi Adnate,1.975,75.6567,Highly liquid,0.5485,4,True,0.6384,,,,0.0,84.7093,61.1724,,,False,2026-11-03
+3595,da4bf807-93f3-41b7-8bfd-aa63a551754e,Galadhrim Brigade,11.94,75.6529,Highly liquid,0.5998,4,True,0.312,,,,0.0,77.2513,73.0954,,,False,2026-11-03
+3596,0405e0a9-6d02-4691-bdb8-59c72b824dab,Marketback Walker,0.46,75.6524,Highly liquid,0.5949,4,True,0.5244,,,,0.0,82.0089,65.482,,,False,2026-11-03
+3597,4a0cc2a2-3711-473a-b2c5-b1e52b34e4fb,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",1.725,75.6516,Highly liquid,0.598,4,True,0.4115,,,,0.0,79.0805,70.1654,,,False,2026-11-03
+3598,f3b071a1-7501-4424-979a-780fa90eecb8,Thermokarst,7.685,75.6478,Highly liquid,0.5958,4,True,0.5161,,,,0.0,81.7809,65.8348,,,False,2026-11-03
+3599,06692cd9-ac2f-4a32-8fd1-043ba3c0fe71,Rapid Hybridization,1.295,75.6452,Highly liquid,0.598,4,True,0.412,,,,0.0,79.0805,70.1487,,,False,2026-11-03
+3600,01e742ed-660c-43c6-b393-e589a54cbe1b,Voice of the Blessed,3.445,75.6369,Highly liquid,0.6241,4,True,0.2772,,,,0.0,76.9066,73.6054,,,False,2026-11-03
+3601,7b175a33-a05c-49fa-802a-36f7013c892a,Nullstone Gargoyle,1.255,75.6355,Highly liquid,0.5415,4,True,0.7191,,,,0.0,86.0636,58.9505,,,False,2026-11-03
+3602,c27c9514-7b5a-461a-a109-f8abafd83523,Sarkhan's Unsealing,1.115,75.6241,Highly liquid,0.5485,4,True,0.6396,,,,0.0,84.7093,61.0876,,,False,2026-11-03
+3603,0677f49e-f8bf-4349-af52-2ccde9287c2e,Mox Jet,5182.125,75.6149,Highly liquid,0.5,4,True,0.8534,,,,1.0,87.3636,56.817,,,False,2026-11-03
+3604,9263287d-f782-4318-9ab8-e2e5f8107f5e,Resonating Lute,1.26,75.612,Highly liquid,0.5978,4,True,0.4373,,,,0.0,79.6613,69.133,,,False,2026-11-03
+3605,b575fb16-c3c3-4cad-857f-122257a4b32f,Lord of Change,2.88,75.6114,Highly liquid,0.6241,4,True,0.2825,,,,0.0,76.9066,73.5392,,,False,2026-11-03
+3606,3efe6ac8-f92e-4108-913b-077e41c0a841,Lae'zel's Acrobatics,2.78,75.6079,Highly liquid,0.5991,4,True,0.3942,,,,0.0,78.6218,70.7856,,,False,2026-11-03
+3607,e787ec12-ba0f-4a85-af6b-422423c90155,Haunted Library,1.045,75.6058,Highly liquid,0.5978,4,True,0.4379,,,,0.0,79.6613,69.1169,,,False,2026-11-03
+3608,c3416e6c-ec46-410c-ab80-6e8fdb89f42d,Skyscribing,0.445,75.6041,Highly liquid,0.5949,4,True,0.5263,,,,0.0,82.0089,65.3563,,,False,2026-11-03
+3609,2fa6f1b1-00af-433f-b8e1-36db99cd9bba,Bösium Strip,9.735,75.5969,Highly liquid,0.5996,4,True,0.3281,,,,1.0,77.387,72.7327,,,False,2026-11-03
+3610,4867cc47-de84-4958-b1de-4a0a5050210e,Battletide Alchemist,1.935,75.5898,Highly liquid,0.5485,4,True,0.6433,,,,0.0,84.7093,60.9985,,,False,2026-11-03
+3611,bce30fd0-ed1e-495d-9149-6a4c81c45c7b,Axgard Armory,0.35,75.5872,Highly liquid,0.5949,4,True,0.5288,,,,0.0,82.0089,65.3124,,,False,2026-11-03
+3612,fc9e82b2-f148-431b-9312-97b7101cffe4,Cyclone,15.425,75.5859,Highly liquid,0.5787,4,True,0.5877,,,,0.0,83.5097,62.9079,,,False,2026-11-03
+3613,0ce01e24-42db-42db-9ba2-38f653383991,Gravebind,0.8,75.5798,Highly liquid,0.5949,4,True,0.5291,,,,1.0,82.0089,65.2932,,,False,2026-11-03
+3614,570a5e60-ed0f-4c14-8cc3-af819648030b,Glamerdye,2.19,75.5762,Highly liquid,0.5491,4,True,0.5968,0.5,2.0,,0.0,84.1258,62.5749,74.7285,,False,2026-11-03
 3615,603dc263-270c-4a16-9b75-41f36fd7dfde,Pine Barrens,1.645,75.5758,Highly liquid,0.5434,4,True,0.6764,,,,0.0,85.301,60.0156,,,False,2026-11-03
 3616,22e70ad0-1a9c-4d9e-8cc1-ebea485282ca,The Lost and the Damned,3.985,75.5755,Highly liquid,0.5991,4,True,0.3961,,,,0.0,78.6218,70.7014,,,False,2026-11-03
 3617,2b2f2abd-6c0f-49a5-a44b-f366614c944d,Demon of Dark Schemes,1.17,75.575,Highly liquid,0.5415,4,True,0.7268,,,,0.0,86.0636,58.7932,,,False,2026-11-03
@@ -3805,47 +3805,47 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 3804,c2679c32-a23d-4953-bb48-b46580439ce2,Bontu the Glorified,1.9,74.8632,Liquid,0.6507,4,True,0.2855,,,,0.0,75.7179,73.4959,,,False,2026-11-03
 3805,9e51ccf9-d55d-4231-8ff5-ef3ca1485c8d,Dragonborn Champion,7.31,74.8589,Liquid,0.5996,4,True,0.3935,,,,0.0,77.387,70.814,,,False,2026-11-03
 3806,fcfcac6b-6d26-4ffe-ae9e-b0ee7fa49787,Angel of Grace,0.935,74.8581,Liquid,0.5969,4,True,0.5351,,,,0.0,81.0183,65.0017,,,False,2026-11-03
-3807,59dbc873-72d9-4e7b-9442-2c7b8e8523e1,Ruination,3.52,74.8476,Liquid,0.6275,4,True,0.3513,0.5,2.0,,0.0,76.3339,72.0779,75.3369,,False,2026-11-03
-3808,a62e6cf4-1adb-4c28-b24b-91287bb23e96,"Geralf, the Fleshwright",2.08,74.8443,Liquid,0.6275,4,True,0.338,,,,0.0,76.3339,72.461,,,False,2026-11-03
-3809,52562194-4a97-40d2-aa73-7827f7834f2f,"Krang, Master Mind",1.13,74.844,Liquid,0.5969,4,True,0.5363,,,,0.0,81.0183,64.9652,,,False,2026-11-03
-3810,d97553bf-6763-4a7b-8d82-1b438a22aa62,The War Doctor,1.005,74.8433,Liquid,0.5969,4,True,0.5364,,,,0.0,81.0183,64.9633,,,False,2026-11-03
-3811,a8e6655c-e63f-4a60-98f6-9d5bf8631488,Puca's Mischief,2.42,74.8399,Liquid,0.5991,4,True,0.4453,,,,0.0,78.6218,68.7889,,,False,2026-11-03
-3812,466af6da-52e8-4ac5-b659-7492e3594ff8,"Faramir, Steward of Gondor",2.365,74.8361,Liquid,0.6586,4,True,0.2263,,,,0.0,75.1941,74.2633,,,False,2026-11-03
-3813,424f3d53-47e7-4212-8267-53279ea8900a,Solar Blaze,1.495,74.8347,Liquid,0.5485,4,True,0.7148,,,,0.0,84.7093,59.0352,,,False,2026-11-03
-3814,376fa374-ead1-4728-ab8b-aca230b72031,Hide on the Ceiling,1.17,74.8259,Liquid,0.5978,4,True,0.4866,,,,0.0,79.6613,67.0893,,,False,2026-11-03
-3815,f9453fe2-fadf-4cd4-8d2c-0eaa0e2d78d6,Templar Knight,1.395,74.8241,Liquid,0.5434,4,True,0.7635,,,,0.0,85.301,58.0611,,,False,2026-11-03
-3816,fa6d05a1-3df4-4751-b1a0-8d9693faec73,Tainted Wood,0.6,74.824,Liquid,0.5949,4,True,0.5766,,,,0.0,82.0089,63.3281,,,False,2026-11-03
-3817,ed14be15-8f8d-4fe3-a147-f5da8ed873bf,Conduit of Worlds,3.5,74.8212,Liquid,0.6595,4,True,0.1559,,,,0.0,74.7924,74.8674,,,False,2026-11-03
-3818,ed5429bb-233a-4528-bf7d-df5f6b192b1c,Mercenary Knight,2.745,74.8199,Liquid,0.5826,4,True,0.6134,,,,0.0,82.8421,61.9844,,,False,2026-11-03
-3819,04dd449f-ff3a-4ed7-8241-244d58b371dc,Goblin Settler,2.525,74.8174,Liquid,0.6595,4,True,0.1574,,,,0.0,74.7924,74.8575,,,False,2026-11-03
-3820,51dad7d3-f91d-4bd8-aaed-235da42a448b,Spellbook Vendor,1.055,74.8144,Liquid,0.5415,4,True,0.8028,,,,0.0,85.6918,57.4106,,,False,2026-11-03
-3821,127bc05b-2945-434c-bc6a-283a267cc72a,"Smellerbee, Rebel Fighter",1.235,74.8009,Liquid,0.5485,4,True,0.7197,,,,0.0,84.7093,58.9474,,,False,2026-11-03
-3822,0b6625cb-4177-45bd-ba99-2af43dfd6f46,Shu Defender,1.13,74.7992,Liquid,0.598,4,True,0.4651,,,,0.0,79.0805,67.949,,,False,2026-11-03
-3823,a06f8476-0a23-413a-bc28-8dc2427fdc2a,Amulet of Quoz,1.34,74.7857,Liquid,0.5978,4,True,0.4881,,,,1.0,79.6613,66.9847,,,False,2026-11-03
-3824,7024532b-f99b-43a7-b0ed-5b3e7ec7592b,Starfall Invocation,1.4,74.779,Liquid,0.6507,4,True,0.3006,,,,0.0,75.7179,73.2768,,,False,2026-11-03
-3825,6ec2a242-9068-4ee2-8ac8-8341cc570f56,"Emeria's Call // Emeria, Shattered Skyclave",4.13,74.778,Liquid,0.5995,4,True,0.4235,,,,0.0,77.927,69.7396,,,False,2026-11-03
-3826,13bf8103-3db3-4ee6-a6bb-441aabfd9e41,Warden of the Grove,2.285,74.7748,Liquid,0.6595,4,True,0.173,,,,0.0,74.7924,74.7467,,,False,2026-11-03
-3827,8c4aba38-7fbd-463e-8454-21037090c71e,Furyborn Hellkite,1.3,74.7732,Liquid,0.598,4,True,0.4676,,,,0.0,79.0805,67.8816,,,False,2026-11-03
-3828,b2faa8b6-e433-4171-9774-9170484530c4,Teferi's Response,9.575,74.7685,Liquid,0.5996,4,True,0.3997,,,,0.0,77.387,70.5789,,,False,2026-11-03
-3829,2a3b29c3-f69d-4671-8907-600d21528153,Magmatic Hellkite,0.535,74.7684,Liquid,0.5382,4,True,0.9861,,,,0.0,86.6471,55.7624,,,False,2026-11-03
-3830,65fb0e20-61f8-4c61-bc08-7f6f718ee9ee,"Primo, the Unbounded",0.74,74.7658,Liquid,0.5382,4,True,0.991,,,,0.0,86.6471,55.7556,,,False,2026-11-03
-3831,4f5a7b65-b7f4-4bad-acfd-35edfb8f86a7,Phytohydra,0.665,74.7657,Liquid,0.5969,4,True,0.5433,,,,0.0,81.0183,64.7616,,,False,2026-11-03
-3832,bd7da02c-172b-41d9-91af-d0fc0f7d6400,Letter Bomb,2.005,74.7575,Liquid,0.6507,4,True,0.3043,,,,0.0,75.7179,73.221,,,False,2026-11-03
-3833,4c0f4a63-586a-4dde-9621-b0dd9118b2e5,Restless Ridgeline,1.09,74.7542,Liquid,0.598,4,True,0.4681,,,,0.0,79.0805,67.8321,,,False,2026-11-03
-3834,50f144f8-29eb-4af7-9a50-eded3b9c83c2,"Radagast, Wizard of Wilds",2.6,74.7523,Liquid,0.6507,4,True,0.3051,,,,0.0,75.7179,73.2074,,,False,2026-11-03
-3835,a1a9695e-073b-4a65-b3ec-2cfddc23202a,The Grey Havens,0.62,74.7428,Liquid,0.5969,4,True,0.5444,,,,0.0,81.0183,64.7021,,,False,2026-11-03
-3836,cbf2b19e-32a3-489f-9979-ba2748c52845,Leyline of Vitality,2.545,74.7423,Liquid,0.6241,4,True,0.3779,,,,0.0,76.9066,71.2795,,,False,2026-11-03
-3837,f76bcbfe-483f-4e63-8425-76feca1abf3e,Pyromancer's Goggles,5.34,74.7396,Liquid,0.663,4,True,0.0772,,,,0.0,74.483,75.1502,,,False,2026-11-03
-3838,ba1d34ab-7529-4f47-a5e7-7d8f66d7b901,Leveler,3.815,74.739,Liquid,0.5991,4,True,0.4515,,,,0.0,78.6218,68.5265,,,False,2026-11-03
-3839,0e14f59f-021a-4ad3-a26b-8f79e680c426,"Regna, the Redeemer",0.995,74.7371,Liquid,0.5969,4,True,0.5446,,,,0.0,81.0183,64.6873,,,False,2026-11-03
-3840,1ad3be51-f68b-46d6-b58e-400b50e384f1,Firebending Student,1.675,74.734,Liquid,0.6507,4,True,0.3079,,,,0.0,75.7179,73.1598,,,False,2026-11-03
-3841,d3bdfb25-dfb2-4df4-b502-ef0909a39f86,"Cid, Freeflier Pilot",1.655,74.7304,Liquid,0.6507,4,True,0.3083,,,,0.0,75.7179,73.1505,,,False,2026-11-03
-3842,104095ed-55e3-408e-bf70-4fe06bb16d2f,Crypt Rats,0.66,74.7251,Liquid,0.5973,4,True,0.5158,,,,0.0,80.2801,65.8373,,,False,2026-11-03
-3843,3501ed98-473c-4a17-8b5f-1e0c00ee75da,Salvaging Station,2.31,74.7197,Liquid,0.5415,4,True,0.8217,,,,0.0,85.6918,57.1642,,,False,2026-11-03
-3844,c071257a-63e7-48d0-a677-0b396a09b624,Restless Prairie,0.515,74.7189,Liquid,0.5382,4,True,1.0291,,,,0.0,86.6471,55.6336,,,False,2026-11-03
-3845,4df0d381-fc05-4d30-9307-48963aa2ecfd,Robber of the Rich,1.215,74.7175,Liquid,0.598,4,True,0.4703,,,,0.0,79.0805,67.7367,,,False,2026-11-03
-3846,0e735ba6-7fd1-4d12-b20c-21525dc1e2b5,Hanweir Battlements,1.955,74.7085,Liquid,0.6507,4,True,0.312,,,,0.0,75.7179,73.0936,,,False,2026-11-03
-3847,cfc5dc9c-6f26-460b-a624-3681b8584eb3,"Zur, Eternal Schemer",3.01,74.708,Liquid,0.6241,4,True,0.3812,,,,0.0,76.9066,71.1904,,,False,2026-11-03
+3807,a62e6cf4-1adb-4c28-b24b-91287bb23e96,"Geralf, the Fleshwright",2.08,74.8443,Liquid,0.6275,4,True,0.338,,,,0.0,76.3339,72.461,,,False,2026-11-03
+3808,52562194-4a97-40d2-aa73-7827f7834f2f,"Krang, Master Mind",1.13,74.844,Liquid,0.5969,4,True,0.5363,,,,0.0,81.0183,64.9652,,,False,2026-11-03
+3809,d97553bf-6763-4a7b-8d82-1b438a22aa62,The War Doctor,1.005,74.8433,Liquid,0.5969,4,True,0.5364,,,,0.0,81.0183,64.9633,,,False,2026-11-03
+3810,a8e6655c-e63f-4a60-98f6-9d5bf8631488,Puca's Mischief,2.42,74.8399,Liquid,0.5991,4,True,0.4453,,,,0.0,78.6218,68.7889,,,False,2026-11-03
+3811,466af6da-52e8-4ac5-b659-7492e3594ff8,"Faramir, Steward of Gondor",2.365,74.8361,Liquid,0.6586,4,True,0.2263,,,,0.0,75.1941,74.2633,,,False,2026-11-03
+3812,424f3d53-47e7-4212-8267-53279ea8900a,Solar Blaze,1.495,74.8347,Liquid,0.5485,4,True,0.7148,,,,0.0,84.7093,59.0352,,,False,2026-11-03
+3813,376fa374-ead1-4728-ab8b-aca230b72031,Hide on the Ceiling,1.17,74.8259,Liquid,0.5978,4,True,0.4866,,,,0.0,79.6613,67.0893,,,False,2026-11-03
+3814,f9453fe2-fadf-4cd4-8d2c-0eaa0e2d78d6,Templar Knight,1.395,74.8241,Liquid,0.5434,4,True,0.7635,,,,0.0,85.301,58.0611,,,False,2026-11-03
+3815,fa6d05a1-3df4-4751-b1a0-8d9693faec73,Tainted Wood,0.6,74.824,Liquid,0.5949,4,True,0.5766,,,,0.0,82.0089,63.3281,,,False,2026-11-03
+3816,ed14be15-8f8d-4fe3-a147-f5da8ed873bf,Conduit of Worlds,3.5,74.8212,Liquid,0.6595,4,True,0.1559,,,,0.0,74.7924,74.8674,,,False,2026-11-03
+3817,ed5429bb-233a-4528-bf7d-df5f6b192b1c,Mercenary Knight,2.745,74.8199,Liquid,0.5826,4,True,0.6134,,,,0.0,82.8421,61.9844,,,False,2026-11-03
+3818,04dd449f-ff3a-4ed7-8241-244d58b371dc,Goblin Settler,2.525,74.8174,Liquid,0.6595,4,True,0.1574,,,,0.0,74.7924,74.8575,,,False,2026-11-03
+3819,51dad7d3-f91d-4bd8-aaed-235da42a448b,Spellbook Vendor,1.055,74.8144,Liquid,0.5415,4,True,0.8028,,,,0.0,85.6918,57.4106,,,False,2026-11-03
+3820,127bc05b-2945-434c-bc6a-283a267cc72a,"Smellerbee, Rebel Fighter",1.235,74.8009,Liquid,0.5485,4,True,0.7197,,,,0.0,84.7093,58.9474,,,False,2026-11-03
+3821,0b6625cb-4177-45bd-ba99-2af43dfd6f46,Shu Defender,1.13,74.7992,Liquid,0.598,4,True,0.4651,,,,0.0,79.0805,67.949,,,False,2026-11-03
+3822,a06f8476-0a23-413a-bc28-8dc2427fdc2a,Amulet of Quoz,1.34,74.7857,Liquid,0.5978,4,True,0.4881,,,,1.0,79.6613,66.9847,,,False,2026-11-03
+3823,7024532b-f99b-43a7-b0ed-5b3e7ec7592b,Starfall Invocation,1.4,74.779,Liquid,0.6507,4,True,0.3006,,,,0.0,75.7179,73.2768,,,False,2026-11-03
+3824,6ec2a242-9068-4ee2-8ac8-8341cc570f56,"Emeria's Call // Emeria, Shattered Skyclave",4.13,74.778,Liquid,0.5995,4,True,0.4235,,,,0.0,77.927,69.7396,,,False,2026-11-03
+3825,13bf8103-3db3-4ee6-a6bb-441aabfd9e41,Warden of the Grove,2.285,74.7748,Liquid,0.6595,4,True,0.173,,,,0.0,74.7924,74.7467,,,False,2026-11-03
+3826,8c4aba38-7fbd-463e-8454-21037090c71e,Furyborn Hellkite,1.3,74.7732,Liquid,0.598,4,True,0.4676,,,,0.0,79.0805,67.8816,,,False,2026-11-03
+3827,b2faa8b6-e433-4171-9774-9170484530c4,Teferi's Response,9.575,74.7685,Liquid,0.5996,4,True,0.3997,,,,0.0,77.387,70.5789,,,False,2026-11-03
+3828,2a3b29c3-f69d-4671-8907-600d21528153,Magmatic Hellkite,0.535,74.7684,Liquid,0.5382,4,True,0.9861,,,,0.0,86.6471,55.7624,,,False,2026-11-03
+3829,65fb0e20-61f8-4c61-bc08-7f6f718ee9ee,"Primo, the Unbounded",0.74,74.7658,Liquid,0.5382,4,True,0.991,,,,0.0,86.6471,55.7556,,,False,2026-11-03
+3830,4f5a7b65-b7f4-4bad-acfd-35edfb8f86a7,Phytohydra,0.665,74.7657,Liquid,0.5969,4,True,0.5433,,,,0.0,81.0183,64.7616,,,False,2026-11-03
+3831,bd7da02c-172b-41d9-91af-d0fc0f7d6400,Letter Bomb,2.005,74.7575,Liquid,0.6507,4,True,0.3043,,,,0.0,75.7179,73.221,,,False,2026-11-03
+3832,4c0f4a63-586a-4dde-9621-b0dd9118b2e5,Restless Ridgeline,1.09,74.7542,Liquid,0.598,4,True,0.4681,,,,0.0,79.0805,67.8321,,,False,2026-11-03
+3833,50f144f8-29eb-4af7-9a50-eded3b9c83c2,"Radagast, Wizard of Wilds",2.6,74.7523,Liquid,0.6507,4,True,0.3051,,,,0.0,75.7179,73.2074,,,False,2026-11-03
+3834,a1a9695e-073b-4a65-b3ec-2cfddc23202a,The Grey Havens,0.62,74.7428,Liquid,0.5969,4,True,0.5444,,,,0.0,81.0183,64.7021,,,False,2026-11-03
+3835,cbf2b19e-32a3-489f-9979-ba2748c52845,Leyline of Vitality,2.545,74.7423,Liquid,0.6241,4,True,0.3779,,,,0.0,76.9066,71.2795,,,False,2026-11-03
+3836,f76bcbfe-483f-4e63-8425-76feca1abf3e,Pyromancer's Goggles,5.34,74.7396,Liquid,0.663,4,True,0.0772,,,,0.0,74.483,75.1502,,,False,2026-11-03
+3837,ba1d34ab-7529-4f47-a5e7-7d8f66d7b901,Leveler,3.815,74.739,Liquid,0.5991,4,True,0.4515,,,,0.0,78.6218,68.5265,,,False,2026-11-03
+3838,0e14f59f-021a-4ad3-a26b-8f79e680c426,"Regna, the Redeemer",0.995,74.7371,Liquid,0.5969,4,True,0.5446,,,,0.0,81.0183,64.6873,,,False,2026-11-03
+3839,1ad3be51-f68b-46d6-b58e-400b50e384f1,Firebending Student,1.675,74.734,Liquid,0.6507,4,True,0.3079,,,,0.0,75.7179,73.1598,,,False,2026-11-03
+3840,d3bdfb25-dfb2-4df4-b502-ef0909a39f86,"Cid, Freeflier Pilot",1.655,74.7304,Liquid,0.6507,4,True,0.3083,,,,0.0,75.7179,73.1505,,,False,2026-11-03
+3841,104095ed-55e3-408e-bf70-4fe06bb16d2f,Crypt Rats,0.66,74.7251,Liquid,0.5973,4,True,0.5158,,,,0.0,80.2801,65.8373,,,False,2026-11-03
+3842,3501ed98-473c-4a17-8b5f-1e0c00ee75da,Salvaging Station,2.31,74.7197,Liquid,0.5415,4,True,0.8217,,,,0.0,85.6918,57.1642,,,False,2026-11-03
+3843,c071257a-63e7-48d0-a677-0b396a09b624,Restless Prairie,0.515,74.7189,Liquid,0.5382,4,True,1.0291,,,,0.0,86.6471,55.6336,,,False,2026-11-03
+3844,4df0d381-fc05-4d30-9307-48963aa2ecfd,Robber of the Rich,1.215,74.7175,Liquid,0.598,4,True,0.4703,,,,0.0,79.0805,67.7367,,,False,2026-11-03
+3845,0e735ba6-7fd1-4d12-b20c-21525dc1e2b5,Hanweir Battlements,1.955,74.7085,Liquid,0.6507,4,True,0.312,,,,0.0,75.7179,73.0936,,,False,2026-11-03
+3846,cfc5dc9c-6f26-460b-a624-3681b8584eb3,"Zur, Eternal Schemer",3.01,74.708,Liquid,0.6241,4,True,0.3812,,,,0.0,76.9066,71.1904,,,False,2026-11-03
+3847,59dbc873-72d9-4e7b-9442-2c7b8e8523e1,Ruination,3.52,74.7044,Liquid,0.6275,4,True,0.3513,0.5,2.0,,0.0,76.3339,72.0779,74.7285,,False,2026-11-03
 3848,f328dfb1-0737-478b-bd40-dfcb9a35e5a5,"Brigone, Soldier of Meletis",1.775,74.7006,Liquid,0.6586,4,True,0.255,,,,0.0,75.1941,73.9112,,,False,2026-11-03
 3849,696ee797-0c32-4bff-8c3d-02d05835b138,Goblin Pyromancer,0.765,74.7002,Liquid,0.5969,4,True,0.5462,,,,0.0,81.0183,64.5914,,,False,2026-11-03
 3850,0fe16212-66c3-4e45-a641-7391e9b2e304,Shivan Reef,0.535,74.6984,Liquid,0.596,4,True,0.5682,,,,0.0,81.5964,63.6617,,,False,2026-11-03
@@ -3861,40 +3861,40 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 3860,6b3110a5-fd38-4d09-9073-c8a6f3f17840,Three Wishes,1.86,74.6456,Liquid,0.598,4,True,0.4751,,,,1.0,79.0805,67.5498,,,False,2026-11-03
 3861,1dfaa773-7cd5-4489-9790-661cef4ed6f3,Raven Guild Master,0.745,74.6383,Liquid,0.5415,4,True,0.8893,,,,0.0,86.0636,56.3578,,,False,2026-11-03
 3862,e0cebb09-d10d-4b70-96be-82df0e5d52d3,Shroofus Sproutsire,4.705,74.6313,Liquid,0.5996,4,True,0.4161,,,,0.0,77.5417,69.9748,,,False,2026-11-03
-3863,531e6ffb-28e0-4e8e-ad88-2f3a243789cf,"Lady Zhurong, Warrior Queen",109.08,74.6312,Liquid,0.3999,4,True,0.5925,0.1429,21.0,,0.0,98.0432,62.721,42.6952,,False,2026-11-03
-3864,afbc348a-7b27-4577-8c24-cd6d5b894dc1,Expansion Algorithm,2.685,74.6239,Liquid,0.5992,4,True,0.4428,,,,0.0,78.2012,68.9003,,,False,2026-11-03
-3865,e48ea9ea-64bc-4f1c-a424-592d48569244,Blighted Agent,1.295,74.6188,Liquid,0.5978,4,True,0.5002,,,,0.0,79.6613,66.5509,,,False,2026-11-03
-3866,d12e5ce0-5705-4c35-9a93-b883db52c80c,Batterskull,4.31,74.6169,Liquid,0.5995,4,True,0.4327,,,,0.0,77.927,69.3206,,,False,2026-11-03
-3867,8372115d-c963-4a41-8759-72f7f6a8935a,"Shelob, Child of Ungoliant",1.925,74.612,Liquid,0.6595,4,True,0.2212,,,,0.0,74.7924,74.3234,,,False,2026-11-03
-3868,90194ff1-db61-463f-b5a3-15cd85311d0e,Beledros Witherbloom,1.625,74.6095,Liquid,0.6507,4,True,0.324,,,,0.0,75.7179,72.8361,,,False,2026-11-03
-3869,3d873e1d-4fac-42c4-bb31-77e76099e1ef,The Rack,1.61,74.6093,Liquid,0.5978,4,True,0.5003,,,,0.0,79.6613,66.5261,,,False,2026-11-03
-3870,6a4ef075-9254-4d36-9572-622833fae54e,Frenzied Baloth,2.745,74.6069,Liquid,0.6241,4,True,0.3891,,,,0.0,76.9066,70.9273,,,False,2026-11-03
-3871,583cdebe-0195-45be-bd2e-5765f07cb902,Mines of Moria,2.265,74.6018,Liquid,0.6275,4,True,0.3596,,,,0.0,76.3339,71.8303,,,False,2026-11-03
-3872,e2c141af-925e-42bd-8d83-e1a71f4c9794,"Rakdos, the Muscle",2.6,74.5977,Liquid,0.5992,4,True,0.4443,,,,0.0,78.2012,68.8322,,,False,2026-11-03
-3873,39d8406a-90c3-460c-b4e8-0f590573db51,Mechanized Production,1.985,74.5977,Liquid,0.6275,4,True,0.3599,,,,0.0,76.3339,71.8198,,,False,2026-11-03
-3874,50cee3ac-cba0-4abb-babf-de1928b1590e,Timberwatch Elf,2.875,74.5745,Liquid,0.6241,4,True,0.3922,,,,0.0,76.9066,70.8431,,,False,2026-11-03
-3875,186bfdac-ce9c-476f-89b6-ef467487fca5,Pitiless Carnage,0.745,74.5726,Liquid,0.5969,4,True,0.5538,,,,0.0,81.0183,64.2596,,,False,2026-11-03
-3876,03a4b997-4738-41a9-933f-e1f765e3a75a,"Rakdos, the Showstopper",2.485,74.5703,Liquid,0.6595,4,True,0.2304,,,,0.0,74.7924,74.215,,,False,2026-11-03
-3877,0fb9a8a2-4331-4259-9460-a37397554962,Bringer of the Last Gift,0.745,74.5686,Liquid,0.5969,4,True,0.5544,,,,0.0,81.0183,64.2491,,,False,2026-11-03
-3878,2068185c-1b50-47d0-aa3f-bf505d199428,Dark Confidant,9.715,74.5637,Liquid,0.6633,4,True,0.1411,,,,0.0,74.3283,74.9404,,,False,2026-11-03
-3879,b80b6dd3-320b-4304-8073-f74c54e9a8fe,Cunning Advisor,4.905,74.5588,Liquid,0.6241,4,True,0.3939,,,,0.0,76.9066,70.8023,,,False,2026-11-03
-3880,661b2159-4040-4a44-b182-46085416ebd9,Dream Trawler,0.59,74.5585,Liquid,0.5415,4,True,0.9163,,,,0.0,86.0636,56.1504,,,False,2026-11-03
-3881,ef72af33-37fc-48ed-90d8-547c90e1609d,Trap the Trespassers,0.635,74.5574,Liquid,0.5969,4,True,0.555,,,,0.0,81.0183,64.22,,,False,2026-11-03
-3882,5d520476-740a-4005-801e-472b24fa6497,"Ink-Eyes, Servant of Oni",9.805,74.5571,Liquid,0.6633,4,True,0.1455,,,,0.0,74.3283,74.9231,,,False,2026-11-03
-3883,276c4643-13ad-43bf-840b-08c025ebc065,"Orvar, the All-Form",3.965,74.5554,Liquid,0.663,4,True,0.1849,,,,0.0,74.483,74.6712,,,False,2026-11-03
-3884,94e8b0a9-44a1-4dce-8d44-78681ae638a1,Fountainport,4.125,74.553,Liquid,0.663,4,True,0.1853,,1.0,,0.0,74.483,74.665,,,False,2026-11-03
-3885,8f48c43e-fa70-4c4f-bb88-be0526303453,Hideous Taskmaster,2.865,74.5461,Liquid,0.6275,4,True,0.3645,,,,0.0,76.3339,71.6855,,,False,2026-11-03
-3886,1b5e6560-ff2e-4475-96cb-63f64c8a86db,Soul-Guide Lantern,0.615,74.5283,Liquid,0.5415,4,True,0.9401,,,,0.0,86.0636,56.0718,,,False,2026-11-03
-3887,183954d2-7b40-4c7e-adfa-d80191ab5ad6,God-Pharaoh's Statue,0.655,74.5213,Liquid,0.596,4,True,0.5797,,,,0.0,81.5964,63.2012,,,False,2026-11-03
-3888,11ed8209-2184-4416-a8f0-72de00599574,Glen Elendra's Answer,2.05,74.5183,Liquid,0.6507,4,True,0.3332,,,,0.0,75.7179,72.599,,,False,2026-11-03
-3889,fc315174-d063-41dd-9379-11d95c5fd4ed,The Horus Heresy,1.36,74.5043,Liquid,0.5978,4,True,0.506,,,,0.0,79.6613,66.2532,,,False,2026-11-03
-3890,d2783a37-b6de-4184-b094-e1a23f185a94,Dawnstrider,5.395,74.504,Liquid,0.5745,4,True,0.674,,,,0.0,83.5206,60.0775,,,False,2026-11-03
-3891,cb1afab6-b9c8-4b9c-840b-24106523a783,Kodama of the East Tree,4.0,74.5032,Liquid,0.663,4,True,0.2012,,1.0,,0.0,74.483,74.5357,,,False,2026-11-03
-3892,1b721ad3-d0f6-4eec-9bf0-f57ea9dfa392,Lapse of Certainty,0.85,74.5024,Liquid,0.5969,4,True,0.5576,,,,0.0,81.0183,64.077,,,False,2026-11-03
-3893,c8de43a3-ebd3-4000-b343-a6ffed11d34d,Ignoble Hierarch,1.67,74.5012,Liquid,0.6507,4,True,0.3344,,,,0.0,75.7179,72.5545,,,False,2026-11-03
-3894,aea8345a-191d-4c62-8d15-a716a9934b66,"Celes, Rune Knight",1.265,74.4975,Liquid,0.5434,4,True,0.8181,,,,0.0,85.301,57.2119,,,False,2026-11-03
-3895,a597d2b7-484b-4cfd-89a6-d166cb1a3420,Timberline Ridge,0.965,74.495,Liquid,0.5949,4,True,0.6001,,,,1.0,82.0089,62.4728,,,False,2026-11-03
-3896,9cb7f23f-322d-4a87-b6c6-15b9d446aef3,Champions of the Perfect,1.935,74.4869,Liquid,0.6507,4,True,0.3358,,,,0.0,75.7179,72.5173,,,False,2026-11-03
+3863,afbc348a-7b27-4577-8c24-cd6d5b894dc1,Expansion Algorithm,2.685,74.6239,Liquid,0.5992,4,True,0.4428,,,,0.0,78.2012,68.9003,,,False,2026-11-03
+3864,e48ea9ea-64bc-4f1c-a424-592d48569244,Blighted Agent,1.295,74.6188,Liquid,0.5978,4,True,0.5002,,,,0.0,79.6613,66.5509,,,False,2026-11-03
+3865,d12e5ce0-5705-4c35-9a93-b883db52c80c,Batterskull,4.31,74.6169,Liquid,0.5995,4,True,0.4327,,,,0.0,77.927,69.3206,,,False,2026-11-03
+3866,8372115d-c963-4a41-8759-72f7f6a8935a,"Shelob, Child of Ungoliant",1.925,74.612,Liquid,0.6595,4,True,0.2212,,,,0.0,74.7924,74.3234,,,False,2026-11-03
+3867,90194ff1-db61-463f-b5a3-15cd85311d0e,Beledros Witherbloom,1.625,74.6095,Liquid,0.6507,4,True,0.324,,,,0.0,75.7179,72.8361,,,False,2026-11-03
+3868,3d873e1d-4fac-42c4-bb31-77e76099e1ef,The Rack,1.61,74.6093,Liquid,0.5978,4,True,0.5003,,,,0.0,79.6613,66.5261,,,False,2026-11-03
+3869,6a4ef075-9254-4d36-9572-622833fae54e,Frenzied Baloth,2.745,74.6069,Liquid,0.6241,4,True,0.3891,,,,0.0,76.9066,70.9273,,,False,2026-11-03
+3870,583cdebe-0195-45be-bd2e-5765f07cb902,Mines of Moria,2.265,74.6018,Liquid,0.6275,4,True,0.3596,,,,0.0,76.3339,71.8303,,,False,2026-11-03
+3871,e2c141af-925e-42bd-8d83-e1a71f4c9794,"Rakdos, the Muscle",2.6,74.5977,Liquid,0.5992,4,True,0.4443,,,,0.0,78.2012,68.8322,,,False,2026-11-03
+3872,39d8406a-90c3-460c-b4e8-0f590573db51,Mechanized Production,1.985,74.5977,Liquid,0.6275,4,True,0.3599,,,,0.0,76.3339,71.8198,,,False,2026-11-03
+3873,50cee3ac-cba0-4abb-babf-de1928b1590e,Timberwatch Elf,2.875,74.5745,Liquid,0.6241,4,True,0.3922,,,,0.0,76.9066,70.8431,,,False,2026-11-03
+3874,186bfdac-ce9c-476f-89b6-ef467487fca5,Pitiless Carnage,0.745,74.5726,Liquid,0.5969,4,True,0.5538,,,,0.0,81.0183,64.2596,,,False,2026-11-03
+3875,03a4b997-4738-41a9-933f-e1f765e3a75a,"Rakdos, the Showstopper",2.485,74.5703,Liquid,0.6595,4,True,0.2304,,,,0.0,74.7924,74.215,,,False,2026-11-03
+3876,0fb9a8a2-4331-4259-9460-a37397554962,Bringer of the Last Gift,0.745,74.5686,Liquid,0.5969,4,True,0.5544,,,,0.0,81.0183,64.2491,,,False,2026-11-03
+3877,2068185c-1b50-47d0-aa3f-bf505d199428,Dark Confidant,9.715,74.5637,Liquid,0.6633,4,True,0.1411,,,,0.0,74.3283,74.9404,,,False,2026-11-03
+3878,b80b6dd3-320b-4304-8073-f74c54e9a8fe,Cunning Advisor,4.905,74.5588,Liquid,0.6241,4,True,0.3939,,,,0.0,76.9066,70.8023,,,False,2026-11-03
+3879,661b2159-4040-4a44-b182-46085416ebd9,Dream Trawler,0.59,74.5585,Liquid,0.5415,4,True,0.9163,,,,0.0,86.0636,56.1504,,,False,2026-11-03
+3880,ef72af33-37fc-48ed-90d8-547c90e1609d,Trap the Trespassers,0.635,74.5574,Liquid,0.5969,4,True,0.555,,,,0.0,81.0183,64.22,,,False,2026-11-03
+3881,5d520476-740a-4005-801e-472b24fa6497,"Ink-Eyes, Servant of Oni",9.805,74.5571,Liquid,0.6633,4,True,0.1455,,,,0.0,74.3283,74.9231,,,False,2026-11-03
+3882,276c4643-13ad-43bf-840b-08c025ebc065,"Orvar, the All-Form",3.965,74.5554,Liquid,0.663,4,True,0.1849,,,,0.0,74.483,74.6712,,,False,2026-11-03
+3883,94e8b0a9-44a1-4dce-8d44-78681ae638a1,Fountainport,4.125,74.553,Liquid,0.663,4,True,0.1853,,1.0,,0.0,74.483,74.665,,,False,2026-11-03
+3884,8f48c43e-fa70-4c4f-bb88-be0526303453,Hideous Taskmaster,2.865,74.5461,Liquid,0.6275,4,True,0.3645,,,,0.0,76.3339,71.6855,,,False,2026-11-03
+3885,1b5e6560-ff2e-4475-96cb-63f64c8a86db,Soul-Guide Lantern,0.615,74.5283,Liquid,0.5415,4,True,0.9401,,,,0.0,86.0636,56.0718,,,False,2026-11-03
+3886,183954d2-7b40-4c7e-adfa-d80191ab5ad6,God-Pharaoh's Statue,0.655,74.5213,Liquid,0.596,4,True,0.5797,,,,0.0,81.5964,63.2012,,,False,2026-11-03
+3887,11ed8209-2184-4416-a8f0-72de00599574,Glen Elendra's Answer,2.05,74.5183,Liquid,0.6507,4,True,0.3332,,,,0.0,75.7179,72.599,,,False,2026-11-03
+3888,fc315174-d063-41dd-9379-11d95c5fd4ed,The Horus Heresy,1.36,74.5043,Liquid,0.5978,4,True,0.506,,,,0.0,79.6613,66.2532,,,False,2026-11-03
+3889,d2783a37-b6de-4184-b094-e1a23f185a94,Dawnstrider,5.395,74.504,Liquid,0.5745,4,True,0.674,,,,0.0,83.5206,60.0775,,,False,2026-11-03
+3890,cb1afab6-b9c8-4b9c-840b-24106523a783,Kodama of the East Tree,4.0,74.5032,Liquid,0.663,4,True,0.2012,,1.0,,0.0,74.483,74.5357,,,False,2026-11-03
+3891,1b721ad3-d0f6-4eec-9bf0-f57ea9dfa392,Lapse of Certainty,0.85,74.5024,Liquid,0.5969,4,True,0.5576,,,,0.0,81.0183,64.077,,,False,2026-11-03
+3892,c8de43a3-ebd3-4000-b343-a6ffed11d34d,Ignoble Hierarch,1.67,74.5012,Liquid,0.6507,4,True,0.3344,,,,0.0,75.7179,72.5545,,,False,2026-11-03
+3893,aea8345a-191d-4c62-8d15-a716a9934b66,"Celes, Rune Knight",1.265,74.4975,Liquid,0.5434,4,True,0.8181,,,,0.0,85.301,57.2119,,,False,2026-11-03
+3894,a597d2b7-484b-4cfd-89a6-d166cb1a3420,Timberline Ridge,0.965,74.495,Liquid,0.5949,4,True,0.6001,,,,1.0,82.0089,62.4728,,,False,2026-11-03
+3895,9cb7f23f-322d-4a87-b6c6-15b9d446aef3,Champions of the Perfect,1.935,74.4869,Liquid,0.6507,4,True,0.3358,,,,0.0,75.7179,72.5173,,,False,2026-11-03
+3896,531e6ffb-28e0-4e8e-ad88-2f3a243789cf,"Lady Zhurong, Warrior Queen",109.08,74.4815,Liquid,0.3999,4,True,0.5925,0.1429,21.0,,0.0,98.0432,62.721,42.0588,,False,2026-11-03
 3897,cd1eda60-53e4-44d0-9b2c-7a57395e291f,Conjurer's Closet,4.465,74.4771,Liquid,0.663,4,True,0.2079,,,,0.0,74.483,74.4676,,,False,2026-11-03
 3898,36cd2364-d113-47d1-b2c4-b088d9eb88dd,Brainstorm,2.805,74.4768,Liquid,0.5992,4,True,0.452,,,,0.0,78.2012,68.5178,,,False,2026-11-03
 3899,e2998b41-0822-4e9c-b8b1-f47c400176e9,Walking Archive,3.025,74.4738,Liquid,0.6241,4,True,0.3997,,,,0.0,76.9066,70.5813,,,False,2026-11-03
@@ -4161,20 +4161,20 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 4160,6157ade6-9037-4339-869b-493fdee71dcf,Draco,4.065,73.6032,Liquid,0.663,4,True,0.3485,,,,0.0,74.483,72.1955,,,False,2026-11-03
 4161,38f5e6bf-18a3-4ff3-9726-a25a9715a2d9,Huntmaster Liger,0.325,73.6023,Liquid,0.5949,4,True,0.6688,,,,0.0,82.0089,60.1518,,,False,2026-11-03
 4162,4f95664f-6113-41e6-a99e-12bfc9d1710a,"Ratchet, Field Medic // Ratchet, Rescue Racer",2.93,73.5963,Liquid,0.6275,4,True,0.4349,,,,0.0,76.3339,69.216,,,False,2026-11-03
-4163,5ea4d1d7-219b-4842-99ea-291842baca0d,Zodiac Rat,26.87,73.587,Liquid,0.4999,4,True,0.4517,0.2,35.0,,0.0,87.7599,68.5222,51.5722,,False,2026-11-03
-4164,8cb36a67-9206-4665-a03f-64f52ba559c4,Into the Flood Maw,4.495,73.5815,Liquid,0.5992,4,True,0.507,,,,0.0,78.2012,66.19,,,False,2026-11-03
-4165,e1096a98-a631-43f5-97d8-325001d608b3,Quicksilver Amulet,3.31,73.5749,Liquid,0.6241,4,True,0.4598,,,,0.0,76.9066,68.2443,,,False,2026-11-03
-4166,8abff7b5-fe27-46bd-b951-b5d9f93f3a14,"Slash, Reptile Rampager",1.43,73.5733,Liquid,0.6507,4,True,0.4122,,,,0.0,75.7179,70.1419,,,False,2026-11-03
-4167,f8aa1893-60e5-439e-9316-872a9f6b6c94,Argothian Wurm,2.58,73.5726,Liquid,0.6656,4,True,0.3264,,,,1.0,74.065,72.7847,,,False,2026-11-03
-4168,4500131b-7417-4f30-a1b0-97d51b2e6458,Mass Hysteria,2.32,73.5683,Liquid,0.5991,4,True,0.5243,,,,0.0,78.6218,65.4826,,,False,2026-11-03
-4169,6c3847b6-9bfb-49b5-8f1a-bdb40e6900f1,"Lin Sivvi, Defiant Hero",2.225,73.567,Liquid,0.6275,4,True,0.4369,,,,0.0,76.3339,69.1398,,,False,2026-11-03
-4170,1e4146d2-cfa0-4f5e-9761-3c83519b90c3,Cave of the Frost Dragon,0.65,73.5667,Liquid,0.6962,4,True,0.1868,,,,0.0,72.8899,74.6495,,,False,2026-11-03
-4171,0b350f23-9150-40c7-8ac7-86adfdb8ba52,Pangosaur,0.59,73.5647,Liquid,0.5969,4,True,0.6227,,,,0.0,81.0183,61.6391,,,False,2026-11-03
-4172,35d458fb-dfdb-41e4-92e3-f0fd392e1c69,Masterwork of Ingenuity,1.61,73.5631,Liquid,0.6595,4,True,0.3682,,,,0.0,74.7924,71.5964,,,False,2026-11-03
-4173,58afb897-4d57-4b53-a5c3-b532cb3d5180,Golden Guardian // Gold-Forge Garrison,1.68,73.5592,Liquid,0.6586,4,True,0.3884,,,,0.0,75.1941,70.9434,,,False,2026-11-03
-4174,3db8466c-864f-48ba-b617-f2c863dfdcbd,Benevolent Offering,1.505,73.5566,Liquid,0.6507,4,True,0.4134,,,,0.0,75.7179,70.0986,,,False,2026-11-03
-4175,9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8,Dack Fayden,5.155,73.5555,Liquid,0.6661,4,True,0.3014,,,,0.0,73.7366,73.2656,,,False,2026-11-03
-4176,c75add5e-4e9d-4c68-a8ad-b878b1dbc0a4,One Ring to Rule Them All,1.42,73.5544,Liquid,0.6586,4,True,0.389,,,,0.0,75.1941,70.931,,,False,2026-11-03
+4163,8cb36a67-9206-4665-a03f-64f52ba559c4,Into the Flood Maw,4.495,73.5815,Liquid,0.5992,4,True,0.507,,,,0.0,78.2012,66.19,,,False,2026-11-03
+4164,e1096a98-a631-43f5-97d8-325001d608b3,Quicksilver Amulet,3.31,73.5749,Liquid,0.6241,4,True,0.4598,,,,0.0,76.9066,68.2443,,,False,2026-11-03
+4165,8abff7b5-fe27-46bd-b951-b5d9f93f3a14,"Slash, Reptile Rampager",1.43,73.5733,Liquid,0.6507,4,True,0.4122,,,,0.0,75.7179,70.1419,,,False,2026-11-03
+4166,f8aa1893-60e5-439e-9316-872a9f6b6c94,Argothian Wurm,2.58,73.5726,Liquid,0.6656,4,True,0.3264,,,,1.0,74.065,72.7847,,,False,2026-11-03
+4167,4500131b-7417-4f30-a1b0-97d51b2e6458,Mass Hysteria,2.32,73.5683,Liquid,0.5991,4,True,0.5243,,,,0.0,78.6218,65.4826,,,False,2026-11-03
+4168,6c3847b6-9bfb-49b5-8f1a-bdb40e6900f1,"Lin Sivvi, Defiant Hero",2.225,73.567,Liquid,0.6275,4,True,0.4369,,,,0.0,76.3339,69.1398,,,False,2026-11-03
+4169,1e4146d2-cfa0-4f5e-9761-3c83519b90c3,Cave of the Frost Dragon,0.65,73.5667,Liquid,0.6962,4,True,0.1868,,,,0.0,72.8899,74.6495,,,False,2026-11-03
+4170,0b350f23-9150-40c7-8ac7-86adfdb8ba52,Pangosaur,0.59,73.5647,Liquid,0.5969,4,True,0.6227,,,,0.0,81.0183,61.6391,,,False,2026-11-03
+4171,35d458fb-dfdb-41e4-92e3-f0fd392e1c69,Masterwork of Ingenuity,1.61,73.5631,Liquid,0.6595,4,True,0.3682,,,,0.0,74.7924,71.5964,,,False,2026-11-03
+4172,58afb897-4d57-4b53-a5c3-b532cb3d5180,Golden Guardian // Gold-Forge Garrison,1.68,73.5592,Liquid,0.6586,4,True,0.3884,,,,0.0,75.1941,70.9434,,,False,2026-11-03
+4173,3db8466c-864f-48ba-b617-f2c863dfdcbd,Benevolent Offering,1.505,73.5566,Liquid,0.6507,4,True,0.4134,,,,0.0,75.7179,70.0986,,,False,2026-11-03
+4174,9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8,Dack Fayden,5.155,73.5555,Liquid,0.6661,4,True,0.3014,,,,0.0,73.7366,73.2656,,,False,2026-11-03
+4175,c75add5e-4e9d-4c68-a8ad-b878b1dbc0a4,One Ring to Rule Them All,1.42,73.5544,Liquid,0.6586,4,True,0.389,,,,0.0,75.1941,70.931,,,False,2026-11-03
+4176,5ea4d1d7-219b-4842-99ea-291842baca0d,Zodiac Rat,26.87,73.5524,Liquid,0.4999,4,True,0.4517,0.2,35.0,,0.0,87.7599,68.5222,51.4253,,False,2026-11-03
 4177,e5818ab3-8c37-4063-9e9d-cbe4ae0bba14,Overlaid Terrain,0.715,73.5504,Liquid,0.5949,4,True,0.6762,,,,0.0,82.0089,60.0169,,,False,2026-11-03
 4178,7e3085d8-9d46-41e0-ad9d-54c44d9ef267,Freya Crescent,2.325,73.5394,Liquid,0.6586,4,True,0.3904,,,,0.0,75.1941,70.892,,,False,2026-11-03
 4179,539f5396-d99a-417d-a84c-dff7930b5900,Chromatic Lantern,6.855,73.5385,Liquid,0.6944,4,True,0.2775,,,,0.0,73.5005,73.5992,,,False,2026-11-03
@@ -4183,7 +4183,7 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 4182,d0375311-b0ea-4870-bc2c-4894da088dc3,Ellywick Tumblestrum,2.355,73.524,Liquid,0.5485,4,True,1.0397,,,,0.0,84.7093,55.6274,,,False,2026-11-03
 4183,1f7e85cf-afee-4041-9436-1fb69b4ec292,Noise Marine,1.555,73.5232,Liquid,0.6586,4,True,0.3918,,,,0.0,75.1941,70.8499,,,False,2026-11-03
 4184,14290772-ca17-4a55-86b2-7a638929b12d,Visions of Dominance,0.96,73.5207,Liquid,0.5978,4,True,0.568,,,,0.0,79.6613,63.6958,,,False,2026-11-03
-4185,e7eb7ac8-08ab-419b-8508-987afd0bb93b,Cunning Rhetoric,2.475,73.5204,Liquid,0.5991,4,True,0.5262,,1.0,,0.0,78.6218,65.3582,,,False,2026-11-03
+4185,e7eb7ac8-08ab-419b-8508-987afd0bb93b,Cunning Rhetoric,2.475,73.5204,Liquid,0.5991,4,True,0.5262,,,,0.0,78.6218,65.3582,,,False,2026-11-03
 4186,727f3201-1cfc-4ab2-9dfe-be4f7251f42f,Boggart Trawler // Boggart Bog,1.74,73.5163,Liquid,0.6275,4,True,0.4399,,,,0.0,76.3339,69.008,,,False,2026-11-03
 4187,7b7b3a34-13ff-45d4-ad0d-ac4bad9d0581,Soul Collector,0.47,73.5141,Liquid,0.596,4,True,0.6556,,,,0.0,81.5964,60.5826,,,False,2026-11-03
 4188,2e728381-6db0-4c66-883d-82d718fef833,My Precious // Allure of Power,2.3,73.5094,Liquid,0.6275,4,True,0.4406,,,,0.0,76.3339,68.9901,,,False,2026-11-03
@@ -4300,7 +4300,7 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 4299,2a2f2d6c-3937-4e4b-9e4a-3480e0c787d0,Ebony Fly,1.36,73.0654,Liquid,0.6386,4,True,0.4571,,,,0.0,76.0245,68.3309,,,False,2026-11-03
 4300,b76f123d-7b78-42a1-a66e-0dee6f773687,Synapse Sliver,5.185,73.0619,Liquid,0.5996,4,True,0.5079,,,,0.0,77.387,66.1418,,,False,2026-11-03
 4301,07fb2903-b239-43d0-864b-c4437b7a5230,Mirkwood Spider,0.89,73.0612,Liquid,0.598,4,True,0.5724,,,,0.0,79.0805,63.4302,,,False,2026-11-03
-4302,57276db8-9d8d-4587-ae88-dfdc44343f17,The Fire Crystal,7.795,73.061,Liquid,0.4996,4,True,0.3893,0.0455,44.0,,0.0,89.163,70.923,43.5294,,False,2026-11-03
+4302,57276db8-9d8d-4587-ae88-dfdc44343f17,The Fire Crystal,7.795,73.061,Liquid,0.4996,4,True,0.3893,0.0444,45.0,,0.0,89.163,70.923,43.5294,,False,2026-11-03
 4303,57b0205d-ad9d-45b7-8556-0733aa7a4987,Hanna's Custody,1.32,73.0569,Liquid,0.6507,4,True,0.445,,,,0.0,75.7179,68.7994,,,False,2026-11-03
 4304,49a7c053-81e9-47b7-af5c-c62cd0389ed4,Lethal Protection,1.365,73.0548,Liquid,0.6586,4,True,0.4253,,,,0.0,75.1941,69.6319,,,False,2026-11-03
 4305,10b8d4c7-7553-4d76-b643-d98b80701e13,Gingerbrute,0.3,73.0514,Liquid,0.5949,4,True,0.7299,,,,0.0,82.0089,58.7193,,,False,2026-11-03
@@ -5069,20 +5069,20 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 5068,cda1e3b5-ea80-4e83-b305-88993d307170,Wizards of Thay,1.76,70.2958,Liquid,0.739,4,True,0.401,,,,0.0,70.1433,70.5399,,,False,2026-11-03
 5069,73b3682f-396a-4ebe-aaac-6ce3ee36283a,Weatherlight,1.235,70.2954,Liquid,0.6656,4,True,0.5537,,,,0.0,74.065,64.2639,,,False,2026-11-03
 5070,df166d0e-f944-404d-83b9-8cf53e220774,Kavu Titan,1.47,70.2915,Liquid,0.5991,4,True,0.8326,,,,0.0,78.6218,56.9631,,,False,2026-11-03
-5071,55e21534-ec3e-46e1-8faf-59f0c3d48128,Veilstone Amulet,9.76,70.2909,Liquid,0.597,4,True,0.4921,0.2174,23.0,,0.0,80.5841,66.8461,54.0107,,False,2026-11-03
-5072,e510eaaf-6497-480f-baa8-f4796b5f1086,Whelming Wave,0.93,70.2872,Liquid,0.6507,4,True,0.6242,,,,0.0,75.7179,61.5982,,,False,2026-11-03
-5073,3c8d4999-e18b-48d8-8ed9-f2feaa38300d,Merciless Eviction,0.485,70.2859,Liquid,0.6962,4,True,0.5081,,,,0.0,72.8899,66.1195,,,False,2026-11-03
-5074,649e4969-71d4-434f-85b0-205ec2c6b24f,Collective Inferno,1.16,70.2847,Liquid,0.6595,4,True,0.5828,,,,0.0,74.7924,63.0725,,,False,2026-11-03
-5075,2cd10c6c-f946-457e-9175-92501322f7a5,"Minsc, Beloved Ranger",1.175,70.2815,Liquid,0.5991,4,True,0.8396,,,,0.0,78.6218,56.9371,,,False,2026-11-03
-5076,e86bd38f-7804-449d-af29-21e96a56ab30,Witch Hunt,0.655,70.2728,Liquid,0.6962,4,True,0.5096,,,,0.0,72.8899,66.0854,,,False,2026-11-03
-5077,caeb39ee-f0bb-4305-9e8b-b30ba0a74c78,"Arixmethes, Slumbering Isle",1.115,70.2634,Liquid,0.6507,4,True,0.6256,,,,0.0,75.7179,61.5363,,,False,2026-11-03
-5078,591ce7dc-8407-43ed-acfc-e3d8fd547125,Nomad Mythmaker,3.73,70.2598,Liquid,0.663,4,True,0.5709,,,,0.0,74.483,63.5027,,,False,2026-11-03
-5079,0e676904-17c3-40f2-9b5b-eb29cacc336f,Boxing Ring,0.565,70.2591,Liquid,0.598,4,True,0.9193,,,,0.0,79.0805,56.1449,,,False,2026-11-03
-5080,86b8a9ef-7cdf-47e9-accb-16fe1eab718f,Spellbound Dragon,0.395,70.2567,Liquid,0.6962,4,True,0.5109,,,,0.0,72.8899,66.0437,,,False,2026-11-03
-5081,6f6b8e14-c247-4dfd-8b39-38c7a5f2f354,"Chandra, Fire of Kaladesh // Chandra, Roaring Flame",1.77,70.2544,Liquid,0.6586,4,True,0.603,,,,0.0,75.1941,62.3508,,,False,2026-11-03
-5082,49d0fdd6-cc8f-4fe1-a6bd-4321dac18404,War Cadence,0.71,70.2537,Liquid,0.697,4,True,0.4722,,,,0.0,71.8694,67.6687,,,False,2026-11-03
-5083,b5cd9c55-34ad-4e1f-92b2-527c9babc4d4,Steel Golem,1.43,70.243,Liquid,0.6241,4,True,0.6926,,,,0.0,76.9066,59.5811,,,False,2026-11-03
-5084,514fdac0-95f4-4034-b891-283fe0fb6da6,Boom // Bust,1.08,70.2419,Liquid,0.7442,4,True,0.3383,,,,0.0,68.8596,72.4536,,,False,2026-11-03
+5071,e510eaaf-6497-480f-baa8-f4796b5f1086,Whelming Wave,0.93,70.2872,Liquid,0.6507,4,True,0.6242,,,,0.0,75.7179,61.5982,,,False,2026-11-03
+5072,3c8d4999-e18b-48d8-8ed9-f2feaa38300d,Merciless Eviction,0.485,70.2859,Liquid,0.6962,4,True,0.5081,,,,0.0,72.8899,66.1195,,,False,2026-11-03
+5073,649e4969-71d4-434f-85b0-205ec2c6b24f,Collective Inferno,1.16,70.2847,Liquid,0.6595,4,True,0.5828,,,,0.0,74.7924,63.0725,,,False,2026-11-03
+5074,2cd10c6c-f946-457e-9175-92501322f7a5,"Minsc, Beloved Ranger",1.175,70.2815,Liquid,0.5991,4,True,0.8396,,,,0.0,78.6218,56.9371,,,False,2026-11-03
+5075,e86bd38f-7804-449d-af29-21e96a56ab30,Witch Hunt,0.655,70.2728,Liquid,0.6962,4,True,0.5096,,,,0.0,72.8899,66.0854,,,False,2026-11-03
+5076,caeb39ee-f0bb-4305-9e8b-b30ba0a74c78,"Arixmethes, Slumbering Isle",1.115,70.2634,Liquid,0.6507,4,True,0.6256,,,,0.0,75.7179,61.5363,,,False,2026-11-03
+5077,591ce7dc-8407-43ed-acfc-e3d8fd547125,Nomad Mythmaker,3.73,70.2598,Liquid,0.663,4,True,0.5709,,,,0.0,74.483,63.5027,,,False,2026-11-03
+5078,0e676904-17c3-40f2-9b5b-eb29cacc336f,Boxing Ring,0.565,70.2591,Liquid,0.598,4,True,0.9193,,,,0.0,79.0805,56.1449,,,False,2026-11-03
+5079,86b8a9ef-7cdf-47e9-accb-16fe1eab718f,Spellbound Dragon,0.395,70.2567,Liquid,0.6962,4,True,0.5109,,,,0.0,72.8899,66.0437,,,False,2026-11-03
+5080,6f6b8e14-c247-4dfd-8b39-38c7a5f2f354,"Chandra, Fire of Kaladesh // Chandra, Roaring Flame",1.77,70.2544,Liquid,0.6586,4,True,0.603,,,,0.0,75.1941,62.3508,,,False,2026-11-03
+5081,49d0fdd6-cc8f-4fe1-a6bd-4321dac18404,War Cadence,0.71,70.2537,Liquid,0.697,4,True,0.4722,,,,0.0,71.8694,67.6687,,,False,2026-11-03
+5082,b5cd9c55-34ad-4e1f-92b2-527c9babc4d4,Steel Golem,1.43,70.243,Liquid,0.6241,4,True,0.6926,,,,0.0,76.9066,59.5811,,,False,2026-11-03
+5083,514fdac0-95f4-4034-b891-283fe0fb6da6,Boom // Bust,1.08,70.2419,Liquid,0.7442,4,True,0.3383,,,,0.0,68.8596,72.4536,,,False,2026-11-03
+5084,55e21534-ec3e-46e1-8faf-59f0c3d48128,Veilstone Amulet,9.76,70.2416,Liquid,0.597,4,True,0.4921,0.2174,23.0,,0.0,80.5841,66.8461,53.8009,,False,2026-11-03
 5085,88159872-d37d-4847-b048-e4a9af6437bd,Barad-dûr,6.455,70.2331,Liquid,0.7463,4,True,0.1006,,,,0.0,67.1959,75.0927,,,False,2026-11-03
 5086,cf5bd3a4-3899-4c25-ad1f-f1778c1d9c60,"Rona, Herald of Invasion // Rona, Tolarian Obliterator",1.36,70.2324,Liquid,0.738,4,True,0.4168,,,,0.0,70.4038,69.9581,,,False,2026-11-03
 5087,dc29cb25-57f5-4cac-9764-efa644b41296,Legions to Ashes,0.41,70.2316,Liquid,0.6962,4,True,0.5129,,,,0.0,72.8899,65.9784,,,False,2026-11-03
@@ -5167,8 +5167,8 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 5166,872ef617-7cdb-4a7a-85f5-efc9e12bece5,Elvish Piper,3.525,69.8974,Liquid,0.6994,4,True,0.4623,,,,0.0,71.0308,68.084,,,False,2026-11-03
 5167,358cfcf3-8ad0-4877-a59a-76ee269169fb,Plea for Guidance,0.675,69.8905,Liquid,0.697,4,True,0.4962,,,,0.0,71.8694,66.7242,,,False,2026-11-03
 5168,691ba449-40e1-4976-8dab-9b1741ea37b8,Pyre of Heroes,2.57,69.8802,Liquid,0.6661,4,True,0.5676,,,,0.0,73.7366,63.71,,,False,2026-11-03
-5169,c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb,Hostage Taker,0.455,69.8739,Liquid,0.6962,4,True,0.5346,,,,0.0,72.8899,65.0484,,,False,2026-11-03
-5170,7d079c78-b2a9-444f-ab54-c61c041baa6d,Selfless Squire,0.455,69.8739,Liquid,0.6962,4,True,0.5346,,,,0.0,72.8899,65.0484,,,False,2026-11-03
+5169,7d079c78-b2a9-444f-ab54-c61c041baa6d,Selfless Squire,0.455,69.8739,Liquid,0.6962,4,True,0.5346,,,,0.0,72.8899,65.0484,,,False,2026-11-03
+5170,c5c2d209-e3ef-4b0d-85f5-e7402dcf09eb,Hostage Taker,0.455,69.8739,Liquid,0.6962,4,True,0.5346,,,,0.0,72.8899,65.0484,,,False,2026-11-03
 5171,f25af42d-f1bf-4bd3-aded-ecadafdbf6e6,Do or Die,6.245,69.8643,Liquid,0.7219,4,True,0.4532,,,,0.0,70.7295,68.4801,,,False,2026-11-03
 5172,6a262f53-2eea-45d0-8189-9222d66f1b52,Shifting Sliver,1.205,69.8574,Liquid,0.7442,4,True,0.3722,,,,0.0,68.8596,71.454,,,False,2026-11-03
 5173,2317a33f-665e-4cbc-bb5c-16b912ac2eef,Angel of Condemnation,0.6,69.8552,Liquid,0.6962,4,True,0.5351,,,,0.0,72.8899,64.9998,,,False,2026-11-03
@@ -5317,28 +5317,28 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 5316,bf45f579-539c-4ffe-89df-4896a394158f,Hand to Hand,0.38,69.1631,Liquid,0.7391,4,True,0.4633,,,,0.0,69.8828,68.0115,,,False,2026-11-03
 5317,b2ac84e3-cc3c-49c6-918b-a407ef1ee06c,Valor,0.65,69.1563,Liquid,0.697,4,True,0.5411,,,,0.0,71.8694,64.8154,,,False,2026-11-03
 5318,5ece7d03-9ee7-4953-a06e-9d8e41874903,Scavenger Grounds,1.12,69.1545,Liquid,0.6275,4,True,0.7826,,,,0.0,76.3339,57.6674,,,False,2026-11-03
-5319,56edd306-8676-49c4-b3c3-5ff840536c3a,Termination Facilitator,1.83,69.1522,Liquid,0.7487,4,True,0.2813,0.5,2.0,,0.0,63.3095,73.5528,75.3369,,False,2026-11-03
-5320,aefea339-8a0d-4531-8a62-afaecc88d078,Scavenger's Talent,1.265,69.1377,Liquid,0.6656,4,True,0.6364,,,,0.0,74.065,61.2541,,,False,2026-11-03
-5321,ad73e5eb-197c-45a3-9d20-a406ba126c79,Spidersilk Armor,2.41,69.1373,Liquid,0.6994,4,True,0.5085,,,,0.0,71.0308,66.1077,,,False,2026-11-03
-5322,5eb8b497-ec9a-4a89-ad29-1ec3ca82da7c,Brushland,3.05,69.1301,Liquid,0.6507,4,True,0.734,,,,0.0,75.7179,58.5896,,,False,2026-11-03
-5323,b6801429-3995-4571-92f9-ef211675c5d5,Preeminent Captain,0.7,69.1286,Liquid,0.7468,4,True,0.298,,,,0.0,66.5093,73.3195,,,False,2026-11-03
-5324,dff11626-ad4d-443a-b7db-f508790b5fd2,Namor the Sub-Mariner,3.9,69.1273,Liquid,0.6994,4,True,0.5099,,,,0.0,71.0308,66.0817,,,False,2026-11-03
-5325,724d933c-6e5f-458c-9b39-83b4662693ea,Ecstatic Beauty,0.745,69.1007,Liquid,0.7468,4,True,0.3026,,,,0.0,66.5093,73.247,,,False,2026-11-03
-5326,6669a19e-7944-44c9-ac37-a92016783375,"Denethor, Stone Seer",0.455,69.1004,Liquid,0.6962,4,True,0.5848,,,,0.0,72.8899,63.0372,,,False,2026-11-03
-5327,ccdf3399-b836-47ab-802d-af5a9c24d759,Draugr Necromancer,0.55,69.0902,Liquid,0.7391,4,True,0.4684,,,,0.0,69.8828,67.8222,,,False,2026-11-03
-5328,a46bfaf5-e631-4603-850a-f0074395b2f5,The Stasis Coffin,0.7,69.0871,Liquid,0.7442,4,True,0.4294,,,,0.0,68.8596,69.4512,,,False,2026-11-03
-5329,d12b4b66-9453-4494-9547-c737f48277ed,Rain of Gore,5.515,69.0688,Liquid,0.7219,4,True,0.5021,,,,0.0,70.7295,66.4116,,,False,2026-11-03
-5330,e554646f-27c0-49b3-a92c-2191e87d87b7,Sunstrike Legionnaire,0.935,69.0623,Liquid,0.745,4,True,0.3921,,,,0.0,67.9477,70.8456,,,False,2026-11-03
-5331,1e03aad2-6426-4d18-a0e5-bc3d8e6b7b11,Preposterous Proportions,1.095,69.054,Liquid,0.738,4,True,0.4912,,,,0.0,70.4038,66.8944,,,False,2026-11-03
-5332,4b5d9c76-8be8-4e25-b978-9750df3d8c15,Forbidden Ritual,1.295,69.0532,Liquid,0.745,4,True,0.3933,,,,1.0,67.9477,70.8221,,,False,2026-11-03
-5333,161b6d06-e6a7-488e-9f9c-d266c1402a3a,Mystic Snake,1.135,69.05,Liquid,0.7442,4,True,0.4316,,,,0.0,68.8596,69.3546,,,False,2026-11-03
-5334,93695c16-c441-492d-af12-b57df9739846,Detection Tower,2.385,69.0299,Liquid,0.6994,4,True,0.5164,,,,0.0,71.0308,65.8286,,,False,2026-11-03
-5335,c68faebc-b2cd-461b-b93e-e1fcd4816810,Midnight Clock,0.42,69.0296,Liquid,0.697,4,True,0.5479,,,,0.0,71.8694,64.4858,,,False,2026-11-03
-5336,e4bd8910-770b-4220-8a26-2673491f4a3e,Priest of Urabrask,0.6,69.0244,Liquid,0.7458,4,True,0.3675,,,,0.0,67.4076,71.6112,,,False,2026-11-03
-5337,47a0079f-3544-45bc-a32a-bd93844c8c43,"Endrek Sahr, Master Breeder",2.49,69.0135,Liquid,0.6656,4,True,0.6449,,,,0.0,74.065,60.931,,,False,2026-11-03
-5338,631eb3e9-a3e0-4341-ad2d-e79142ce537d,Loch Mare,0.96,69.011,Liquid,0.7475,4,True,0.0619,,,,0.0,65.1631,75.1676,,,False,2026-11-03
-5339,aed1f0cd-8df8-415f-afd6-ccfd12234334,The Rollercrusher Ride,0.845,69.0106,Liquid,0.745,4,True,0.3956,,,,0.0,67.9477,70.7113,,,False,2026-11-03
-5340,45d49831-548a-4a0e-9a18-9f7397913895,"Tovolar, Dire Overlord // Tovolar, the Midnight Scourge",1.335,69.0102,Liquid,0.697,4,True,0.5483,,,,0.0,71.8694,64.4354,,,False,2026-11-03
+5319,aefea339-8a0d-4531-8a62-afaecc88d078,Scavenger's Talent,1.265,69.1377,Liquid,0.6656,4,True,0.6364,,,,0.0,74.065,61.2541,,,False,2026-11-03
+5320,ad73e5eb-197c-45a3-9d20-a406ba126c79,Spidersilk Armor,2.41,69.1373,Liquid,0.6994,4,True,0.5085,,,,0.0,71.0308,66.1077,,,False,2026-11-03
+5321,5eb8b497-ec9a-4a89-ad29-1ec3ca82da7c,Brushland,3.05,69.1301,Liquid,0.6507,4,True,0.734,,,,0.0,75.7179,58.5896,,,False,2026-11-03
+5322,b6801429-3995-4571-92f9-ef211675c5d5,Preeminent Captain,0.7,69.1286,Liquid,0.7468,4,True,0.298,,,,0.0,66.5093,73.3195,,,False,2026-11-03
+5323,dff11626-ad4d-443a-b7db-f508790b5fd2,Namor the Sub-Mariner,3.9,69.1273,Liquid,0.6994,4,True,0.5099,,,,0.0,71.0308,66.0817,,,False,2026-11-03
+5324,724d933c-6e5f-458c-9b39-83b4662693ea,Ecstatic Beauty,0.745,69.1007,Liquid,0.7468,4,True,0.3026,,,,0.0,66.5093,73.247,,,False,2026-11-03
+5325,6669a19e-7944-44c9-ac37-a92016783375,"Denethor, Stone Seer",0.455,69.1004,Liquid,0.6962,4,True,0.5848,,,,0.0,72.8899,63.0372,,,False,2026-11-03
+5326,ccdf3399-b836-47ab-802d-af5a9c24d759,Draugr Necromancer,0.55,69.0902,Liquid,0.7391,4,True,0.4684,,,,0.0,69.8828,67.8222,,,False,2026-11-03
+5327,a46bfaf5-e631-4603-850a-f0074395b2f5,The Stasis Coffin,0.7,69.0871,Liquid,0.7442,4,True,0.4294,,,,0.0,68.8596,69.4512,,,False,2026-11-03
+5328,d12b4b66-9453-4494-9547-c737f48277ed,Rain of Gore,5.515,69.0688,Liquid,0.7219,4,True,0.5021,,,,0.0,70.7295,66.4116,,,False,2026-11-03
+5329,e554646f-27c0-49b3-a92c-2191e87d87b7,Sunstrike Legionnaire,0.935,69.0623,Liquid,0.745,4,True,0.3921,,,,0.0,67.9477,70.8456,,,False,2026-11-03
+5330,1e03aad2-6426-4d18-a0e5-bc3d8e6b7b11,Preposterous Proportions,1.095,69.054,Liquid,0.738,4,True,0.4912,,,,0.0,70.4038,66.8944,,,False,2026-11-03
+5331,4b5d9c76-8be8-4e25-b978-9750df3d8c15,Forbidden Ritual,1.295,69.0532,Liquid,0.745,4,True,0.3933,,,,1.0,67.9477,70.8221,,,False,2026-11-03
+5332,161b6d06-e6a7-488e-9f9c-d266c1402a3a,Mystic Snake,1.135,69.05,Liquid,0.7442,4,True,0.4316,,,,0.0,68.8596,69.3546,,,False,2026-11-03
+5333,93695c16-c441-492d-af12-b57df9739846,Detection Tower,2.385,69.0299,Liquid,0.6994,4,True,0.5164,,,,0.0,71.0308,65.8286,,,False,2026-11-03
+5334,c68faebc-b2cd-461b-b93e-e1fcd4816810,Midnight Clock,0.42,69.0296,Liquid,0.697,4,True,0.5479,,,,0.0,71.8694,64.4858,,,False,2026-11-03
+5335,e4bd8910-770b-4220-8a26-2673491f4a3e,Priest of Urabrask,0.6,69.0244,Liquid,0.7458,4,True,0.3675,,,,0.0,67.4076,71.6112,,,False,2026-11-03
+5336,47a0079f-3544-45bc-a32a-bd93844c8c43,"Endrek Sahr, Master Breeder",2.49,69.0135,Liquid,0.6656,4,True,0.6449,,,,0.0,74.065,60.931,,,False,2026-11-03
+5337,631eb3e9-a3e0-4341-ad2d-e79142ce537d,Loch Mare,0.96,69.011,Liquid,0.7475,4,True,0.0619,,,,0.0,65.1631,75.1676,,,False,2026-11-03
+5338,aed1f0cd-8df8-415f-afd6-ccfd12234334,The Rollercrusher Ride,0.845,69.0106,Liquid,0.745,4,True,0.3956,,,,0.0,67.9477,70.7113,,,False,2026-11-03
+5339,45d49831-548a-4a0e-9a18-9f7397913895,"Tovolar, Dire Overlord // Tovolar, the Midnight Scourge",1.335,69.0102,Liquid,0.697,4,True,0.5483,,,,0.0,71.8694,64.4354,,,False,2026-11-03
+5340,56edd306-8676-49c4-b3c3-5ff840536c3a,Termination Facilitator,1.83,69.009,Liquid,0.7487,4,True,0.2813,0.5,2.0,,0.0,63.3095,73.5528,74.7285,,False,2026-11-03
 5341,740fe41a-16bb-4c97-a03c-f678f15a0a0c,Wizard's Spellbook,0.42,69.009,Liquid,0.697,4,True,0.5485,,,,0.0,71.8694,64.4323,,,False,2026-11-03
 5342,dc5dd7f7-375e-4d51-85cb-1abf16ca3854,Emptiness,1.255,69.0041,Liquid,0.6241,4,True,0.8887,,,,0.0,76.9066,56.3602,,,False,2026-11-03
 5343,ec19a9bc-6fc1-4150-976b-37a47b165016,Sandstorm Salvager,1.075,68.9991,Liquid,0.6586,4,True,0.7123,,,,0.0,75.1941,59.0872,,,False,2026-11-03
@@ -6145,8 +6145,8 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 6144,764121bf-535d-40d0-ab9d-65486da31734,"Jaxis, the Troublemaker",2.115,66.1487,Liquid,0.6993,4,True,0.7736,,,,0.0,71.2886,57.9249,,,False,2026-11-03
 6145,a05d478c-a703-4fc4-9496-2894a6acdaef,Dream Salvage,0.4,66.1343,Liquid,0.7949,4,True,0.2897,,,,0.0,61.5671,73.442,,,False,2026-11-03
 6146,7fb63d9a-8d90-4b43-8390-924de2d7e32c,Shattergang Brothers,6.795,66.1331,Liquid,0.7843,4,True,0.3051,,,,0.0,61.7109,73.2087,,,False,2026-11-03
-6147,0a5e3748-2e58-4e53-9653-8af4e21cf223,Ogre Slumlord,0.32,66.1318,Liquid,0.697,4,True,0.8363,,,,0.0,71.8694,56.9516,,,False,2026-11-03
-6148,543599e2-8312-43a6-ab26-0be17e690d4f,Overblaze,0.32,66.1318,Liquid,0.697,4,True,0.8363,,,,0.0,71.8694,56.9516,,,False,2026-11-03
+6147,543599e2-8312-43a6-ab26-0be17e690d4f,Overblaze,0.32,66.1318,Liquid,0.697,4,True,0.8363,,,,0.0,71.8694,56.9516,,,False,2026-11-03
+6148,0a5e3748-2e58-4e53-9653-8af4e21cf223,Ogre Slumlord,0.32,66.1318,Liquid,0.697,4,True,0.8363,,,,0.0,71.8694,56.9516,,,False,2026-11-03
 6149,eef50ef8-958b-4f5c-b261-16926d9fe672,Plague Reaver,0.32,66.1312,Liquid,0.697,4,True,0.8369,,,,0.0,71.8694,56.9501,,,False,2026-11-03
 6150,511d3de9-076b-4811-bddf-00623f98993f,Auroral Procession,0.32,66.1295,Liquid,0.697,4,True,0.8379,,,,0.0,71.8694,56.9458,,,False,2026-11-03
 6151,8d571129-9030-47e0-9624-a49fb63e5a1b,"Ilharg, the Raze-Boar",6.405,66.1185,Liquid,0.7497,4,True,0.327,,,,0.0,61.9633,72.7668,,,False,2026-11-03
@@ -6943,8 +6943,8 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 6942,1d8bd391-b133-4c8b-95ad-7f7ab99137c7,Immortal Phoenix,0.32,63.7724,Liquid,0.7442,4,True,1.0305,,,,0.0,68.8596,55.633,,,False,2026-11-03
 6943,04fbb7aa-0dd4-4ac6-837d-822227fb6356,Faerie Guidemother // Gift of the Fae,0.205,63.7704,Liquid,0.7458,4,True,0.7688,,,,0.0,67.4076,57.9509,,,False,2026-11-03
 6944,e5345c28-7046-4ff3-a5d6-eeb7a0fb230b,Flickerform,0.94,63.7676,Liquid,0.7987,4,True,0.4402,,,,0.0,60.495,69.0037,,,False,2026-11-03
-6945,69e12b1f-0fd9-43a9-b3db-fe08290442c6,Invert Polarity,0.555,63.7598,Liquid,0.745,4,True,0.828,,,,0.0,67.9477,57.0593,,,False,2026-11-03
-6946,b3ae1481-9fa7-45dd-bbf5-de2d815c4227,Norwood Warrior,0.555,63.7598,Liquid,0.745,4,True,0.828,,,,0.0,67.9477,57.0593,,,False,2026-11-03
+6945,b3ae1481-9fa7-45dd-bbf5-de2d815c4227,Norwood Warrior,0.555,63.7598,Liquid,0.745,4,True,0.828,,,,0.0,67.9477,57.0593,,,False,2026-11-03
+6946,69e12b1f-0fd9-43a9-b3db-fe08290442c6,Invert Polarity,0.555,63.7598,Liquid,0.745,4,True,0.828,,,,0.0,67.9477,57.0593,,,False,2026-11-03
 6947,96381388-1e82-411c-8290-1f3e909d3b5f,Reins of Power,2.795,63.7568,Liquid,0.7996,4,True,0.3859,,,,0.0,59.2222,71.0121,,,False,2026-11-03
 6948,3cbed112-9f2b-46b4-a9c3-bfd8a6856f79,Printlifter Ooze,0.55,63.7563,Liquid,0.7475,4,True,0.6266,,,,0.0,65.1631,61.5054,,,False,2026-11-03
 6949,75d9c036-4f0d-4b55-b0a4-096ca84748ca,Sorin's Vengeance,0.985,63.7551,Liquid,0.7475,4,True,0.6272,,,,0.0,65.1631,61.5023,,,False,2026-11-03
@@ -9384,8 +9384,8 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 9383,60fa9f5f-2360-4d5e-b291-1318803e3c9f,Mordor on the March,0.44,55.6946,Liquid,0.898,4,True,0.2648,,,,0.0,44.3902,73.7818,,,False,2026-11-03
 9384,d02befcb-3e2c-4cfe-a913-9bb648e5bb2c,Aquitect's Will,0.3,55.6921,Liquid,0.8974,4,True,0.3891,,,,0.0,46.1705,70.9267,,,False,2026-11-03
 9385,e29be33c-e5b0-428d-a057-b1cd61127557,Cavalcade of Calamity,0.265,55.6901,Liquid,0.8644,4,True,0.6201,,,,0.0,51.9188,61.7242,,,False,2026-11-03
-9386,f5c5f64c-6911-430c-a825-b32b96d39c7d,Beetleback Chief,0.35,55.6882,Liquid,0.898,4,True,0.2659,,,,0.0,44.3902,73.7651,,,False,2026-11-03
-9387,580996d4-db9a-4b57-a0e1-a2dbb524121a,Razorlash Transmogrant,0.35,55.6882,Liquid,0.898,4,True,0.2659,,,,0.0,44.3902,73.7651,,,False,2026-11-03
+9386,580996d4-db9a-4b57-a0e1-a2dbb524121a,Razorlash Transmogrant,0.35,55.6882,Liquid,0.898,4,True,0.2659,,,,0.0,44.3902,73.7651,,,False,2026-11-03
+9387,f5c5f64c-6911-430c-a825-b32b96d39c7d,Beetleback Chief,0.35,55.6882,Liquid,0.898,4,True,0.2659,,,,0.0,44.3902,73.7651,,,False,2026-11-03
 9388,f4629329-a79b-4460-a1bc-9ae0f59adf5a,"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",1.105,55.6835,Liquid,0.8682,4,True,0.5745,,,,0.0,50.8658,63.3919,,,False,2026-11-03
 9389,f1c05ba3-7225-4d29-96aa-9d9c0b54de53,Pulse of the Forge,0.415,55.6831,Liquid,0.8776,4,True,0.4473,,,,0.0,47.5574,68.6843,,,False,2026-11-03
 9390,add60aad-2532-4f59-bfb9-f0168c2adda6,Cosmic Rebirth,0.255,55.6807,Liquid,0.8974,4,True,0.3902,,,,0.0,46.1705,70.897,,,False,2026-11-03
@@ -9400,20 +9400,20 @@ liquidity_rank,oracle_id,name,price,liquidity_score,bucket,spread_pct,n_provider
 9399,71a60247-17e5-44bd-9fed-f7d550b09ef3,Triton Shorestalker,0.355,55.6558,Liquid,0.898,4,True,0.2716,,,,0.0,44.3902,73.6809,,,False,2026-11-03
 9400,cd16634e-b894-4cff-9d5b-408932863c1f,Noxious Vapors,0.245,55.655,Liquid,0.8974,4,True,0.3927,,,,0.0,46.1705,70.8301,,,False,2026-11-03
 9401,8fe7436b-2467-486e-8a2d-7cbf21a65da9,Consign // Oblivion,0.245,55.655,Liquid,0.8974,4,True,0.3927,,,,0.0,46.1705,70.8301,,,False,2026-11-03
-9402,5c58353a-fd60-4528-bf0d-669626cda0b2,"Ugin, Eye of the Storms",39.955,55.6547,Liquid,,4,False,0.2531,0.3784,37.0,,0.0,,43.9303,70.3102,,True,2026-11-03
-9403,d1678eed-a335-454c-9fa1-749317500a36,Dregscape Sliver,0.27,55.6524,Liquid,0.8974,4,True,0.3931,,,,0.0,46.1705,70.8233,,,False,2026-11-03
-9404,35d07ac9-b184-4b5f-8192-34b1db042f69,Timber Wolves,0.805,55.6518,Liquid,0.8682,4,True,0.5771,,,,0.0,50.8658,63.3096,,,False,2026-11-03
-9405,ca66920a-c650-411f-8892-dd5f96fe394d,Dumb Ass,0.26,55.6493,Liquid,0.8776,4,True,0.4497,,,,0.0,47.5574,68.5964,,,False,2026-11-03
-9406,2f47661e-a107-4d98-8773-0a068a63df49,Ajani's Mantra,0.305,55.6479,Liquid,0.8776,4,True,0.4498,,,,0.0,47.5574,68.5927,,,False,2026-11-03
-9407,23be5c68-6530-474d-b677-551da4745b3c,Assassin Initiate,0.255,55.6442,Liquid,0.8644,4,True,0.624,,,,0.0,51.9188,61.6047,,,False,2026-11-03
-9408,86ed6073-c35c-4d29-9911-5fe191dd875f,The Biblioplex,0.35,55.6404,Liquid,0.898,4,True,0.275,,,,0.0,44.3902,73.6407,,,False,2026-11-03
-9409,1cb42cf5-ae69-46c5-b2ff-d2c1cd60099b,Myojin of Towering Might,0.435,55.6325,Liquid,0.898,4,True,0.2762,,,,0.0,44.3902,73.6203,,,False,2026-11-03
-9410,c1ebe189-db71-47cd-a763-8cb8c305383a,Rejuvenation Chamber,0.47,55.6298,Liquid,0.8485,4,True,0.7144,,,,0.0,53.5011,59.0359,,,False,2026-11-03
-9411,dee99df5-628f-4a4e-a203-4dfddc927373,Vivid Meadow,0.295,55.6298,Liquid,0.8776,4,True,0.4509,,,,0.0,47.5574,68.5457,,,False,2026-11-03
-9412,e22bb590-9c9a-4a99-8cd7-1dbe742f4cdd,Brotherhood Scribe,0.395,55.6291,Liquid,0.8485,4,True,0.715,,,,0.0,53.5011,59.034,,,False,2026-11-03
-9413,9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5,Reassembling Skeleton,0.22,55.6269,Liquid,0.8857,4,True,0.4305,,,,0.0,47.0146,69.4066,,,False,2026-11-03
-9414,3bcb7436-f7d9-4bb0-81be-7a3db9d8329f,Choking Sands,0.36,55.6218,Liquid,0.898,4,True,0.2783,,,,0.0,44.3902,73.5924,,,False,2026-11-03
-9415,d0783be9-e518-431a-8e71-121610da50e1,Clear,0.425,55.6184,Liquid,0.8776,4,True,0.4521,,,,0.0,47.5574,68.516,,,False,2026-11-03
+9402,d1678eed-a335-454c-9fa1-749317500a36,Dregscape Sliver,0.27,55.6524,Liquid,0.8974,4,True,0.3931,,,,0.0,46.1705,70.8233,,,False,2026-11-03
+9403,35d07ac9-b184-4b5f-8192-34b1db042f69,Timber Wolves,0.805,55.6518,Liquid,0.8682,4,True,0.5771,,,,0.0,50.8658,63.3096,,,False,2026-11-03
+9404,ca66920a-c650-411f-8892-dd5f96fe394d,Dumb Ass,0.26,55.6493,Liquid,0.8776,4,True,0.4497,,,,0.0,47.5574,68.5964,,,False,2026-11-03
+9405,2f47661e-a107-4d98-8773-0a068a63df49,Ajani's Mantra,0.305,55.6479,Liquid,0.8776,4,True,0.4498,,,,0.0,47.5574,68.5927,,,False,2026-11-03
+9406,23be5c68-6530-474d-b677-551da4745b3c,Assassin Initiate,0.255,55.6442,Liquid,0.8644,4,True,0.624,,,,0.0,51.9188,61.6047,,,False,2026-11-03
+9407,86ed6073-c35c-4d29-9911-5fe191dd875f,The Biblioplex,0.35,55.6404,Liquid,0.898,4,True,0.275,,,,0.0,44.3902,73.6407,,,False,2026-11-03
+9408,1cb42cf5-ae69-46c5-b2ff-d2c1cd60099b,Myojin of Towering Might,0.435,55.6325,Liquid,0.898,4,True,0.2762,,,,0.0,44.3902,73.6203,,,False,2026-11-03
+9409,c1ebe189-db71-47cd-a763-8cb8c305383a,Rejuvenation Chamber,0.47,55.6298,Liquid,0.8485,4,True,0.7144,,,,0.0,53.5011,59.0359,,,False,2026-11-03
+9410,dee99df5-628f-4a4e-a203-4dfddc927373,Vivid Meadow,0.295,55.6298,Liquid,0.8776,4,True,0.4509,,,,0.0,47.5574,68.5457,,,False,2026-11-03
+9411,e22bb590-9c9a-4a99-8cd7-1dbe742f4cdd,Brotherhood Scribe,0.395,55.6291,Liquid,0.8485,4,True,0.715,,,,0.0,53.5011,59.034,,,False,2026-11-03
+9412,9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5,Reassembling Skeleton,0.22,55.6269,Liquid,0.8857,4,True,0.4305,,,,0.0,47.0146,69.4066,,,False,2026-11-03
+9413,3bcb7436-f7d9-4bb0-81be-7a3db9d8329f,Choking Sands,0.36,55.6218,Liquid,0.898,4,True,0.2783,,,,0.0,44.3902,73.5924,,,False,2026-11-03
+9414,d0783be9-e518-431a-8e71-121610da50e1,Clear,0.425,55.6184,Liquid,0.8776,4,True,0.4521,,,,0.0,47.5574,68.516,,,False,2026-11-03
+9415,5c58353a-fd60-4528-bf0d-669626cda0b2,"Ugin, Eye of the Storms",39.955,55.6174,Liquid,,4,False,0.2531,0.3784,37.0,,0.0,,43.9303,70.2262,,True,2026-11-03
 9416,d5a33091-a348-4b13-8dbd-79ab0ad99afe,Demon's Disciple,0.315,55.6146,Liquid,0.8776,4,True,0.4523,,,,0.0,47.5574,68.5061,,,False,2026-11-03
 9417,f98f1f71-99ec-4ffb-9d8e-acbab173f972,Tsabo Tavoc,1.01,55.6109,Liquid,0.8725,4,True,0.4822,,,,0.0,48.3417,67.2416,,,False,2026-11-03
 9418,e66e3450-bddb-46ac-bc7e-c7732e258374,Starlit Angel,0.515,55.6081,Liquid,0.8974,4,True,0.3958,,,,0.0,46.1705,70.7082,,,False,2026-11-03
